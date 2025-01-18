@@ -1,0 +1,9538 @@
+Sentence_ID;Word;Label
+1;Navigate;ACTION
+1;to;O
+1;Room 282;LOCATION
+1;with;O
+1;Aspirin.;O
+2;Take;ACTION
+2;Ibuprofen;MEDICINE
+2;to;O
+2;Room 143.;LOCATION
+3;Navigate;ACTION
+3;to;O
+3;doctors room;LOCATION
+3;with;O
+3;Tylenol.;O
+4;Proceed;ACTION
+4;to;O
+4;nurse station;LOCATION
+4;with;O
+4;Penicillin.;O
+5;Navigate;ACTION
+5;to;O
+5;doctors room;LOCATION
+5;with;O
+5;Cough;O
+5;Syrup.;O
+6;Bring;ACTION
+6;Ibuprofen;MEDICINE
+6;to;O
+6;Room 339.;LOCATION
+7;Deliver;ACTION
+7;Penicillin;MEDICINE
+7;to;O
+7;Room 164.;LOCATION
+8;Head towards;ACTION
+8;to;O
+8;Room 357;LOCATION
+8;with;O
+8;Aspirin.;O
+9;head;O
+9;Take;ACTION
+9;towards;O
+9;Penicillin;MEDICINE
+9;to;O
+9;Room 351.;LOCATION
+10;Go;ACTION
+10;to;O
+10;Room 174;LOCATION
+10;with;O
+10;Penicillin.;O
+11;Take;ACTION
+11;Ibuprofen;MEDICINE
+11;to;O
+11;ICU.;O
+12;Go;ACTION
+12;to;O
+12;nurse station;LOCATION
+12;with;O
+12;Antibiotics.;O
+13;Move;ACTION
+13;to;O
+13;nurse station;LOCATION
+13;with;O
+13;Aspirin.;O
+14;Proceed;ACTION
+14;to;O
+14;ICU;LOCATION
+14;with;O
+14;Paracetamol.;O
+15;Deliver;ACTION
+15;Tylenol;MEDICINE
+15;to;O
+15;doctors_room.;O
+16;room.;O
+16;to;O
+16;doctors;O
+16;Antibiotics;MEDICINE
+16;Bring;ACTION
+17;Go;ACTION
+17;to;O
+17;doctors room;LOCATION
+17;with;O
+17;Ibuprofen.;O
+18;head;O
+18;Go;ACTION
+18;to;O
+18;ICU;LOCATION
+18;towards;O
+18;with;O
+18;Aspirin.;O
+19;Deliver;ACTION
+19;Aspirin;MEDICINE
+19;to;O
+19;Room 135.;LOCATION
+20;Bring;ACTION
+20;Penicillin;MEDICINE
+20;to;O
+20;doctors_room.;O
+21;Deliver;ACTION
+21;Penicillin;MEDICINE
+21;to;O
+21;Room 545.;LOCATION
+22;Navigate;ACTION
+22;to;O
+22;Room 565;LOCATION
+22;with;O
+22;Cough;O
+22;Syrup.;O
+23;Navigate;ACTION
+23;to;O
+23;emergency room;LOCATION
+23;with;O
+23;Cough;O
+23;Syrup.;O
+24;Move;ACTION
+24;to;O
+24;ICU;LOCATION
+24;with;O
+24;Antibiotics.;O
+25;Move;ACTION
+25;to;O
+25;RECEPTION;LOCATION
+25;with;O
+25;Ibuprofen.;O
+26;Transport;ACTION
+26;Cough;O
+26;Syrup;O
+26;to;O
+26;Room 243.;LOCATION
+27;Take;ACTION
+27;to;O
+27;reception.;O
+27;Ibuprofen;MEDICINE
+28;towards;O
+28;Head;O
+28;with;O
+28;Room 442;LOCATION
+28;Antibiotics.;O
+28;to;O
+29;Proceed;ACTION
+29;to;O
+29;Room 570;LOCATION
+29;with;O
+29;Ibuprofen.;O
+30;Take;ACTION
+30;Antibiotics;MEDICINE
+30;to;O
+30;reception.;O
+31;Deliver;ACTION
+31;Cough;O
+31;Syrup;O
+31;to;O
+31;Room 469.;LOCATION
+32;Head towards;ACTION
+32;to;O
+32;Room 377;LOCATION
+32;with;O
+32;Cough;O
+32;Syrup.;O
+33;Take;ACTION
+33;Cough;O
+33;Syrup;O
+33;tko;O
+33;nurse_station.;O
+34;Move;ACTION
+34;to;O
+34;Room 332;LOCATION
+34;with;O
+34;Cough;O
+34;Syrup.;O
+35;Navigate;ACTION
+35;to;O
+35;ICU;LOCATION
+35;with;O
+35;Cough;O
+35;Syrup.;O
+36;Take;ACTION
+36;Antibiotics;MEDICINE
+36;to;O
+36;Room 493.;LOCATION
+37;Proceed;ACTION
+37;to;O
+37;nurse station;LOCATION
+37;with;O
+37;Aspirin.;O
+38;Go;ACTION
+38;to;O
+38;nurse station;LOCATION
+38;with;O
+38;Antibiotics.;O
+39;Deliver;ACTION
+39;Paracc;O
+39;to;O
+39;Room 535.;LOCATION
+40;Transport;ACTION
+40;Cough;O
+40;Syrup;O
+40;to;O
+40;doctors_room.;O
+41;Head towards;ACTION
+41;to;O
+41;Room 383;LOCATION
+41;with;O
+41;Paracetamol.;O
+42;Take;ACTION
+42;Aspirin;MEDICINE
+42;to;O
+42;reception.;O
+43;Transport;ACTION
+43;Tylenol;MEDICINE
+43;to;O
+43;nurse_station.;O
+44;Deliver;ACTION
+44;Aspirin;MEDICINE
+44;to;O
+44;Room 462.;LOCATION
+45;Deliver;ACTION
+45;Ibuprofen;MEDICINE
+45;to;O
+45;Room 387.;LOCATION
+46;Head towards;ACTION
+46;to;O
+46;ICU;LOCATION
+46;with;O
+46;Aspirin.;O
+47;Go;ACTION
+47;to;O
+47;emergency room;LOCATION
+47;with;O
+47;Tylenol.;O
+48;Send;ACTION
+48;Tylenol;MEDICINE
+48;to;O
+48;Room 366.;LOCATION
+49;emergency room;LOCATION
+49;Transport;ACTION
+49;Ibuprofen;MEDICINE
+49;to;O
+49;nurse_station.;O
+50;Go;ACTION
+50;to;O
+50;Room 536;LOCATION
+50;with;O
+50;Tylenol.;O
+51;Transport;ACTION
+51;Ibuprofen;MEDICINE
+51;to;O
+51;emergency_room.;O
+51;towards;O
+51;head;O
+52;Bring;ACTION
+52;Aspirin;MEDICINE
+52;to;O
+52;Room 377.;LOCATION
+53;Head towards;ACTION
+53;to;O
+53;nation;O
+53;reception;LOCATION
+53;with;O
+53;Antibiotics.;O
+54;Send;ACTION
+54;Ibuprofen;MEDICINE
+54;to;O
+54;Room 307.;LOCATION
+55;Bring;ACTION
+55;Cough;O
+55;Syrup;O
+55;to;O
+55;Room 258.;LOCATION
+56;Head towards;ACTION
+56;to;O
+56;emergency room;LOCATION
+56;with;O
+56;Ibuprofen.;O
+57;Deliver;ACTION
+57;Ibuprofen;MEDICINE
+57;to;O
+57;doctors_room.;O
+58;Take;ACTION
+58;Paracetamolxtamol;O
+58;to;O
+58;reception.;O
+59;Send;ACTION
+59;Penicillin;MEDICINE
+59;to;O
+59;Room 492.;LOCATION
+60;Proceed;ACTION
+60;class;O
+60;to;O
+60;Room 130;LOCATION
+60;with;O
+60;Cough;O
+60;Syrup.;O
+61;Send;ACTION
+61;Cough;O
+61;Syrup;O
+61;to;O
+61;Room 138.;LOCATION
+62;Deliver;ACTION
+62;Tylenol;MEDICINE
+62;to;O
+62;Room 266.;LOCATION
+63;Take;ACTION
+63;Cough;O
+63;Syrup;O
+63;to;O
+63;doctors_room.;O
+64;Send;ACTION
+64;Antibiotics;MEDICINE
+64;to;O
+64;Room 224.;LOCATION
+65;Send;ACTION
+65;Tylenol;MEDICINE
+65;to;O
+65;Room 590.;LOCATION
+66;Proceed;ACTION
+66;to;O
+66;Room 428;LOCATION
+66;with;O
+66;Ibuprofen.;O
+67;Deliver;ACTION
+67;Aspirin;MEDICINE
+67;to;O
+67;towards;O
+67;emergency_room.;O
+67;head;O
+68;Deliver;ACTION
+68;Tylenol;MEDICINE
+68;to;O
+68;doctors_room.;O
+69;Go;ACTION
+69;with;O
+69;to;O
+69;Room 431;LOCATION
+69;Antibiotics.;O
+70;Move;ACTION
+70;to;O
+70;nurse station;LOCATION
+70;with;O
+70;Aspirin.;O
+71;Go;ACTION
+71;to;O
+71;Room 419;LOCATION
+71;with;O
+71;Tylenol.;O
+72;Deliver;ACTION
+72;Penicillin;MEDICINE
+72;to;O
+72;nurse;O
+72;head;O
+72;towards;O
+72;station.;O
+73;Move;ACTION
+73;RECEPTION;LOCATION
+73;with;O
+73;Antibiotics.;O
+73;to;O
+74;Bring;ACTION
+74;Antibiotics;MEDICINE
+74;to;O
+74;doctors_room.;O
+75;Penicillin;MEDICINE
+75;room.;O
+75;to;O
+75;Take;ACTION
+75;doctors;O
+76;Bring;ACTION
+76;Penicillin;MEDICINE
+76;to;O
+76;ICU.;O
+77;Deliver;ACTION
+77;Ibuprofen;MEDICINE
+77;to;O
+77;reception.;O
+78;Proceed;ACTION
+78;to;O
+78;emergency room;LOCATION
+78;with;O
+78;Tylenol.;O
+79;Head towards;ACTION
+79;to;O
+79;reception;LOCATION
+79;with;O
+79;Aspirin.;O
+80;Deliver;ACTION
+80;Aspirin;MEDICINE
+80;to;O
+80;Room 119.;LOCATION
+81;Move;ACTION
+81;to;O
+81;RECEPTION;LOCATION
+81;with;O
+81;Tylenol.;O
+82;Take;ACTION
+82;Ibuprofen;MEDICINE
+82;to;O
+82;Room 535.;LOCATION
+83;Navigate;ACTION
+83;to;O
+83;Room 261;LOCATION
+83;with;O
+83;Antibiotics.;O
+84;ahead;O
+84;Take;ACTION
+84;Tylenol;MEDICINE
+84;to;O
+84;Room 352.;LOCATION
+85;Bring;ACTION
+85;Penicillin;MEDICINE
+85;to;O
+85;emergency_room.;O
+86;Navigate;ACTION
+86;to;O
+86;RECEPTION;LOCATION
+86;with;O
+86;Ibuprofen.;O
+87;Navigate;ACTION
+87;to;O
+87;RECEPTION;LOCATION
+87;with;O
+87;Paracetamol.;O
+88;Take;ACTION
+88;Penicillin;MEDICINE
+88;to;O
+88;Room 138.;LOCATION
+89;Navigate;ACTION
+89;to;O
+89;Room head;LOCATION
+89;405;O
+89;towards;O
+89;with;O
+89;Aspirin.;O
+90;Take;ACTION
+90;Paracetamol;MEDICINE
+90;to;O
+90;ICU.;O
+91;Bring;ACTION
+91;Ibuprofen;MEDICINE
+91;to;O
+91;Room 108.;LOCATION
+92;ICU;LOCATION
+92;Tylenol;MEDICINE
+92;to;O
+92;nurse_station.;O
+93;Send;ACTION
+93;Antibiotics;MEDICINE
+93;to;O
+93;ICU.;O
+94;Go;ACTION
+94;to;O
+94;ICU;LOCATION
+94;with;O
+94;Cough;O
+94;Syrup.;O
+95;Deliver;ACTION
+95;Ibuprofen;MEDICINE
+95;to;O
+95;nurse_station.;O
+96;Head towards;ACTION
+96;to;O
+96;ICU;LOCATION
+96;with;O
+96;Antibiotics.;O
+97;Go;ACTION
+97;to;O
+97;Room 119;LOCATION
+97;with;O
+97;Antibiotics.;O
+98;Transport;ACTION
+98;Aspirin;MEDICINE
+98;to;O
+98;Room 370.;LOCATION
+99;Move;ACTION
+99;head;O
+99;to;O
+99;towards;O
+99;Room 367;LOCATION
+99;with;O
+99;Antibiotics.;O
+100;Transport;ACTION
+100;Antibiotics;MEDICINE
+100;to;O
+100;ICU.;O
+101;Go;ACTION
+101;to;O
+101;nurse station;LOCATION
+101;with;O
+101;Cough;O
+101;Syrup.;O
+102;towards;O
+102;Transport;ACTION
+102;Aspirin;MEDICINE
+102;to;O
+102;head;O
+102;Room 242.;LOCATION
+103;Move;ACTION
+103;to;O
+103;doctors room;LOCATION
+103;with;O
+103;Cough;O
+103;Syrup.;O
+104;Bring;ACTION
+104;Ibuprofen;MEDICINE
+104;to;O
+104;Room 235.;LOCATION
+105;Move;ACTION
+105;to;O
+105;Room 431;LOCATION
+105;with;O
+105;Tylenol.;O
+106;Transport;ACTION
+106;Ibuprofen;MEDICINE
+106;to;O
+106;Room 590.;LOCATION
+107;Transport;ACTION
+107;Penicillin;MEDICINE
+107;to;O
+107;Room 296.;LOCATION
+108;Send;ACTION
+108;Cough;O
+108;Syrup;O
+108;to;O
+108;emergency_room.;O
+109;Send;ACTION
+109;Aspirin;MEDICINE
+109;to;O
+109;nurse_station.;O
+110;Go;ACTION
+110;to;O
+110;nurse station;LOCATION
+110;with;O
+110;Cough;O
+110;Syrup.;O
+111;Deliver;ACTION
+111;Cough;O
+111;Syrup;O
+111;to;O
+111;Room 536.;LOCATION
+112;Transport;ACTION
+112;Penicillin;MEDICINE
+112;to;O
+112;Room 413.;LOCATION
+113;Proceed;ACTION
+113;to;O
+113;Room 274;LOCATION
+113;with;O
+113;Penicillin.;O
+114;Navigate;ACTION
+114;to;O
+114;emergency room;LOCATION
+114;with;O
+114;Cough;O
+114;Syrup.;O
+115;Navigate;ACTION
+115;to;O
+115;doctors room;LOCATION
+115;with;O
+115;Tylenol.;O
+116;Proceed;ACTION
+116;to;O
+116;nurse station;LOCATION
+116;with;O
+116;Aspirin.;O
+117;Head towards;ACTION
+117;to;O
+117;Room 473;LOCATION
+117;with;O
+117;Cough;O
+117;Syrup.;O
+118;Deliver;ACTION
+118;Tylenol;MEDICINE
+118;to;O
+118;doctors_room.;O
+119;Proceed;ACTION
+119;to;O
+119;Room 356;LOCATION
+119;with;O
+119;Tylenol.;O
+120;Take;ACTION
+120;Paracetamol;MEDICINE
+120;to;O
+120;Room 306.;LOCATION
+121;Send;ACTION
+121;Cough;O
+121;Syrup;O
+121;to;O
+121;Room 568.;LOCATION
+122;Head towards;ACTION
+122;to;O
+122;ICU;LOCATION
+122;actually;O
+122;with;O
+122;Aspirin.;O
+123;Send;ACTION
+123;Cough;O
+123;Syrup;O
+123;to;O
+123;Room 558.;LOCATION
+124;Deliver;ACTION
+124;Ibuprofen;MEDICINE
+124;to;O
+124;doctors_room.;O
+125;Head towards;ACTION
+125;to;O
+125;Room 401;LOCATION
+125;with;O
+125;Aspirin.;O
+126;Transport;ACTION
+126;Cough;O
+126;Syrup;O
+126;to;O
+126;Room 112.;LOCATION
+127;Proceed;ACTION
+127;to;O
+127;Room 402;LOCATION
+127;with;O
+127;Aspirin.;O
+128;Transport;ACTION
+128;Aspirin;MEDICINE
+128;to;O
+128;doctors_room.;O
+129;Transport;ACTION
+129;Paracetamol;MEDICINE
+129;to;O
+129;reception.;O
+130;Navigate;ACTION
+130;to;O
+130;nurse station;LOCATION
+130;with;O
+130;Penicillin.;O
+131;Send;ACTION
+131;Antibiotics;MEDICINE
+131;to;O
+131;Room 109.;LOCATION
+132;Transport;ACTION
+132;Aspirin;MEDICINE
+132;to;O
+132;nurse;O
+132;challenge;O
+132;station.;O
+133;Bring;ACTION
+133;Ibuprofen;MEDICINE
+133;to;O
+133;Room 390.;LOCATION
+134;to;O
+134;Room Penicillin.;LOCATION
+134;172;O
+134;Proceed;ACTION
+134;with;O
+135;Go;ACTION
+135;to;O
+135;Room 312;LOCATION
+135;with;O
+135;Tylenol.;O
+136;Transport;ACTION
+136;Aspirin;MEDICINE
+136;to;O
+136;doctors_room.;O
+137;Head towards;ACTION
+137;to;O
+137;emergency room;LOCATION
+137;with;O
+137;Tylenol.;O
+138;Proceed;ACTION
+138;to;O
+138;Room 109;LOCATION
+138;personal;O
+138;with;O
+138;Paracetamol.;O
+139;Go;ACTION
+139;to;O
+139;nurse station;LOCATION
+139;with;O
+139;Penicillin.;O
+140;Send;ACTION
+140;Paracetamol;MEDICINE
+140;to;O
+140;ICU.;O
+141;Proceed;ACTION
+141;to;O
+141;ICU;LOCATION
+141;with;O
+141;Penicillin.;O
+142;with;O
+142;emergency;O
+142;to;O
+142;Syrup.;O
+142;Move;ACTION
+142;Cough;O
+143;Head towards;ACTION
+143;to;O
+143;emergency room;LOCATION
+143;with;O
+143;Ibuprofen.;O
+144;Go;ACTION
+144;to;O
+144;Room 295;LOCATION
+144;with;O
+144;Ibuprofen.;O
+145;Take;ACTION
+145;Penicillin;MEDICINE
+145;to;O
+145;Room 583.;LOCATION
+146;Take;ACTION
+146;Antibiotics;MEDICINE
+146;to;O
+146;Room 216.;LOCATION
+147;Send;ACTION
+147;Cough;O
+147;Syrup;O
+147;to;O
+147;Room 223.;LOCATION
+148;Proceed;ACTION
+148;to;O
+148;doctors room;LOCATION
+148;with;O
+148;Paracetamol.;O
+149;Send;ACTION
+149;Ibuprofen;MEDICINE
+149;to;O
+149;Room 372.;LOCATION
+150;emergency room;LOCATION
+150;Go;ACTION
+150;with;O
+150;to;O
+150;Penicillin.;O
+151;Head towards;ACTION
+151;to;O
+151;Room 381;LOCATION
+151;with;O
+151;Aspirin.;O
+152;Send;ACTION
+152;Penicillin;MEDICINE
+152;room.;O
+152;doctors;O
+152;to;O
+153;Go;ACTION
+153;to;O
+153;nurse station;LOCATION
+153;with;O
+153;Antibiotics.;O
+154;Navigate;ACTION
+154;to;O
+154;Room 106;LOCATION
+154;with;O
+154;Tylenol.;O
+155;Take;ACTION
+155;Antibiotics;MEDICINE
+155;to;O
+155;Room 446.;LOCATION
+156;Deliver;ACTION
+156;Ibuprofen;MEDICINE
+156;to;O
+156;Room 577.;LOCATION
+157;Transport;ACTION
+157;Ibuprofen;MEDICINE
+157;to;O
+157;ICU.;O
+158;Proceed;ACTION
+158;to;O
+158;Room 559;LOCATION
+158;with;O
+158;Antibiotics.;O
+159;Navigate;ACTION
+159;to;O
+159;ICU;LOCATION
+159;with;O
+159;Aspirin.;O
+160;Deliver;ACTION
+160;head;O
+160;Cough;O
+160;Syrup;O
+160;to;O
+160;towards;O
+160;Room 566.;LOCATION
+161;Go;ACTION
+161;to;O
+161;RECEPTION;LOCATION
+161;with;O
+161;Penicillin.;O
+162;Navigate;ACTION
+162;to;O
+162;emergency room;LOCATION
+162;with;O
+162;Paracetamol.;O
+163;Bring;ACTION
+163;Tylenol;MEDICINE
+163;to;O
+163;Room 122.;LOCATION
+164;Bring;ACTION
+164;Penicillin;MEDICINE
+164;to;O
+164;reception.;O
+165;Move;ACTION
+165;to;O
+165;Room 185;LOCATION
+165;with;O
+165;Paracetamol.;O
+166;Deliver;ACTION
+166;Penicillin;MEDICINE
+166;to;O
+166;reception.;O
+167;Move;ACTION
+167;to;O
+167;emergency room;LOCATION
+167;with;O
+167;Tylenol.;O
+168;emergency room;LOCATION
+168;Send;ACTION
+168;Aspirin;MEDICINE
+168;to;O
+168;emergency_room.;O
+169;Proceed;ACTION
+169;to;O
+169;Room 417;LOCATION
+169;wvh;O
+169;Antibiotics.;O
+170;Deliver;ACTION
+170;Tylenol;MEDICINE
+170;to;O
+170;Room 230.;LOCATION
+171;Move;ACTION
+171;to;O
+171;nurse station;LOCATION
+171;with;O
+171;Paracetamol.;O
+172;Proceed;ACTION
+172;to;O
+172;ICU;LOCATION
+172;with;O
+172;Paracetamol.;O
+173;Go;ACTION
+173;to;O
+173;Room 517;LOCATION
+173;with;O
+173;Tylenol.;O
+174;Take;ACTION
+174;Paracetamol;MEDICINE
+174;to;O
+174;Room 208.;LOCATION
+175;Proceed;ACTION
+175;to;O
+175;Room 440;LOCATION
+175;with;O
+175;Cough;O
+175;Syrup.;O
+176;Move;ACTION
+176;to;O
+176;Room 203;LOCATION
+176;with;O
+176;Cough;O
+176;Syrup.;O
+177;Move;ACTION
+177;to;O
+177;reception;LOCATION
+177;with;O
+177;Tylenol.;O
+178;Head towards;ACTION
+178;to;O
+178;Room 306;LOCATION
+178;with;O
+178;Cough;O
+178;Syrup.;O
+179;Move;ACTION
+179;to;O
+179;Room 290;LOCATION
+179;with;O
+179;Antibiotics.;O
+180;Move;ACTION
+180;to;O
+180;nurse station;LOCATION
+180;with;O
+180;Aspirin.;O
+181;Transport;ACTION
+181;Antibiotics;MEDICINE
+181;to;O
+181;nurse_station.;O
+182;Send;ACTION
+182;Aspirin;MEDICINE
+182;to;O
+182;head;O
+182;Room towards;LOCATION
+182;116.;O
+183;Head;O
+183;expect;O
+183;towards;O
+183;to;O
+183;Room 394;LOCATION
+183;with;O
+183;Penicillin.;O
+184;Move;ACTION
+184;to;O
+184;Room 103;LOCATION
+184;with;O
+184;Tylenol.;O
+185;Navigate;ACTION
+185;to;O
+185;ICU;LOCATION
+185;with;O
+185;Ibuprofen.;O
+186;Navigate;ACTION
+186;to;O
+186;Room 102;LOCATION
+186;with;O
+186;Penicillin.;O
+187;535.;O
+187;Cough;O
+187;to;O
+187;Send;ACTION
+187;Syrup;O
+188;Navigate;ACTION
+188;to;O
+188;reception;LOCATION
+188;with;O
+188;Tylenol.;O
+189;Navigate;ACTION
+189;to;O
+189;emergency;O
+189;towards;O
+189;Room head;LOCATION
+189;with;O
+189;Ibuprofen.;O
+190;Send;ACTION
+190;Penicillin;MEDICINE
+190;to;O
+190;Room 149.;LOCATION
+191;Bring;ACTION
+191;Penicillin;MEDICINE
+191;to;O
+191;reception.;O
+192;Bring;ACTION
+192;Ibuprofen;MEDICINE
+192;to;O
+192;Room 387.;LOCATION
+193;Transport;ACTION
+193;Tylenol;MEDICINE
+193;to;O
+193;Room 161.;LOCATION
+194;Bring;ACTION
+194;Ibuprofen;MEDICINE
+194;to;O
+194;Room 445.;LOCATION
+195;Transport;ACTION
+195;Paracetamol;MEDICINE
+195;to;O
+195;emergency_room.;O
+196;Send;ACTION
+196;Penicillin;MEDICINE
+196;to;O
+196;doctors_room.;O
+197;Take;ACTION
+197;Aspirin;MEDICINE
+197;to;O
+197;doctors_room.;O
+198;Head towards;ACTION
+198;to;O
+198;Room 314;LOCATION
+198;with;O
+198;Aspirin.;O
+199;Head towards;ACTION
+199;to;O
+199;Room 350;LOCATION
+199;with;O
+199;Cough;O
+199;Syrup.;O
+200;Send;ACTION
+200;Ibuprofen;MEDICINE
+200;to;O
+200;nurse_station.;O
+201;Deliver;ACTION
+201;Antibiotics;MEDICINE
+201;to;O
+201;Room 261.;LOCATION
+202;Send;ACTION
+202;Penicillin;MEDICINE
+202;to;O
+202;doctors_room.;O
+203;Move;ACTION
+203;to;O
+203;nurse station;LOCATION
+203;nurse station;LOCATION
+203;with;O
+203;Penicillin.;O
+204;Head towards;ACTION
+204;to;O
+204;Room 336;LOCATION
+204;with;O
+204;Tylenol.;O
+205;Move;ACTION
+205;to;O
+205;Room 122;LOCATION
+205;with;O
+205;Tylenol.;O
+206;Move;ACTION
+206;to;O
+206;receptiogception;O
+206;with;O
+206;Cough;O
+206;Syrup.;O
+207;Transport;ACTION
+207;Cough;O
+207;Syrup;O
+207;to;O
+207;Room 308.;LOCATION
+208;Deliver;ACTION
+208;Aspirin;MEDICINE
+208;to;O
+208;Room 539.;LOCATION
+209;Deliver;ACTION
+209;Paracetamol;MEDICINE
+209;to;O
+209;emergency_room.;O
+210;Send;ACTION
+210;Ibuprofen;MEDICINE
+210;to;O
+210;Room 162.;LOCATION
+211;Take;ACTION
+211;Paracetamol;MEDICINE
+211;to;O
+211;emergency_room.;O
+212;Move;ACTION
+212;to;O
+212;Room 253;LOCATION
+212;with;O
+212;Cough;O
+212;Syrup.;O
+213;Deliver;ACTION
+213;Tylenol;MEDICINE
+213;to;O
+213;reception.;O
+214;Bring;ACTION
+214;Penicillin;MEDICINE
+214;to;O
+214;them;O
+214;doctors_room.;O
+215;Paracetamol;MEDICINE
+215;station.;O
+215;nurse;O
+215;to;O
+215;Transport;ACTION
+216;Go;ACTION
+216;to;O
+216;Room 382;LOCATION
+216;with;O
+216;Tylenol.;O
+217;Navigate;ACTION
+217;to;O
+217;Room 178;LOCATION
+217;with;O
+217;Ibuprofen.;O
+218;Move;ACTION
+218;to;O
+218;reception;LOCATION
+218;with;O
+218;Penicillin.;O
+219;Deliver;ACTION
+219;Antibiotics;MEDICINE
+219;to;O
+219;doctors_room.;O
+220;Take;ACTION
+220;dream;O
+220;Paracetamol;MEDICINE
+220;to;O
+220;Room 536.;LOCATION
+221;Take;ACTION
+221;Penicillin;MEDICINE
+221;to;O
+221;reception.;O
+222;Ibuprofen;MEDICINE
+222;Bring;ACTION
+222;reception.;O
+222;to;O
+223;Transport;ACTION
+223;Cough;O
+223;Syrup;O
+223;to;O
+223;Room 486.;LOCATION
+224;Syrup;O
+224;455.;O
+224;Room Deliver;LOCATION
+224;Cough;O
+224;to;O
+225;Navigate;ACTION
+225;to;O
+225;herself;O
+225;Room 464;LOCATION
+225;with;O
+225;Ibuprofen.;O
+226;Send;ACTION
+226;Tylenol;MEDICINE
+226;to;O
+226;Room 313.;LOCATION
+227;Move;ACTION
+227;to;O
+227;Room 133;LOCATION
+227;with;O
+227;Tylenol.;O
+228;Proceed;ACTION
+228;to;O
+228;RECEPTION;LOCATION
+228;with;O
+228;Paracetamol.;O
+229;Bring;ACTION
+229;to;O
+229;Penicillin;MEDICINE
+229;reception.;O
+230;Bring;ACTION
+230;Penicillin;MEDICINE
+230;to;O
+230;nurse_station.;O
+231;Transport;ACTION
+231;Penicillin;MEDICINE
+231;to;O
+231;emergency_room.;O
+232;Deliver;ACTION
+232;Penicillin;MEDICINE
+232;to;O
+232;emergency_room.;O
+233;Deliver;ACTION
+233;Penicillin;MEDICINE
+233;to;O
+233;Room 535.;LOCATION
+234;Bring;ACTION
+234;Aspirin;MEDICINE
+234;to;O
+234;emergency_room.;O
+235;Deliver;ACTION
+235;Tylenol;MEDICINE
+235;to;O
+235;Room 392.;LOCATION
+236;Navigate;ACTION
+236;to;O
+236;nurse station;LOCATION
+236;with;O
+236;Paracetamol.;O
+237;Bring;ACTION
+237;Antibiotics;MEDICINE
+237;to;O
+237;doctors_room.;O
+238;Take;ACTION
+238;Aspirin;MEDICINE
+238;to;O
+238;Room 435.;LOCATION
+239;Head towards;ACTION
+239;to;O
+239;Room 209;LOCATION
+239;with;O
+239;Cough;O
+239;Syrup.;O
+240;Take;ACTION
+240;Tylenol;MEDICINE
+240;to;O
+240;nurse_station.;O
+241;Navigate;ACTION
+241;to;O
+241;Room 256;LOCATION
+241;with;O
+241;Ibuprofen.;O
+242;Deliver;ACTION
+242;Aspirin;MEDICINE
+242;to;O
+242;Room 357.;LOCATION
+243;towards;O
+243;head;O
+243;Transport;ACTION
+243;Aspirin;MEDICINE
+243;to;O
+243;reception.;O
+244;Bring;ACTION
+244;Paracetamol;MEDICINE
+244;to;O
+244;Room 326.;LOCATION
+245;Deliver;ACTION
+245;Aspirin;MEDICINE
+245;to;O
+245;Room 514.;LOCATION
+246;Deliver;ACTION
+246;Penicillin;MEDICINE
+246;to;O
+246;Room 220.;LOCATION
+247;Navigate;ACTION
+247;to;O
+247;Room 578;LOCATION
+247;with;O
+247;Tylenol.;O
+248;Delivjr;O
+248;Penicillin;MEDICINE
+248;to;O
+248;doctors_room.;O
+249;Head towards;ACTION
+249;to;O
+249;Room 528;LOCATION
+249;with;O
+249;Tylenol.;O
+250;Navigate;ACTION
+250;to;O
+250;doctors room;LOCATION
+250;with;O
+250;Paracetamol.;O
+251;Take;ACTION
+251;Cough;O
+251;Syrup;O
+251;to;O
+251;doctors_room.;O
+252;Transport;ACTION
+252;Antibiotics;MEDICINE
+252;to;O
+252;Room 300.;LOCATION
+253;496.;O
+253;Transport;ACTION
+253;Room to;LOCATION
+253;Antibiotics;MEDICINE
+254;Take;ACTION
+254;Penicillin;MEDICINE
+254;to;O
+254;Room 385.;LOCATION
+255;Take;ACTION
+255;Antibiotics;MEDICINE
+255;to;O
+255;reception.;O
+256;Ibuprofen.;O
+256;with;O
+256;Reception;LOCATION
+256;to;O
+256;Navigate;ACTION
+257;Go;ACTION
+257;to;O
+257;emergency room;LOCATION
+257;with;O
+257;Paracetamol.;O
+257;towards;O
+257;head;O
+258;Take;ACTION
+258;Tylenol;MEDICINE
+258;to;O
+258;reception.;O
+259;Take;ACTION
+259;Tylenol;MEDICINE
+259;to;O
+259;Room 593.;LOCATION
+260;Navigate;ACTION
+260;to;O
+260;nurse station;LOCATION
+260;with;O
+260;Paracetamol.;O
+261;Proceed;ACTION
+261;to;O
+261;Reception;LOCATION
+261;with;O
+261;Ibuprofen.;O
+262;Take;ACTION
+262;Cough;O
+262;Syrup;O
+262;to;O
+262;Room 321.;LOCATION
+263;Room Head;LOCATION
+263;towards;O
+263;with;O
+263;to;O
+263;Paracetamol.;O
+263;143;O
+264;Head towards;ACTION
+264;to;O
+264;Room 144;LOCATION
+264;with;O
+264;Cough;O
+264;Syrup.;O
+265;Head towards;ACTION
+265;to;O
+265;Room 138;LOCATION
+265;with;O
+265;Paracetamol.;O
+266;Send;ACTION
+266;Cough;O
+266;Syrup;O
+266;to;O
+266;Room 452.;LOCATION
+267;Take;ACTION
+267;Tylenol;MEDICINE
+267;to;O
+267;Room 102.;LOCATION
+268;Go;ACTION
+268;to;O
+268;doctors room;LOCATION
+268;with;O
+268;Aspirin.;O
+269;Bring;ACTION
+269;Paracetamol;MEDICINE
+269;to;O
+269;Room 415.;LOCATION
+270;Transport;ACTION
+270;Ibuprofen;MEDICINE
+270;to;O
+270;Room 190.;LOCATION
+271;Proceed;ACTION
+271;to;O
+271;ICU;LOCATION
+271;with;O
+271;Aspirin.;O
+272;Transport;ACTION
+272;Cough;O
+272;Syrup;O
+272;to;O
+272;Room ICU;LOCATION
+272;367.;O
+273;Transport;ACTION
+273;Tylenol;MEDICINE
+273;to;O
+273;nurse_station.;O
+274;Take;ACTION
+274;Ibuprofen;MEDICINE
+274;to;O
+274;ICU.;O
+275;Transport;ACTION
+275;Aspirin;MEDICINE
+275;to;O
+275;Room 372.;LOCATION
+276;Navigate;ACTION
+276;to;O
+276;Room 121;LOCATION
+276;with;O
+276;Tylenol.;O
+277;Head towards;ACTION
+277;to;O
+277;nurse station;LOCATION
+277;with;O
+277;Penicillin.;O
+278;Bring;ACTION
+278;Ibuprofen;MEDICINE
+278;to;O
+278;Room 292.;LOCATION
+279;Go;ACTION
+279;to;O
+279;Room 312;LOCATION
+279;with;O
+279;Antibiotics.;O
+280;Transport;ACTION
+280;Penicillin;MEDICINE
+280;to;O
+280;ICU.;O
+281;Send;ACTION
+281;Cough;O
+281;Syrup;O
+281;to;O
+281;reception.;O
+282;Move;ACTION
+282;to;O
+282;doctorswtors;O
+282;Room with;LOCATION
+282;Cough;O
+282;Syrup.;O
+283;Head towards;ACTION
+283;to;O
+283;Reception;LOCATION
+283;with;O
+283;Cough;O
+283;Syrup.;O
+284;Move;ACTION
+284;to;O
+284;ICU;LOCATION
+284;with;O
+284;Tylenol.;O
+285;Take;ACTION
+285;Aspirin;MEDICINE
+285;to;O
+285;doctors_room.;O
+286;Proceed;ACTION
+286;to;O
+286;emergency room;LOCATION
+286;with;O
+286;Ibuprofen.;O
+287;Navigate;ACTION
+287;to;O
+287;Room 492;LOCATION
+287;with;O
+287;Paracetamol.;O
+288;Transport;ACTION
+288;Antibiotics;MEDICINE
+288;to;O
+288;Room 403.;LOCATION
+289;Send;ACTION
+289;Cough;O
+289;Syrup;O
+289;to;O
+289;Room 570.;LOCATION
+290;Deliver;ACTION
+290;Tylenol;MEDICINE
+290;to;O
+290;Room 556.;LOCATION
+291;Move;ACTION
+291;to;O
+291;Room 385;LOCATION
+291;with;O
+291;Paracetamol.;O
+292;Head towards;ACTION
+292;to;O
+292;doctors room;LOCATION
+292;with;O
+292;Paracetamol.;O
+293;Navigate;ACTION
+293;to;O
+293;emergency room;LOCATION
+293;with;O
+293;Tylenol.;O
+294;Take;ACTION
+294;Paracetamol;MEDICINE
+294;to;O
+294;Room 223.;LOCATION
+295;Proceed;ACTION
+295;to;O
+295;nurse station;LOCATION
+295;with;O
+295;Ibuprofen.;O
+296;Take;ACTION
+296;Penicillin;MEDICINE
+296;to;O
+296;emergency_room.;O
+297;Move;ACTION
+297;to;O
+297;doctors room;LOCATION
+297;with;O
+297;Penicillin.;O
+298;Head towards;ACTION
+298;to;O
+298;Room 236;LOCATION
+298;with;O
+298;Cough;O
+298;Syrup.;O
+299;Move;ACTION
+299;to;O
+299;Room 367;LOCATION
+299;with;O
+299;Cough;O
+299;Syrup.;O
+300;Proceed;ACTION
+300;to;O
+300;Room 289;LOCATION
+300;with;O
+300;Aspirin.;O
+301;Move;ACTION
+301;to;O
+301;emergency room;LOCATION
+301;with;O
+301;Aspirin.;O
+302;Head towards;ACTION
+302;to;O
+302;ICU;LOCATION
+302;with;O
+302;Tylenol.;O
+303;Send;ACTION
+303;Antibioticcbiotics;O
+303;to;O
+303;nurse_station.;O
+304;Deliver;ACTION
+304;Ibuprofen;MEDICINE
+304;to;O
+304;Room 272.;LOCATION
+305;Go;ACTION
+305;to;O
+305;Room 125;LOCATION
+305;with;O
+305;Cough;O
+305;Syrup.;O
+306;Go;ACTION
+306;to;O
+306;reception;LOCATION
+306;with;O
+306;Tylenol.;O
+307;Deliver;ACTION
+307;Tylenol;MEDICINE
+307;to;O
+307;reception.;O
+308;Send;ACTION
+308;fall;O
+308;Paracetamol;MEDICINE
+308;to;O
+308;ICU.;O
+309;Take;ACTION
+309;Penicillin;MEDICINE
+309;to;O
+309;ICU.;O
+310;Head towards;ACTION
+310;to;O
+310;ICU;LOCATION
+310;with;O
+310;Tylenol.;O
+311;Transport;ACTION
+311;Tylenol;MEDICINE
+311;to;O
+311;Room 388.;LOCATION
+312;Bring;ACTION
+312;Aspirin;MEDICINE
+312;to;O
+312;emergency_room.;O
+313;Go;ACTION
+313;to;O
+313;Room 600;LOCATION
+313;with;O
+313;Tylenol.;O
+314;Proceed;ACTION
+314;to;O
+314;emergency room;LOCATION
+314;with;O
+314;Paracetamol.;O
+315;Transport;ACTION
+315;head;O
+315;Penicillin;MEDICINE
+315;to;O
+315;emergency;O
+315;towards;O
+315;room.;O
+316;Transport;ACTION
+316;Cough;O
+316;Syrup;O
+316;to;O
+316;Room 475.;LOCATION
+317;Bring;ACTION
+317;Aspirin;MEDICINE
+317;to;O
+317;reception.;O
+318;Send;ACTION
+318;Tylenol;MEDICINE
+318;to;O
+318;Room 121.;LOCATION
+319;Go;ACTION
+319;to;O
+319;nurse station;LOCATION
+319;with;O
+319;Aspirin.;O
+320;Navigate;ACTION
+320;to;O
+320;Room 237;LOCATION
+320;with;O
+320;Ibuprofen.;O
+321;Bring;ACTION
+321;Penicillin;MEDICINE
+321;to;O
+321;Room 139.;LOCATION
+322;Proceed;ACTION
+322;to;O
+322;doctors room;LOCATION
+322;with;O
+322;Penicillin.;O
+323;Move;ACTION
+323;to;O
+323;emergency room;LOCATION
+323;with;O
+323;Penicillin.;O
+324;Go;ACTION
+324;Room to;LOCATION
+324;140;O
+324;Tylenol.;O
+324;with;O
+325;Move;ACTION
+325;to;O
+325;Room 582;LOCATION
+325;with;O
+325;Cough;O
+325;Syrup.;O
+326;to;O
+326;Send;ACTION
+326;232.;O
+326;Room Tylenol;LOCATION
+327;Transport;ACTION
+327;Penicillin;MEDICINE
+327;to;O
+327;ICU.;O
+328;Navigate;ACTION
+328;to;O
+328;Room 393;LOCATION
+328;with;O
+328;Paracetamol.;O
+329;Go;ACTION
+329;to;O
+329;emergency room;LOCATION
+329;with;O
+329;Ibuprofen.;O
+330;Take;ACTION
+330;Tylenol;MEDICINE
+330;to;O
+330;nurse_station.;O
+331;Transport;ACTION
+331;Tylenol;MEDICINE
+331;to;O
+331;Room 111.;LOCATION
+332;Send;ACTION
+332;Penicillin;MEDICINE
+332;to;O
+332;Room 157.;LOCATION
+333;Take;ACTION
+333;Antibiotics;MEDICINE
+333;to;O
+333;doctors_room.;O
+334;Bring;ACTION
+334;Antibiotics;MEDICINE
+334;to;O
+334;ICU.;O
+335;Bring;ACTION
+335;Antibiotics;MEDICINE
+335;to;O
+335;reception.;O
+336;Navigate;ACTION
+336;to;O
+336;reception;LOCATION
+336;with;O
+336;Antibiotics.;O
+337;Send;ACTION
+337;Cough;O
+337;Syrup;O
+337;to;O
+337;nurse_station.;O
+338;Navigate;ACTION
+338;to;O
+338;Room 487;LOCATION
+338;with;O
+338;Antibiotics.;O
+339;Navigate;ACTION
+339;to;O
+339;doctors room;LOCATION
+339;with;O
+339;Tylenol.;O
+340;Transport;ACTION
+340;Antibiotics;MEDICINE
+340;to;O
+340;emergency_room.;O
+341;Deliver;ACTION
+341;Paracetamol;MEDICINE
+341;to;O
+341;Room 551.;LOCATION
+342;Take;ACTION
+342;read;O
+342;Penicillin;MEDICINE
+342;to;O
+342;Room 471.;LOCATION
+343;Deliver;ACTION
+343;Reception;LOCATION
+343;Tylenol;MEDICINE
+343;to;O
+343;Room 390.;LOCATION
+344;Deliver;ACTION
+344;Tylenol;MEDICINE
+344;to;O
+344;reception.;O
+345;Send;ACTION
+345;Aspirin;MEDICINE
+345;to;O
+345;Room 218.;LOCATION
+346;Move;ACTION
+346;to;O
+346;ICU;LOCATION
+346;with;O
+346;Paracetamol.;O
+347;Proceed;ACTION
+347;to;O
+347;Room 189;LOCATION
+347;with;O
+347;Cough;O
+347;Syrup.;O
+348;Head towards;ACTION
+348;to;O
+348;Room 341;LOCATION
+348;with;O
+348;Ibuprofen.;O
+349;Transport;ACTION
+349;Tylenol;MEDICINE
+349;to;O
+349;Room 195.;LOCATION
+350;Take;ACTION
+350;Penicillin;MEDICINE
+350;to;O
+350;Room 361.;LOCATION
+351;Navigate;ACTION
+351;to;O
+351;ICU;LOCATION
+351;with;O
+351;Aspirin.;O
+352;Proceed;ACTION
+352;to;O
+352;doctors room;LOCATION
+352;with;O
+352;Antibiotics.;O
+353;Move;ACTION
+353;to;O
+353;Room 273;LOCATION
+353;with;O
+353;Cough;O
+353;Syrup.;O
+354;Tgansport;O
+354;Antibiotics;MEDICINE
+354;to;O
+354;reception.;O
+355;Bring;ACTION
+355;Aspirin;MEDICINE
+355;to;O
+355;doctors_room.;O
+356;Syrup;O
+356;to;O
+356;Deliver;ACTION
+356;ICU.;O
+356;Cough;O
+357;Move;ACTION
+357;to;O
+357;Reception;LOCATION
+357;with;O
+357;Cough;O
+357;Syrup.;O
+358;Go;ACTION
+358;to;O
+358;nurse station;LOCATION
+358;with;O
+358;Cough;O
+358;Syrup.;O
+359;Proceed;ACTION
+359;to;O
+359;Room 105;LOCATION
+359;with;O
+359;Ibuprofen.;O
+360;Proceed;ACTION
+360;to;O
+360;Room 498;LOCATION
+360;with;O
+360;Paracetamol.;O
+361;Transport;ACTION
+361;Ibuprofen;MEDICINE
+361;to;O
+361;ICU.;O
+362;Go;ACTION
+362;to;O
+362;emergency room;LOCATION
+362;with;O
+362;Cough;O
+362;Syrup.;O
+363;Take;ACTION
+363;Cough;O
+363;Syrup;O
+363;to;O
+363;reception.;O
+364;Deliver;ACTION
+364;Penicillin;MEDICINE
+364;to;O
+364;ICU.;O
+365;Bring;ACTION
+365;Antibiotics;MEDICINE
+365;to;O
+365;nurse_station.;O
+366;Bring;ACTION
+366;Paracetamol;MEDICINE
+366;to;O
+366;nurse_station.;O
+367;Take;ACTION
+367;Cough;O
+367;Syrup;O
+367;to;O
+367;emergency_room.;O
+368;Take;ACTION
+368;Antibiotics;MEDICINE
+368;to;O
+368;Room 574.;LOCATION
+369;Head towards;ACTION
+369;to;O
+369;Room 362;LOCATION
+369;with;O
+369;Aspirin.;O
+370;Transport;ACTION
+370;Paracetamol;MEDICINE
+370;to;O
+370;nurse_station.;O
+371;Deliver;ACTION
+371;Ibuprofen;MEDICINE
+371;to;O
+371;Room 341.;LOCATION
+372;Bring;ACTION
+372;Aspirin;MEDICINE
+372;to;O
+372;Room 123.;LOCATION
+373;Go;ACTION
+373;to;O
+373;Room 186;LOCATION
+373;with;O
+373;Aspirin.;O
+374;Transport;ACTION
+374;Antibiotics;MEDICINE
+374;to;O
+374;reception.;O
+375;Transport;ACTION
+375;Penicillin;MEDICINE
+375;to;O
+375;doctors_room.;O
+376;Bring;ACTION
+376;Cough;O
+376;Syrup;O
+376;to;O
+376;Room 237.;LOCATION
+377;Transport;ACTION
+377;Paracetamol;MEDICINE
+377;to;O
+377;Room 358.;LOCATION
+378;Head towards;ACTION
+378;to;O
+378;doctors room;LOCATION
+378;with;O
+378;Tylenol.;O
+379;Go;ACTION
+379;to;O
+379;Room 144;LOCATION
+379;with;O
+379;Antibiotics.;O
+380;Navigate;ACTION
+380;to;O
+380;emergency room;LOCATION
+380;with;O
+380;Antibiotics.;O
+381;Navigate;ACTION
+381;to;O
+381;doctors room;LOCATION
+381;with;O
+381;Cough;O
+381;Syrup.;O
+382;Send;ACTION
+382;Tylenol;MEDICINE
+382;to;O
+382;nurse_station.;O
+383;Deliver;ACTION
+383;Cough;O
+383;Syrup;O
+383;to;O
+383;ICU.;O
+384;with;O
+384;to;O
+384;Proceed;ACTION
+384;Reception;LOCATION
+384;Ibuprofen.;O
+385;Move;ACTION
+385;tx;O
+385;emergency room;LOCATION
+385;with;O
+385;Paracetamol.;O
+386;Head towards;ACTION
+386;to;O
+386;Room 307;LOCATION
+386;with;O
+386;Tylenol.;O
+387;Go;ACTION
+387;to;O
+387;Room 453;LOCATION
+387;with;O
+387;Paracetamol.;O
+388;Head towards;ACTION
+388;to;O
+388;nurse station;LOCATION
+388;with;O
+388;Antibiotics.;O
+389;Head towards;ACTION
+389;to;O
+389;doctors room;LOCATION
+389;with;O
+389;Tylenol.;O
+390;Send;ACTION
+390;Aspirin;MEDICINE
+390;to;O
+390;Room 593.;LOCATION
+391;Send;ACTION
+391;Ibuprofen;MEDICINE
+391;to;O
+391;reception.;O
+392;Take;ACTION
+392;Paracetamol;MEDICINE
+392;to;O
+392;reception.;O
+393;Go;ACTION
+393;to;O
+393;Room 136;LOCATION
+393;with;O
+393;Cough;O
+393;Syrup.;O
+394;Bring;ACTION
+394;Ibuprofen;MEDICINE
+394;to;O
+394;nurse_station.;O
+395;Navigate;ACTION
+395;to;O
+395;nurse station;LOCATION
+395;with;O
+395;Paracetamol.;O
+396;Take;ACTION
+396;Tylenol;MEDICINE
+396;to;O
+396;emergency_room.;O
+397;Move;ACTION
+397;to;O
+397;Room 353;LOCATION
+397;with;O
+397;Tylenol.;O
+398;Bring;ACTION
+398;Ibuprofen;MEDICINE
+398;to;O
+398;reception.;O
+399;Send;ACTION
+399;Antibiotics;MEDICINE
+399;to;O
+399;doctors_room.;O
+400;Proceed;ACTION
+400;to;O
+400;reception;LOCATION
+400;with;O
+400;Ibuprofen.;O
+401;Navigate;ACTION
+401;to;O
+401;reception;LOCATION
+401;with;O
+401;Cough;O
+401;Syrup.;O
+402;Deliver;ACTION
+402;Antibiotics;MEDICINE
+402;to;O
+402;nurse_station.;O
+403;Head towards;ACTION
+403;to;O
+403;Room 491;LOCATION
+403;with;O
+403;Paracetamol.;O
+404;Take;ACTION
+404;Cough;O
+404;Syrup;O
+404;to;O
+404;emergency_room.;O
+405;Transport;ACTION
+405;Tylenol;MEDICINE
+405;to;O
+405;doctors_room.;O
+406;Take;ACTION
+406;Aspirin;MEDICINE
+406;to;O
+406;Room 497.;LOCATION
+407;Go;ACTION
+407;to;O
+407;Room 272;LOCATION
+407;with;O
+407;Penicillin.;O
+408;Proceed;ACTION
+408;to;O
+408;Room 550;LOCATION
+408;with;O
+408;Ibuprofen.;O
+409;Go;ACTION
+409;to;O
+409;Room 309;LOCATION
+409;with;O
+409;Penicillin.;O
+410;Head towards;ACTION
+410;to;O
+410;nurse;O
+410;anything;O
+410;station;O
+410;with;O
+410;Penicillin.;O
+411;Move;ACTION
+411;to;O
+411;Room 396;LOCATION
+411;with;O
+411;Paracetamol.;O
+412;Send;ACTION
+412;Ibuprofen;MEDICINE
+412;336.;O
+412;to;O
+413;Transport;ACTION
+413;Aspirin;MEDICINE
+413;to;O
+413;Room 434.;LOCATION
+414;Transport;ACTION
+414;Cough;O
+414;Syrup;O
+414;to;O
+414;Room 366.;LOCATION
+415;Deliver;ACTION
+415;Aspirin;MEDICINE
+415;to;O
+415;emergency_room.;O
+416;Move;ACTION
+416;to;O
+416;Room 271;LOCATION
+416;with;O
+416;Tylenol.;O
+417;Bring;ACTION
+417;Penicillin;MEDICINE
+417;to;O
+417;ICU.;O
+418;Move;ACTION
+418;to;O
+418;doctors room;LOCATION
+418;with;O
+418;determine;O
+418;Ibuprofen.;O
+419;Bring;ACTION
+419;Aspirin;MEDICINE
+419;to;O
+419;ICU.;O
+420;Transport;ACTION
+420;Tylenol;MEDICINE
+420;to;O
+420;nurse_station.;O
+421;Navigate;ACTION
+421;to;O
+421;Room 506;LOCATION
+421;with;O
+421;Penicillin.;O
+422;Go;ACTION
+422;to;O
+422;nurse station;LOCATION
+422;with;O
+422;Tylenol.;O
+423;to;O
+423;Deliver;ACTION
+423;Room 121.;LOCATION
+423;Tylenol;MEDICINE
+424;Deliver;ACTION
+424;Ibuprofen;MEDICINE
+424;to;O
+424;emergency;O
+424;head;O
+424;room.;O
+424;towards;O
+425;Take;ACTION
+425;Cough;O
+425;Syrup;O
+425;to;O
+425;Room 553.;LOCATION
+426;Take;ACTION
+426;Cough;O
+426;Syrup;O
+426;to;O
+426;reception.;O
+427;to;O
+427;Room with;LOCATION
+427;Ibuprofen.;O
+427;126;O
+427;Go;ACTION
+428;Proceed;ACTION
+428;to;O
+428;Room 270;LOCATION
+428;with;O
+428;Penicillin.;O
+429;Move;ACTION
+429;to;O
+429;doctors room;LOCATION
+429;with;O
+429;Cough;O
+429;Syrup.;O
+430;Transport;ACTION
+430;Cough;O
+430;Syrup;O
+430;to;O
+430;Room 408.;LOCATION
+431;Go;ACTION
+431;to;O
+431;emergency room;LOCATION
+431;with;O
+431;Penicillin.;O
+432;person;O
+432;Deliver;ACTION
+432;Ibuprofen;MEDICINE
+432;to;O
+432;reception.;O
+433;Head towards;ACTION
+433;to;O
+433;nurse station;LOCATION
+433;with;O
+433;Aspirin.;O
+434;Deliver;ACTION
+434;Antibiotics;MEDICINE
+434;to;O
+434;nurse_station.;O
+435;Move;ACTION
+435;to;O
+435;Room 578;LOCATION
+435;with;O
+435;Ibuprofen.;O
+436;Bring;ACTION
+436;head;O
+436;towards;O
+436;Cough;O
+436;Syrup;O
+436;to;O
+436;nurse_station.;O
+437;Head towards;ACTION
+437;to;O
+437;emergency room;LOCATION
+437;with;O
+437;Tylenol.;O
+438;Proceed;ACTION
+438;to;O
+438;Room 537;LOCATION
+438;with;O
+438;Penicillin.;O
+439;Move;ACTION
+439;to;O
+439;Room 448;LOCATION
+439;with;O
+439;Antibiotics.;O
+440;Move;ACTION
+440;to;O
+440;Room 263;LOCATION
+440;with;O
+440;Ibuprofen.;O
+441;Proceed;ACTION
+441;to;O
+441;Room 129;LOCATION
+441;emergency room;LOCATION
+441;with;O
+441;Aspirin.;O
+442;Head towards;ACTION
+442;to;O
+442;Room 190;LOCATION
+442;with;O
+442;Aspirin.;O
+443;Go;ACTION
+443;to;O
+443;emergency room;LOCATION
+443;with;O
+443;Aspirin.;O
+444;Navigate;ACTION
+444;to;O
+444;Room 566;LOCATION
+444;with;O
+444;Ibuprofen.;O
+445;Deliver;ACTION
+445;reception;LOCATION
+445;Antibiotics;MEDICINE
+445;to;O
+445;nurse_station.;O
+446;Head towards;ACTION
+446;to;O
+446;Room 218;LOCATION
+446;more;O
+446;with;O
+446;Cough;O
+446;Syrup.;O
+447;Go;ACTION
+447;to;O
+447;reception;LOCATION
+447;with;O
+447;Ibuprofen.;O
+448;Navigate;ACTION
+448;to;O
+448;nurse station;LOCATION
+448;with;O
+448;Antibiotics.;O
+449;Deliver;ACTION
+449;Ibuprofen;MEDICINE
+449;to;O
+449;nurse_station.;O
+450;Move;ACTION
+450;to;O
+450;Room 152;LOCATION
+450;with;O
+450;Aspirin.;O
+451;Move;ACTION
+451;to;O
+451;ICU;LOCATION
+451;with;O
+451;Ibuprofen.;O
+452;Navigate;ACTION
+452;to;O
+452;doctors room;LOCATION
+452;with;O
+452;Antibiotics.;O
+453;Deliver;ACTION
+453;Antibiotics;MEDICINE
+453;to;O
+453;nurse_station.;O
+454;Move;ACTION
+454;to;O
+454;emergency room;LOCATION
+454;with;O
+454;Aspirin.;O
+455;Transport;ACTION
+455;Ibuprofen;MEDICINE
+455;to;O
+455;reception.;O
+456;Take;ACTION
+456;Ibuprofen;MEDICINE
+456;to;O
+456;reception.;O
+457;Send;ACTION
+457;Ibuprofen;MEDICINE
+457;to;O
+457;Room 257.;LOCATION
+458;ICU;LOCATION
+458;Antibiotics;MEDICINE
+458;to;O
+458;ICU.;O
+459;Transport;ACTION
+459;Penicillin;MEDICINE
+459;to;O
+459;reception.;O
+460;Transport;ACTION
+460;Aspirin;MEDICINE
+460;to;O
+460;ICU.;O
+461;Room Take;LOCATION
+461;Penicillin;MEDICINE
+461;to;O
+461;491.;O
+462;Proceed;ACTION
+462;to;O
+462;Room 464;LOCATION
+462;with;O
+462;Tylenol.;O
+463;Take;ACTION
+463;Aspirin;MEDICINE
+463;to;O
+463;ICU.;O
+464;Take;ACTION
+464;Paracetamol;MEDICINE
+464;to;O
+464;Room 348.;LOCATION
+465;Transport;ACTION
+465;Penlnicillin;O
+465;to;O
+465;Room 270.;LOCATION
+466;Transport;ACTION
+466;Tylenol;MEDICINE
+466;to;O
+466;doctors_room.;O
+467;Move;ACTION
+467;to;O
+467;Room 177;LOCATION
+467;with;O
+467;Aspirin.;O
+468;Send;ACTION
+468;Ibuprofen;MEDICINE
+468;to;O
+468;doctors_room.;O
+469;Navigate;ACTION
+469;to;O
+469;ICU;LOCATION
+469;with;O
+469;Paracetamol.;O
+470;Take;ACTION
+470;Cough;O
+470;Syrup;O
+470;to;O
+470;emergency_room.;O
+471;Go;ACTION
+471;topo;O
+471;Room 425;LOCATION
+471;with;O
+471;Cough;O
+471;Syrup.;O
+472;Go;ACTION
+472;to;O
+472;Room 314;LOCATION
+472;with;O
+472;Paracetamol.;O
+473;Transport;ACTION
+473;Ibuprofen;MEDICINE
+473;to;O
+473;Room 579.;LOCATION
+474;Move;ACTION
+474;to;O
+474;emergency room;LOCATION
+474;with;O
+474;Tylenol.;O
+475;Take;ACTION
+475;Antibiotics;MEDICINE
+475;to;O
+475;ICU.;O
+476;Head towards;ACTION
+476;to;O
+476;Room 123;LOCATION
+476;with;O
+476;Ibuprofen.;O
+477;Transport;ACTION
+477;Paracetamol;MEDICINE
+477;to;O
+477;Room 443.;LOCATION
+478;Take;ACTION
+478;Aspirin;MEDICINE
+478;to;O
+478;doctors_room.;O
+479;Deliver;ACTION
+479;Cough;O
+479;Syrup;O
+479;to;O
+479;Room 147.;LOCATION
+480;Bring;ACTION
+480;Ibuprofen;MEDICINE
+480;to;O
+480;Room 293.;LOCATION
+481;Go;ACTION
+481;to;O
+481;nurse station;LOCATION
+481;with;O
+481;Penicillin.;O
+482;Deliver;ACTION
+482;Cough;O
+482;Syrup;O
+482;to;O
+482;Room 296.;LOCATION
+483;Transport;ACTION
+483;Tylenol;MEDICINE
+483;to;O
+483;Room 595.;LOCATION
+484;Proceed;ACTION
+484;to;O
+484;Room 189;LOCATION
+484;with;O
+484;Antibiotics.;O
+485;blue;O
+485;Deliver;ACTION
+485;Antibiotics;MEDICINE
+485;to;O
+485;Room 156.;LOCATION
+486;Deliver;ACTION
+486;Antibiotics;MEDICINE
+486;to;O
+486;doctors_room.;O
+487;towards;O
+487;Take;ACTION
+487;Ibuprofen;MEDICINE
+487;head;O
+487;to;O
+487;Room 477.;LOCATION
+488;Navigate;ACTION
+488;to;O
+488;Room 504;LOCATION
+488;with;O
+488;Antibiotics.;O
+489;Transport;ACTION
+489;Penicillin;MEDICINE
+489;to;O
+489;nurse_station.;O
+490;Proceed;ACTION
+490;to;O
+490;nurse station;LOCATION
+490;with;O
+490;Ibuprofen.;O
+491;Send;ACTION
+491;Tylenol;MEDICINE
+491;to;O
+491;Room 453.;LOCATION
+492;Take;ACTION
+492;Ibuprofen;MEDICINE
+492;to;O
+492;emergency_room.;O
+493;Send;ACTION
+493;Cough;O
+493;Syrup;O
+493;to;O
+493;ICU.;O
+494;Head towards;ACTION
+494;to;O
+494;Room 175;LOCATION
+494;with;O
+494;Ibuprofen.;O
+495;Transport;ACTION
+495;Antibiotics;MEDICINE
+495;to;O
+495;emergency_room.;O
+496;Go;ACTION
+496;to;O
+496;Room 152;LOCATION
+496;with;O
+496;Antibiotics.;O
+497;Take;ACTION
+497;Tylenol;MEDICINE
+497;to;O
+497;emergency_room.;O
+498;Go;ACTION
+498;to;O
+498;emergency room;LOCATION
+498;with;O
+498;Paracetamol.;O
+499;Bring;ACTION
+499;Aspirin;MEDICINE
+499;to;O
+499;nurse_station.;O
+500;Take;ACTION
+500;Paracetamol;MEDICINE
+500;to;O
+500;Room 218.;LOCATION
+501;Cough;O
+501;with;O
+501;369;O
+501;Syrup.;O
+501;Room Move;LOCATION
+501;to;O
+502;Go;ACTION
+502;to;O
+502;Room 366;LOCATION
+502;with;O
+502;Cough;O
+502;Syrup.;O
+503;Head towards;ACTION
+503;to;O
+503;emergency room;LOCATION
+503;with;O
+503;Cough;O
+503;Syrup.;O
+504;Head towards;ACTION
+504;to;O
+504;emergency room;LOCATION
+504;with;O
+504;Cough;O
+504;Syrup.;O
+505;Bring;ACTION
+505;Cough;O
+505;Syrup;O
+505;to;O
+505;Room 216.;LOCATION
+506;Navigate;ACTION
+506;to;O
+506;doctors room;LOCATION
+506;with;O
+506;Paracetamol.;O
+507;expect;O
+507;Navigate;ACTION
+507;to;O
+507;emergency room;LOCATION
+507;with;O
+507;Paracetamol.;O
+508;ICU;LOCATION
+508;Tylenol;MEDICINE
+508;to;O
+508;Room 146.;LOCATION
+509;Bring;ACTION
+509;Aspirin;MEDICINE
+509;to;O
+509;Room 138.;LOCATION
+510;team;O
+510;Deliver;ACTION
+510;Ibuprofen;MEDICINE
+510;to;O
+510;Room 419.;LOCATION
+511;Go;ACTION
+511;to;O
+511;Reception;LOCATION
+511;with;O
+511;Aspirin.;O
+512;Bring;ACTION
+512;Penicillin;MEDICINE
+512;to;O
+512;reception.;O
+513;Navigate;ACTION
+513;to;O
+513;ICU;LOCATION
+513;with;O
+513;Aspirin.;O
+514;Bring;ACTION
+514;Penicillin;MEDICINE
+514;to;O
+514;emergency_room.;O
+515;Bring;ACTION
+515;Paracetamol;MEDICINE
+515;to;O
+515;ICU.;O
+516;Deliver;ACTION
+516;Antibiotics;MEDICINE
+516;card;O
+516;to;O
+516;doctors_room.;O
+517;Paracetamol.;O
+517;with;O
+517;nurse;O
+517;Proceed;ACTION
+517;station;O
+517;to;O
+518;Bring;ACTION
+518;Ibuprofen;MEDICINE
+518;to;O
+518;doctors_room.;O
+519;Head towards;ACTION
+519;to;O
+519;doctors room;LOCATION
+519;with;O
+519;Penicillin.;O
+520;Head towards;ACTION
+520;to;O
+520;Room 297;LOCATION
+520;with;O
+520;Paracetamol.;O
+521;Transport;ACTION
+521;Aspirin;MEDICINE
+521;to;O
+521;Room 226.;LOCATION
+522;Deliver;ACTION
+522;Aspirin;MEDICINE
+522;to;O
+522;nurse_station.;O
+523;Head towards;ACTION
+523;to;O
+523;ICU;LOCATION
+523;with;O
+523;Tylenol.;O
+524;Send;ACTION
+524;Ibuprofen;MEDICINE
+524;to;O
+524;Room 581.;LOCATION
+525;Bring;ACTION
+525;Penicillin;MEDICINE
+525;to;O
+525;Room 543.;LOCATION
+526;Transport;ACTION
+526;Cough;O
+526;Syrup;O
+526;to;O
+526;doctors_room.;O
+527;Deliver;ACTION
+527;Paracetamol;MEDICINE
+527;tobo;O
+527;doctors_room.;O
+528;towards;O
+528;Navigate;ACTION
+528;to;O
+528;Room head;LOCATION
+528;114;O
+528;with;O
+528;Ibuprofen.;O
+529;Navigate;ACTION
+529;to;O
+529;Reception;LOCATION
+529;with;O
+529;Aspirin.;O
+530;Head towards;ACTION
+530;to;O
+530;nurse station;LOCATION
+530;with;O
+530;Paracetamol.;O
+531;Navigate;ACTION
+531;to;O
+531;Room 222;LOCATION
+531;with;O
+531;Tylenol.;O
+532;Deliver;ACTION
+532;Ibuprofen;MEDICINE
+532;to;O
+532;Room 509.;LOCATION
+533;Send;ACTION
+533;Paracetamol;MEDICINE
+533;to;O
+533;doctors_room.;O
+534;Take;ACTION
+534;Cough;O
+534;Syrup;O
+534;to;O
+534;doctors_room.;O
+535;Transport;ACTION
+535;Paracetamol;MEDICINE
+535;to;O
+535;Room 556.;LOCATION
+536;Go;ACTION
+536;to;O
+536;Room 430;LOCATION
+536;with;O
+536;Penicillin.;O
+537;Transport;ACTION
+537;Paracetamol;MEDICINE
+537;to;O
+537;Room 40w02.;LOCATION
+538;Take;ACTION
+538;Tylenol;MEDICINE
+538;to;O
+538;ICU.;O
+539;Take;ACTION
+539;Aspirin;MEDICINE
+539;to;O
+539;ICU.;O
+540;Go;ACTION
+540;to;O
+540;nurse station;LOCATION
+540;with;O
+540;Paracetamol.;O
+541;Go;ACTION
+541;to;O
+541;Room 154;LOCATION
+541;with;O
+541;Penicillin.;O
+542;Take;ACTION
+542;Antibiotics;MEDICINE
+542;to;O
+542;break;O
+542;Room 572.;LOCATION
+543;Proceed;ACTION
+543;to;O
+543;reception;LOCATION
+543;with;O
+543;Cough;O
+543;Syrup.;O
+544;Go;ACTION
+544;to;O
+544;Room 251;LOCATION
+544;with;O
+544;Penicillin.;O
+545;Bring;ACTION
+545;Cough;O
+545;Syrup;O
+545;to;O
+545;Room 447.;LOCATION
+546;Send;ACTION
+546;Paracetamol;MEDICINE
+546;to;O
+546;Room 399.;LOCATION
+547;Move;ACTION
+547;to;O
+547;Room 347;LOCATION
+547;with;O
+547;Tylenol.;O
+548;Head towards;ACTION
+548;to;O
+548;Room 297;LOCATION
+548;with;O
+548;Ibuprofen.;O
+549;towards;O
+549;head;O
+549;Send;ACTION
+549;Cough;O
+549;Syrup;O
+549;to;O
+549;doctors_room.;O
+550;Room Tylenol.;LOCATION
+550;Proceed;ACTION
+550;with;O
+550;378;O
+550;to;O
+551;Navigate;ACTION
+551;to;O
+551;Room 273;LOCATION
+551;with;O
+551;Paracetamol.;O
+552;Send;ACTION
+552;Paracetamol;MEDICINE
+552;to;O
+552;Room 495.;LOCATION
+553;Bring;ACTION
+553;Aspirin;MEDICINE
+553;to;O
+553;emergency_room.;O
+554;Transport;ACTION
+554;Cough;O
+554;Syrup;O
+554;to;O
+554;Room 309.;LOCATION
+555;Bring;ACTION
+555;Cough;O
+555;Syrup;O
+555;to;O
+555;reception.;O
+556;Take;ACTION
+556;Penicillin;MEDICINE
+556;to;O
+556;Room 444.;LOCATION
+557;Head towards;ACTION
+557;to;O
+557;Room 504;LOCATION
+557;with;O
+557;Aspirin.;O
+558;Send;ACTION
+558;Antibiotics;MEDICINE
+558;to;O
+558;Room 215.;LOCATION
+559;Go;ACTION
+559;to;O
+559;emergency room;LOCATION
+559;with;O
+559;Penicillin.;O
+560;Move;ACTION
+560;to;O
+560;Room 468;LOCATION
+560;with;O
+560;Paracetamol.;O
+561;Bring;ACTION
+561;Ibuprofen;MEDICINE
+561;to;O
+561;reception.;O
+562;Bring;ACTION
+562;Paracetamol;MEDICINE
+562;to;O
+562;reception.;O
+563;Bring;ACTION
+563;Tylenol;MEDICINE
+563;to;O
+563;Room 462.;LOCATION
+564;Take;ACTION
+564;Ibuprofen;MEDICINE
+564;to;O
+564;reception.;O
+565;Navigate;ACTION
+565;to;O
+565;Room 169;LOCATION
+565;with;O
+565;Antibiotics.;O
+566;Proceed;ACTION
+566;to;O
+566;ICU;LOCATION
+566;with;O
+566;Tylenol.;O
+567;Take;ACTION
+567;Antibiotics;MEDICINE
+567;to;O
+567;Room 220.;LOCATION
+568;Move;ACTION
+568;to;O
+568;emergency room;LOCATION
+568;with;O
+568;Aspirin.;O
+569;Navigate;ACTION
+569;to;O
+569;Reception;LOCATION
+569;ICU;LOCATION
+569;with;O
+569;Ibuprofen.;O
+570;Head towards;ACTION
+570;to;O
+570;Room 275;LOCATION
+570;with;O
+570;Aspirin.;O
+571;college;O
+571;Take;ACTION
+571;Ibuprofen;MEDICINE
+571;to;O
+571;Room 439.;LOCATION
+572;Go;ACTION
+572;to;O
+572;Room 194;LOCATION
+572;with;O
+572;Cough;O
+572;Syrup.;O
+573;Head towards;ACTION
+573;to;O
+573;reception;LOCATION
+573;with;O
+573;Aspirin.;O
+574;Bring;ACTION
+574;Paracetamol;MEDICINE
+574;to;O
+574;reception.;O
+575;Move;ACTION
+575;to;O
+575;emergency room;LOCATION
+575;with;O
+575;Cough;O
+575;Syrup.;O
+576;Take;ACTION
+576;Antibiotics;MEDICINE
+576;to;O
+576;emergency_room.;O
+577;Take;ACTION
+577;Aspirin;MEDICINE
+577;to;O
+577;nurse_station.;O
+578;Bring;ACTION
+578;Penicillin;MEDICINE
+578;to;O
+578;Room 402.;LOCATION
+579;Proceed;ACTION
+579;to;O
+579;emergency room;LOCATION
+579;with;O
+579;Tylenol.;O
+580;Take;ACTION
+580;Tylenol;MEDICINE
+580;to;O
+580;Room 312.;LOCATION
+581;Deliver;ACTION
+581;Paracetamol;MEDICINE
+581;to;O
+581;Room 413.;LOCATION
+582;Deliver;ACTION
+582;Ibuprofen;MEDICINE
+582;to;O
+582;reception.;O
+583;Navigate;ACTION
+583;to;O
+583;doctors room;LOCATION
+583;with;O
+583;Cough;O
+583;Syrup.;O
+584;Send;ACTION
+584;Penicillin;MEDICINE
+584;to;O
+584;Room 113.;LOCATION
+585;Head towards;ACTION
+585;to;O
+585;Room 162;LOCATION
+585;with;O
+585;Cough;O
+585;Syrup.;O
+586;Go;ACTION
+586;to;O
+586;ICU;LOCATION
+586;with;O
+586;Ibuprofen.;O
+587;Navigate;ACTION
+587;to;O
+587;nurse station;LOCATION
+587;with;O
+587;Ibuprofen.;O
+588;Proceed;ACTION
+588;to;O
+588;Room 521;LOCATION
+588;with;O
+588;Cough;O
+588;Syrup.;O
+589;Take;ACTION
+589;Cough;O
+589;Syrup;O
+589;to;O
+589;Room 156.;LOCATION
+590;Bring;ACTION
+590;Aspirin;MEDICINE
+590;to;O
+590;Room 258.;LOCATION
+591;Head towards;ACTION
+591;to;O
+591;Room 547;LOCATION
+591;with;O
+591;Cough;O
+591;Syrup.;O
+592;Proceed;ACTION
+592;to;O
+592;ICU;LOCATION
+592;with;O
+592;Ibuprofen.;O
+593;Cough;O
+593;with;O
+593;Go;ACTION
+593;Room 120;LOCATION
+593;to;O
+593;Syrup.;O
+594;Send;ACTION
+594;Ibuprofen;MEDICINE
+594;to;O
+594;Room 593.;LOCATION
+595;Take;ACTION
+595;Penicillin;MEDICINE
+595;to;O
+595;Room 535.;LOCATION
+596;Navigate;ACTION
+596;to;O
+596;Room 269;LOCATION
+596;with;O
+596;Paracetamol.;O
+597;Navigate;ACTION
+597;to;O
+597;doctors room;LOCATION
+597;with;O
+597;Cough;O
+597;Syrup.;O
+598;Go;ACTION
+598;to;O
+598;emergency room;LOCATION
+598;with;O
+598;Penicillin.;O
+599;Deliver;ACTION
+599;Cough;O
+599;Syrup;O
+599;to;O
+599;Room 225.;LOCATION
+600;Go;ACTION
+600;to;O
+600;Room 375;LOCATION
+600;with;O
+600;Cough;O
+600;Syrup.;O
+601;Take;ACTION
+601;Cough;O
+601;Syrup;O
+601;to;O
+601;Room 395.;LOCATION
+602;doctors room;LOCATION
+602;Go;ACTION
+602;to;O
+602;Room 573;LOCATION
+602;with;O
+602;Cough;O
+602;Syrup.;O
+603;Proceed;ACTION
+603;to;O
+603;emergency room;LOCATION
+603;with;O
+603;Cough;O
+603;Syrup.;O
+604;Send;ACTION
+604;Paracetamol;MEDICINE
+604;to;O
+604;Room 472.;LOCATION
+605;Head towards;ACTION
+605;to;O
+605;Room 237;LOCATION
+605;with;O
+605;Paracetamol.;O
+606;Head towards;ACTION
+606;to;O
+606;Room 158;LOCATION
+606;with;O
+606;Paracetamol.;O
+607;Transport;ACTION
+607;Aspirin;MEDICINE
+607;to;O
+607;Room 160.;LOCATION
+608;Proceed;ACTION
+608;to;O
+608;nurse station;LOCATION
+608;with;O
+608;Cough;O
+608;Syrup.;O
+609;Head towards;ACTION
+609;Reception;LOCATION
+609;to;O
+609;ICU;LOCATION
+609;with;O
+609;Antibiotics.;O
+610;Transport;ACTION
+610;Penicillin;MEDICINE
+610;to;O
+610;Room 507.;LOCATION
+611;Move;ACTION
+611;to;O
+611;reception;LOCATION
+611;with;O
+611;Ibuprofen.;O
+612;Deliver;ACTION
+612;Cough;O
+612;Syrup;O
+612;to;O
+612;Room 121.;LOCATION
+613;Head towards;ACTION
+613;to;O
+613;Room 335;LOCATION
+613;with;O
+613;Aspirin.;O
+614;Send;ACTION
+614;Aspirin;MEDICINE
+614;to;O
+614;doctors_room.;O
+615;Send;ACTION
+615;Paracetamol;MEDICINE
+615;to;O
+615;ICU.;O
+616;far;O
+616;Go;ACTION
+616;to;O
+616;doctors room;LOCATION
+616;with;O
+616;Tylenol.;O
+617;Proceed;ACTION
+617;to;O
+617;ICU;LOCATION
+617;with;O
+617;Tylenol.;O
+618;Proceed;ACTION
+618;to;O
+618;Room 483;LOCATION
+618;with;O
+618;Penicillin.;O
+619;Go;ACTION
+619;to;O
+619;Room 313;LOCATION
+619;with;O
+619;Penicillin.;O
+620;Take;ACTION
+620;Aspirin;MEDICINE
+620;to;O
+620;Room 566.;LOCATION
+621;Transport;ACTION
+621;Aspirin;MEDICINE
+621;edge;O
+621;to;O
+621;reception.;O
+622;ICU;LOCATION
+622;to;O
+622;Navigate;ACTION
+622;with;O
+622;Aspirin.;O
+623;to;O
+623;towards;O
+623;with;O
+623;ICU;LOCATION
+623;Head;O
+623;Antibiotics.;O
+624;Go;ACTION
+624;to;O
+624;Room 512;LOCATION
+624;with;O
+624;Cough;O
+624;Syrup.;O
+625;Deliver;ACTION
+625;Aspirin;MEDICINE
+625;to;O
+625;doctors_room.;O
+626;Bring;ACTION
+626;Cough;O
+626;Syrup;O
+626;nurse station;LOCATION
+626;to;O
+626;emergency_room.;O
+627;Head towards;ACTION
+627;to;O
+627;Room 189;LOCATION
+627;with;O
+627;Aspirin.;O
+628;Deliver;ACTION
+628;Tylenol;MEDICINE
+628;to;O
+628;Room 137.;LOCATION
+629;Proceed;ACTION
+629;to;O
+629;emergency room;LOCATION
+629;with;O
+629;Cough;O
+629;Syrup.;O
+630;Transport;ACTION
+630;Ibuprofen;MEDICINE
+630;to;O
+630;Room 174.;LOCATION
+631;Navigate;ACTION
+631;to;O
+631;Room 576;LOCATION
+631;with;O
+631;Paracetamol.;O
+632;Send;ACTION
+632;Paracetamol;MEDICINE
+632;to;O
+632;Room 429.;LOCATION
+633;Bring;ACTION
+633;Paracetamol;MEDICINE
+633;to;O
+633;Room 455.;LOCATION
+634;ICU;LOCATION
+634;Cough;O
+634;Syrup;O
+634;to;O
+634;Room 406.;LOCATION
+635;Send;ACTION
+635;Tylenol;MEDICINE
+635;to;O
+635;nurse_station.;O
+636;Navigate;ACTION
+636;to;O
+636;Room 102;LOCATION
+636;with;O
+636;Paracetamol.;O
+637;Head towards;ACTION
+637;to;O
+637;emergency room;LOCATION
+637;with;O
+637;Paracetamol.;O
+638;Deliver;ACTION
+638;Cough;O
+638;Syrup;O
+638;to;O
+638;doctors_room.;O
+639;Send;ACTION
+639;Tylenol;MEDICINE
+639;to;O
+639;emergency_room.;O
+640;Transport;ACTION
+640;Tylenol;MEDICINE
+640;to;O
+640;emergency_room.;O
+641;Move;ACTION
+641;to;O
+641;nurse station;LOCATION
+641;with;O
+641;Antibiotics.;O
+642;Take;ACTION
+642;Paracetamol;MEDICINE
+642;to;O
+642;ICU.;O
+643;Proceed;ACTION
+643;to;O
+643;federal;O
+643;Room 477;LOCATION
+643;with;O
+643;Tylenol.;O
+644;Head towards;ACTION
+644;to;O
+644;Room 505;LOCATION
+644;with;O
+644;Penicillin.;O
+645;Move;ACTION
+645;to;O
+645;Room 130;LOCATION
+645;with;O
+645;Paracetamol.;O
+646;Deliver;ACTION
+646;Aspirin;MEDICINE
+646;to;O
+646;Room 425.;LOCATION
+647;Room 194.;LOCATION
+647;to;O
+647;Bring;ACTION
+647;Tylenol;MEDICINE
+648;Send;ACTION
+648;Antibiotics;MEDICINE
+648;to;O
+648;nurse_station.;O
+649;Bring;ACTION
+649;Cough;O
+649;Syrup;O
+649;to;O
+649;emergency_room.;O
+650;Bring;ACTION
+650;Ibuprofen;MEDICINE
+650;to;O
+650;Room 252.;LOCATION
+651;Deliver;ACTION
+651;Tylenol;MEDICINE
+651;to;O
+651;Room 196.;LOCATION
+652;Send;ACTION
+652;Cough;O
+652;Syrup;O
+652;to;O
+652;nurse_station.;O
+653;Ibuprofen;MEDICINE
+653;Transport;ACTION
+653;to;O
+653;540.;O
+654;Send;ACTION
+654;Tylenol;MEDICINE
+654;to;O
+654;Room 569.;LOCATION
+655;Transport;ACTION
+655;Cough;O
+655;Syrup;O
+655;to;O
+655;nurse_station.;O
+656;Head towards;ACTION
+656;to;O
+656;nurse station;LOCATION
+656;with;O
+656;Tylenol.;O
+657;Navigate;ACTION
+657;to;O
+657;ICU;LOCATION
+657;with;O
+657;Tylenol.;O
+658;Deliver;ACTION
+658;Ibuprofen;MEDICINE
+658;to;O
+658;Room 284.;LOCATION
+659;Transport;ACTION
+659;Antibiotics;MEDICINE
+659;to;O
+659;Room 257.;LOCATION
+660;Take;ACTION
+660;Penicillin;MEDICINE
+660;to;O
+660;Room 242.;LOCATION
+661;Take;ACTION
+661;Cough;O
+661;Syrup;O
+661;to;O
+661;ICU.;O
+662;Transport;ACTION
+662;Antibiotics;MEDICINE
+662;to;O
+662;doctors_room.;O
+663;Send;ACTION
+663;Antibiotics;MEDICINE
+663;to;O
+663;ICU.;O
+664;Move;ACTION
+664;to;O
+664;ICU;LOCATION
+664;with;O
+664;Paracetamol.;O
+665;Transport;ACTION
+665;Antibiotics;MEDICINE
+665;to;O
+665;doctors_room.;O
+666;Go;ACTION
+666;to;O
+666;doctors room;LOCATION
+666;with;O
+666;Antibiotics.;O
+667;Take;ACTION
+667;Antibiotics;MEDICINE
+667;to;O
+667;ICUnU.;O
+668;head;O
+668;Go;ACTION
+668;to;O
+668;Room towards;LOCATION
+668;103;O
+668;with;O
+668;Paracetamol.;O
+669;Deliver;ACTION
+669;Cough;O
+669;Syrup;O
+669;to;O
+669;Room 578.;LOCATION
+670;Head towards;ACTION
+670;to;O
+670;emergency room;LOCATION
+670;with;O
+670;Cough;O
+670;Syrup.;O
+671;Head towards;ACTION
+671;to;O
+671;ICU;LOCATION
+671;with;O
+671;Tylenol.;O
+672;Go;ACTION
+672;to;O
+672;Room 594;LOCATION
+672;with;O
+672;Aspirin.;O
+673;Navigate;ACTION
+673;to;O
+673;Room 130;LOCATION
+673;with;O
+673;Antibiotics.;O
+674;Proceed;ACTION
+674;to;O
+674;doctors room;LOCATION
+674;with;O
+674;Paracetamol.;O
+675;Room 272;LOCATION
+675;with;O
+675;Proceed;ACTION
+675;to;O
+675;Paracetamol.;O
+676;Send;ACTION
+676;Paracetamol;MEDICINE
+676;to;O
+676;nurse_station.;O
+677;Send;ACTION
+677;Ibuprofen;MEDICINE
+677;to;O
+677;Room 517.;LOCATION
+678;Move;ACTION
+678;to;O
+678;ICU;LOCATION
+678;with;O
+678;Antibiotics.;O
+679;Bring;ACTION
+679;Penicillin;MEDICINE
+679;to;O
+679;doctors_room.;O
+680;Bring;ACTION
+680;Paracetamol;MEDICINE
+680;to;O
+680;Room 329.;LOCATION
+681;Bring;ACTION
+681;Antibiotics;MEDICINE
+681;to;O
+681;nurse_station.;O
+682;Take;ACTION
+682;Penicillin;MEDICINE
+682;to;O
+682;emergency;O
+682;think;O
+682;room.;O
+683;Bring;ACTION
+683;Antibiotics;MEDICINE
+683;to;O
+683;Room 507.;LOCATION
+684;Transport;ACTION
+684;Ibuprofen;MEDICINE
+684;to;O
+684;Room 527.;LOCATION
+685;Go;ACTION
+685;to;O
+685;nurse station;LOCATION
+685;with;O
+685;Aspirin.;O
+686;to;O
+686;Room with;LOCATION
+686;151;O
+686;Proceed;ACTION
+686;Antibiotics.;O
+687;Go;ACTION
+687;to;O
+687;Room 402;LOCATION
+687;with;O
+687;Antibiotics.;O
+688;Head towards;ACTION
+688;to;O
+688;Room 218;LOCATION
+688;with;O
+688;Penicillin.;O
+689;Bring;ACTION
+689;Paracetamol;MEDICINE
+689;to;O
+689;Room 469.;LOCATION
+690;Navigate;ACTION
+690;to;O
+690;Room 324;LOCATION
+690;with;O
+690;Aspirin.;O
+691;Proceed;ACTION
+691;to;O
+691;doctors room;LOCATION
+691;with;O
+691;Aspirin.;O
+692;Move;ACTION
+692;to;O
+692;Room 258;LOCATION
+692;with;O
+692;Aspirin.;O
+693;Proceed;ACTION
+693;to;O
+693;Room 378;LOCATION
+693;with;O
+693;Penicillin.;O
+694;Transport;ACTION
+694;Cough;O
+694;Syrup;O
+694;to;O
+694;emergency_room.;O
+695;Head towards;ACTION
+695;to;O
+695;Room 375;LOCATION
+695;with;O
+695;Paracetamol.;O
+696;Transport;ACTION
+696;Tylenol;MEDICINE
+696;to;O
+696;nurse_station.;O
+697;Deliver;ACTION
+697;Antibiotics;MEDICINE
+697;to;O
+697;nurse_station.;O
+698;Head towards;ACTION
+698;to;O
+698;Room 436;LOCATION
+698;with;O
+698;Aspirin.;O
+699;Navigate;ACTION
+699;to;O
+699;doctors room;LOCATION
+699;with;O
+699;Tylenol.;O
+700;Go;ACTION
+700;to;O
+700;Room 160;LOCATION
+700;with;O
+700;Tylenol.;O
+701;Go;ACTION
+701;to;O
+701;Room 231;LOCATION
+701;with;O
+701;Ibuprofen.;O
+702;Deliver;ACTION
+702;Paracetamol;MEDICINE
+702;to;O
+702;Room 436.;LOCATION
+703;Head towards;ACTION
+703;to;O
+703;Room 264;LOCATION
+703;with;O
+703;Cough;O
+703;Syrup.;O
+704;Navigate;ACTION
+704;to;O
+704;RECEPTION;LOCATION
+704;withc;O
+704;Antibiotics.;O
+705;Transport;ACTION
+705;Ibuprofen;MEDICINE
+705;to;O
+705;doctors_room.;O
+706;Navigate;ACTION
+706;to;O
+706;Room 432;LOCATION
+706;with;O
+706;Aspirin.;O
+707;Deliver;ACTION
+707;Aspirin;MEDICINE
+707;to;O
+707;Room 298.;LOCATION
+708;Take;ACTION
+708;Paracetamol;MEDICINE
+708;to;O
+708;doctors_room.;O
+709;Go;ACTION
+709;to;O
+709;Room 264;LOCATION
+709;with;O
+709;Cough;O
+709;Syrup.;O
+710;Take;ACTION
+710;Penicillin;MEDICINE
+710;to;O
+710;doctors_room.;O
+711;to;O
+711;Antibiotics;MEDICINE
+711;ICU.;O
+711;Bring;ACTION
+712;Move;ACTION
+712;to;O
+712;doctors room;LOCATION
+712;with;O
+712;Aspirin.;O
+713;Go;ACTION
+713;to;O
+713;Room 559;LOCATION
+713;with;O
+713;Antibiotics.;O
+714;Head towards;ACTION
+714;to;O
+714;ICU;LOCATION
+714;with;O
+714;Ibuprofen.;O
+715;Navigate;ACTION
+715;to;O
+715;Room 46k;LOCATION
+715;with;O
+715;Penicillin.;O
+716;Send;ACTION
+716;Tylenol;MEDICINE
+716;to;O
+716;Room 570.;LOCATION
+717;Navigate;ACTION
+717;to;O
+717;Room 306;LOCATION
+717;with;O
+717;Cough;O
+717;Syrup.;O
+718;Transport;ACTION
+718;Penicillin;MEDICINE
+718;to;O
+718;emergency_room.;O
+719;Go;ACTION
+719;to;O
+719;nurse station;LOCATION
+719;with;O
+719;Cough;O
+719;Syrup.;O
+720;Aspirin;MEDICINE
+720;doctors;O
+720;Deliver;ACTION
+720;room.;O
+720;to;O
+721;Take;ACTION
+721;Cough;O
+721;Syrup;O
+721;to;O
+721;Room 599.;LOCATION
+722;Move;ACTION
+722;to;O
+722;doctors room;LOCATION
+722;with;O
+722;Tylenol.;O
+723;Transport;ACTION
+723;Cough;O
+723;Syrup;O
+723;to;O
+723;Room 445.;LOCATION
+724;Navigate;ACTION
+724;to;O
+724;Room 313;LOCATION
+724;with;O
+724;Antibiotics.;O
+725;Deliver;ACTION
+725;Penicillin;MEDICINE
+725;to;O
+725;Room 447.;LOCATION
+726;Head towards;ACTION
+726;to;O
+726;Room 505;LOCATION
+726;with;O
+726;Ibuprofen.;O
+727;Bring;ACTION
+727;Ibuprofen;MEDICINE
+727;to;O
+727;nurse_station.;O
+728;Head towards;ACTION
+728;to;O
+728;doctors room;LOCATION
+728;with;O
+728;Tylenol.;O
+729;Deliver;ACTION
+729;Paracetamol;MEDICINE
+729;to;O
+729;Room 306.;LOCATION
+730;Bring;ACTION
+730;Paracetamol;MEDICINE
+730;to;O
+730;nurse_station.;O
+731;Go;ACTION
+731;to;O
+731;emergency room;LOCATION
+731;with;O
+731;Paracetamol.;O
+732;Send;ACTION
+732;Paracetamol;MEDICINE
+732;to;O
+732;Room 430.;LOCATION
+733;Head towards;ACTION
+733;to;O
+733;Room 551;LOCATION
+733;with;O
+733;Antibiotics.;O
+734;Go;ACTION
+734;to;O
+734;doctors room;LOCATION
+734;with;O
+734;Paracetamol.;O
+735;Proceed;ACTION
+735;to;O
+735;nurse station;LOCATION
+735;with;O
+735;Ibuprofen.;O
+736;Transport;ACTION
+736;Ibuprofen;MEDICINE
+736;to;O
+736;Room 336.;LOCATION
+737;Go;ACTION
+737;to;O
+737;Room 565;LOCATION
+737;with;O
+737;Paracetamol.;O
+738;Send;ACTION
+738;Cough;O
+738;Syrup;O
+738;to;O
+738;emergency_room.;O
+739;Proceed;ACTION
+739;to;O
+739;Room 262;LOCATION
+739;with;O
+739;Antibiotics.;O
+740;Take;ACTION
+740;Cough;O
+740;Syrup;O
+740;to;O
+740;Room 197.;LOCATION
+741;Move;ACTION
+741;to;O
+741;doctors room;LOCATION
+741;with;O
+741;Penicillin.;O
+742;Transport;ACTION
+742;Penicillin;MEDICINE
+742;to;O
+742;Room 479.;LOCATION
+743;Take;ACTION
+743;Antibiotics;MEDICINE
+743;to;O
+743;reception.;O
+744;Head towards;ACTION
+744;to;O
+744;Reception;LOCATION
+744;with;O
+744;Aspirin.;O
+745;Navigate;ACTION
+745;to;O
+745;Room 287;LOCATION
+745;with;O
+745;Paracetamol.;O
+746;Proceed;ACTION
+746;to;O
+746;Room 586;LOCATION
+746;with;O
+746;Tylenol.;O
+747;Navigate;ACTION
+747;to;O
+747;Room 176;LOCATION
+747;with;O
+747;Penicillin.;O
+748;Proceed;ACTION
+748;to;O
+748;Room 451;LOCATION
+748;with;O
+748;Aspirin.;O
+749;Send;ACTION
+749;Penicillin;MEDICINE
+749;to;O
+749;reception.;O
+750;Bring;ACTION
+750;Penicillin;MEDICINE
+750;to;O
+750;emergency_room.;O
+751;Transport;ACTION
+751;Penicillin;MEDICINE
+751;to;O
+751;Room 427.;LOCATION
+752;Navigate;ACTION
+752;to;O
+752;Room 237;LOCATION
+752;with;O
+752;Tylenol.;O
+753;Bring;ACTION
+753;Tylenol;MEDICINE
+753;to;O
+753;emergency_room.;O
+754;Proceed;ACTION
+754;to;O
+754;Room 291;LOCATION
+754;with;O
+754;Aspirin.;O
+755;Proceed;ACTION
+755;to;O
+755;Room 371;LOCATION
+755;with;O
+755;Tylenol.;O
+756;Take;ACTION
+756;Antibiotics;MEDICINE
+756;to;O
+756;emergency_room.;O
+757;Proceed;ACTION
+757;to;O
+757;Room 163;LOCATION
+757;with;O
+757;Cough;O
+757;Syrup.;O
+758;Take;ACTION
+758;Paracetamol;MEDICINE
+758;to;O
+758;nurse_station.;O
+759;Transport;ACTION
+759;Cough;O
+759;Syrup;O
+759;to;O
+759;Room 390.;LOCATION
+760;Send;ACTION
+760;Tylenol;MEDICINE
+760;to;O
+760;nurse_station.;O
+761;Move;ACTION
+761;to;O
+761;doctors room;LOCATION
+761;with;O
+761;Antibiotics.;O
+762;Send;ACTION
+762;Cough;O
+762;Syrup;O
+762;to;O
+762;Room 309.;LOCATION
+763;467.;O
+763;Room Deliver;LOCATION
+763;to;O
+763;Tylenol;MEDICINE
+764;Move;ACTION
+764;to;O
+764;reception;LOCATION
+764;with;O
+764;Penicillin.;O
+765;Go;ACTION
+765;to;O
+765;Room 441;LOCATION
+765;with;O
+765;Antibiotics.;O
+766;Bring;ACTION
+766;Cough;O
+766;Syrup;O
+766;to;O
+766;Room 140.;LOCATION
+767;Move;ACTION
+767;to;O
+767;emergency room;LOCATION
+767;with;O
+767;Aspirin.;O
+768;Bring;ACTION
+768;Tylenol;MEDICINE
+768;to;O
+768;ICU.;O
+769;Head towards;ACTION
+769;to;O
+769;ICU;LOCATION
+769;with;O
+769;Tylenol.;O
+770;Navigate;ACTION
+770;to;O
+770;nurse station;LOCATION
+770;with;O
+770;Cough;O
+770;Syrup.;O
+771;Head towards;ACTION
+771;to;O
+771;nurse station;LOCATION
+771;with;O
+771;Antibiotics.;O
+772;Go;ACTION
+772;to;O
+772;Room 341;LOCATION
+772;with;O
+772;Tylenol.;O
+773;Go;ACTION
+773;to;O
+773;ICU;LOCATION
+773;head;O
+773;with;O
+773;Cough;O
+773;Syrup.;O
+773;towards;O
+774;Navigate;ACTION
+774;to;O
+774;Room 582;LOCATION
+774;with;O
+774;Cough;O
+774;Syrup.;O
+775;Proceed;ACTION
+775;to;O
+775;doctors room;LOCATION
+775;with;O
+775;Tylenol.;O
+776;Deliver;ACTION
+776;Antibiotics;MEDICINE
+776;baby;O
+776;to;O
+776;Room 438.;LOCATION
+777;ICU;LOCATION
+777;Antibiotics;MEDICINE
+777;to;O
+777;Room 532.;LOCATION
+778;Deliver;ACTION
+778;Cough;O
+778;Syrup;O
+778;to;O
+778;Room 259.;LOCATION
+779;Transport;ACTION
+779;towards;O
+779;Tylenol;MEDICINE
+779;to;O
+779;emergency;O
+779;head;O
+779;room.;O
+780;Head towards;ACTION
+780;to;O
+780;nurse station;LOCATION
+780;with;O
+780;Paracetamol.;O
+781;Proceed;ACTION
+781;to;O
+781;nurse station;LOCATION
+781;Room 557;LOCATION
+781;with;O
+781;Paracetamol.;O
+782;Transport;ACTION
+782;Tylenol;MEDICINE
+782;to;O
+782;Room 190.;LOCATION
+783;Head towards;ACTION
+783;to;O
+783;Room 393;LOCATION
+783;with;O
+783;Aspirin.;O
+784;Proceed;ACTION
+784;to;O
+784;Room 338;LOCATION
+784;with;O
+784;Paracetamol.;O
+785;Transport;ACTION
+785;Tylenol;MEDICINE
+785;to;O
+785;Room 388.;LOCATION
+786;Deliver;ACTION
+786;Cough;O
+786;Syrup;O
+786;to;O
+786;Room 429.;LOCATION
+787;Bring;ACTION
+787;Tylenol;MEDICINE
+787;to;O
+787;Room 419.;LOCATION
+788;Take;ACTION
+788;head;O
+788;towards;O
+788;Antibiotics;MEDICINE
+788;to;O
+788;reception.;O
+789;Take;ACTION
+789;Antibiotics;MEDICINE
+789;to;O
+789;Room 375.;LOCATION
+790;Proceed;ACTION
+790;add;O
+790;to;O
+790;Room 468;LOCATION
+790;with;O
+790;Cough;O
+790;Syrup.;O
+791;Navigate;ACTION
+791;to;O
+791;Reception;LOCATION
+791;with;O
+791;Tylenol.;O
+792;Go;ACTION
+792;to;O
+792;nurse station;LOCATION
+792;with;O
+792;Aspirin.;O
+793;with;O
+793;RECEPTION;LOCATION
+793;Proceed;ACTION
+793;to;O
+793;Aspirin.;O
+794;Proceed;ACTION
+794;to;O
+794;Room 328;LOCATION
+794;with;O
+794;Cough;O
+794;Syrup.;O
+795;Navigate;ACTION
+795;to;O
+795;Room 144;LOCATION
+795;with;O
+795;Antibiotics.;O
+796;to;O
+796;Room Tylenol;LOCATION
+796;Send;ACTION
+796;116.;O
+797;Move;ACTION
+797;to;O
+797;emergency room;LOCATION
+797;with;O
+797;emergency room;LOCATION
+797;Cough;O
+797;Syrup.;O
+798;Bring;ACTION
+798;Ibuprofen;MEDICINE
+798;to;O
+798;reception.;O
+799;Proceed;ACTION
+799;to;O
+799;doctors room;LOCATION
+799;with;O
+799;Antibiotics.;O
+800;Go;ACTION
+800;to;O
+800;Room 122;LOCATION
+800;with;O
+800;Ibuprofen.;O
+801;Send;ACTION
+801;Tylenol;MEDICINE
+801;to;O
+801;Room 319.;LOCATION
+802;Send;ACTION
+802;Antibiotics;MEDICINE
+802;to;O
+802;Room 300.;LOCATION
+803;Head towards;ACTION
+803;to;O
+803;doctors room;LOCATION
+803;with;O
+803;Aspirin.;O
+804;Move;ACTION
+804;to;O
+804;Room 560;LOCATION
+804;with;O
+804;Antibiotics.;O
+805;Move;ACTION
+805;to;O
+805;doctors room;LOCATION
+805;with;O
+805;Paracetamol.;O
+806;Transport;ACTION
+806;Ibuprofen;MEDICINE
+806;to;O
+806;Room 300.;LOCATION
+807;Go;ACTION
+807;to;O
+807;Room 400;LOCATION
+807;with;O
+807;Tylenol.;O
+808;Bring;ACTION
+808;Cough;O
+808;Syrup;O
+808;to;O
+808;Room 140.;LOCATION
+809;Head towards;ACTION
+809;to;O
+809;ICU;LOCATION
+809;with;O
+809;Aspirin.;O
+810;Bring;ACTION
+810;Cough;O
+810;Syrup;O
+810;to;O
+810;Room 597.;LOCATION
+811;Take;ACTION
+811;Penicillin;MEDICINE
+811;to;O
+811;emergency_room.;O
+812;Proceed;ACTION
+812;to;O
+812;Room 477;LOCATION
+812;with;O
+812;Ibuprofen.;O
+813;Move;ACTION
+813;to;O
+813;Room 362;LOCATION
+813;with;O
+813;Aspirin.;O
+814;Move;ACTION
+814;to;O
+814;emergency room;LOCATION
+814;with;O
+814;Ibuprofen.;O
+815;Send;ACTION
+815;Paracetamol;MEDICINE
+815;to;O
+815;nurse_station.;O
+816;Deliver;ACTION
+816;Tylenol;MEDICINE
+816;to;O
+816;ICU.;O
+817;Go;ACTION
+817;to;O
+817;Room 393;LOCATION
+817;with;O
+817;Ibuprofen.;O
+818;Head towards;ACTION
+818;to;O
+818;Room 309;LOCATION
+818;with;O
+818;Cough;O
+818;Syrup.;O
+819;Navigate;ACTION
+819;to;O
+819;Room 570;LOCATION
+819;with;O
+819;Cough;O
+819;Syrup.;O
+820;to;O
+820;Bring;ACTION
+820;Paracetamol;MEDICINE
+820;room.;O
+820;emergency;O
+821;Proceed;ACTION
+821;to;O
+821;Room 408;LOCATION
+821;with;O
+821;Paracetamol.;O
+822;Proceed;ACTION
+822;to;O
+822;Room 463;LOCATION
+822;with;O
+822;Ibuprofen.;O
+823;Head towards;ACTION
+823;to;O
+823;nurse station;LOCATION
+823;with;O
+823;Tylenol.;O
+824;Move;ACTION
+824;tow;O
+824;Room 166;LOCATION
+824;with;O
+824;Penicillin.;O
+825;Head towards;ACTION
+825;to;O
+825;nurse station;LOCATION
+825;with;O
+825;Aspirin.;O
+826;Transport;ACTION
+826;Ibuprofen;MEDICINE
+826;to;O
+826;doctors_room.;O
+827;Transport;ACTION
+827;Antibiotics;MEDICINE
+827;to;O
+827;emergency_room.;O
+828;Move;ACTION
+828;to;O
+828;Room 243;LOCATION
+828;with;O
+828;Aspirin.;O
+829;Head towards;ACTION
+829;to;O
+829;Room 513;LOCATION
+829;with;O
+829;Cough;O
+829;Syrup.;O
+830;Deliver;ACTION
+830;Paracetamol;MEDICINE
+830;to;O
+830;doctors_room.;O
+831;Send;ACTION
+831;Penicillin;MEDICINE
+831;to;O
+831;emergency_room.;O
+832;Bring;ACTION
+832;Tylenol;MEDICINE
+832;to;O
+832;doctors_room.;O
+833;Navigate;ACTION
+833;to;O
+833;nurse station;LOCATION
+833;with;O
+833;Antibiotics.;O
+834;Go;ACTION
+834;to;O
+834;Room 233;LOCATION
+834;with;O
+834;natural;O
+834;Aspirin.;O
+835;Transport;ACTION
+835;Cough;O
+835;Syrup;O
+835;to;O
+835;Room 532.;LOCATION
+836;Take;ACTION
+836;Paracetamol;MEDICINE
+836;to;O
+836;nurse_station.;O
+837;Transport;ACTION
+837;Aspirin;MEDICINE
+837;to;O
+837;Room 540.;LOCATION
+838;Head towards;ACTION
+838;to;O
+838;Room 245;LOCATION
+838;with;O
+838;Penicillin.;O
+839;Take;ACTION
+839;Penicillin;MEDICINE
+839;to;O
+839;emergency_room.;O
+840;Take;ACTION
+840;Paracetamol;MEDICINE
+840;to;O
+840;nurse_station.;O
+841;Take;ACTION
+841;Cough;O
+841;Syrup;O
+841;to;O
+841;Room 426.;LOCATION
+842;Take;ACTION
+842;Aspirin;MEDICINE
+842;to;O
+842;Room 263.;LOCATION
+843;Take;ACTION
+843;Paracetamol;MEDICINE
+843;to;O
+843;nursekurse;O
+843;station.;O
+844;Transport;ACTION
+844;Cough;O
+844;Syrup;O
+844;to;O
+844;ICU.;O
+845;Move;ACTION
+845;to;O
+845;ICU;LOCATION
+845;maybe;O
+845;with;O
+845;Aspirin.;O
+846;Bring;ACTION
+846;Antibiotics;MEDICINE
+846;to;O
+846;room.;O
+846;doctors;O
+847;Send;ACTION
+847;Tylenol;MEDICINE
+847;to;O
+847;ICU.;O
+848;Cough;O
+848;Room Go;LOCATION
+848;423;O
+848;Syrup.;O
+848;to;O
+848;with;O
+849;Navigate;ACTION
+849;to;O
+849;nurse station;LOCATION
+849;with;O
+849;Ibuprofen.;O
+850;Deliver;ACTION
+850;Antibiotics;MEDICINE
+850;to;O
+850;Room 306.;LOCATION
+851;Navigate;ACTION
+851;to;O
+851;emergency room;LOCATION
+851;with;O
+851;Aspirin.;O
+852;Move;ACTION
+852;to;O
+852;emergency room;LOCATION
+852;with;O
+852;Cough;O
+852;Syrup.;O
+853;Move;ACTION
+853;to;O
+853;Room 320;LOCATION
+853;with;O
+853;Ibuprofen.;O
+854;Transport;ACTION
+854;Aspirin;MEDICINE
+854;to;O
+854;doctors_room.;O
+855;Bring;ACTION
+855;Aspirin;MEDICINE
+855;to;O
+855;nurse_station.;O
+856;Navigate;ACTION
+856;to;O
+856;emergency room;LOCATION
+856;with;O
+856;Ibuprofen.;O
+857;369;O
+857;with;O
+857;to;O
+857;Move;ACTION
+857;Tylenol.;O
+858;Bring;ACTION
+858;Ibuprofen;MEDICINE
+858;to;O
+858;Room 479.;LOCATION
+859;Send;ACTION
+859;Aspirin;MEDICINE
+859;to;O
+859;Room 394.;LOCATION
+860;Proceed;ACTION
+860;to;O
+860;Room 512;LOCATION
+860;with;O
+860;Tylenol.;O
+861;Deliver;ACTION
+861;Antibiotics;MEDICINE
+861;to;O
+861;emergency_room.;O
+862;Proceed;ACTION
+862;to;O
+862;ICU;LOCATION
+862;with;O
+862;Aspirin.;O
+863;Go;ACTION
+863;to;O
+863;Room 222;LOCATION
+863;with;O
+863;Ibuprofen.;O
+864;Bring;ACTION
+864;Cough;O
+864;Syrup;O
+864;to;O
+864;Room 132.;LOCATION
+865;Proceed;ACTION
+865;to;O
+865;nurse station;LOCATION
+865;with;O
+865;Ibuprofen.;O
+866;ICU;LOCATION
+866;Cough;O
+866;Syrup;O
+866;to;O
+866;Room 481.;LOCATION
+867;Move;ACTION
+867;to;O
+867;Room 533;LOCATION
+867;with;O
+867;Cough;O
+867;Syrup.;O
+868;Head towards;ACTION
+868;to;O
+868;Room 515;LOCATION
+868;with;O
+868;Penicillin.;O
+869;Take;ACTION
+869;Tylenol;MEDICINE
+869;to;O
+869;Room 156.;LOCATION
+870;Send;ACTION
+870;Antibiotics;MEDICINE
+870;to;O
+870;Room 488.;LOCATION
+871;Go;ACTION
+871;to;O
+871;Reception;LOCATION
+871;with;O
+871;Aspirin.;O
+872;Navigate;ACTION
+872;to;O
+872;doctors room;LOCATION
+872;with;O
+872;Paracetamol.;O
+873;Go;ACTION
+873;to;O
+873;Room 434;LOCATION
+873;with;O
+873;Ibuprofen.;O
+874;Send;ACTION
+874;Ibuprofen;MEDICINE
+874;to;O
+874;Room 304.;LOCATION
+875;Deliver;ACTION
+875;Paracetamol;MEDICINE
+875;to;O
+875;Room 235.;LOCATION
+876;Bring;ACTION
+876;Ibuprofen;MEDICINE
+876;to;O
+876;nurse_station.;O
+877;Head towards;ACTION
+877;to;O
+877;Room 483;LOCATION
+877;with;O
+877;Ibuprofen.;O
+878;Head towards;ACTION
+878;to;O
+878;Room 516;LOCATION
+878;with;O
+878;Cough;O
+878;Syrup.;O
+879;Move;ACTION
+879;to;O
+879;doctors room;LOCATION
+879;with;O
+879;Tylenol.;O
+880;Take;ACTION
+880;Ibuprofen;MEDICINE
+880;to;O
+880;Room 427.;LOCATION
+881;Send;ACTION
+881;Tylenol;MEDICINE
+881;to;O
+881;Room 475.;LOCATION
+882;Proceed;ACTION
+882;to;O
+882;Room 350;LOCATION
+882;wich;O
+882;Antibiotics.;O
+883;room.;O
+883;Bring;ACTION
+883;emergency;O
+883;to;O
+883;Penicillin;MEDICINE
+884;Head towards;ACTION
+884;to;O
+884;Room 209;LOCATION
+884;with;O
+884;Aspirin.;O
+885;Deliver;ACTION
+885;Antibiotics;MEDICINE
+885;tw;O
+885;Room 431.;LOCATION
+886;Navigate;ACTION
+886;to;O
+886;Room 546;LOCATION
+886;with;O
+886;Tylenol.;O
+887;Go;ACTION
+887;to;O
+887;emergency room;LOCATION
+887;with;O
+887;Ibuprofen.;O
+888;Bring;ACTION
+888;Tylenol;MEDICINE
+888;to;O
+888;doctors_room.;O
+889;Go;ACTION
+889;to;O
+889;Room 238;LOCATION
+889;with;O
+889;Antibiotics.;O
+890;Bring;ACTION
+890;Aspirin;MEDICINE
+890;to;O
+890;Room 117.;LOCATION
+891;Deliver;ACTION
+891;Ibuprofen;MEDICINE
+891;to;O
+891;Room 464.;LOCATION
+892;Take;ACTION
+892;Antibiotics;MEDICINE
+892;to;O
+892;Room 528.;LOCATION
+893;Proceed;ACTION
+893;to;O
+893;emergency room;LOCATION
+893;with;O
+893;Aspirin.;O
+894;Move;ACTION
+894;to;O
+894;nurse station;LOCATION
+894;with;O
+894;Tylenol.;O
+895;Navigate;ACTION
+895;to;O
+895;emergency room;LOCATION
+895;with;O
+895;Aspirin.;O
+896;Transport;ACTION
+896;Tylenol;MEDICINE
+896;to;O
+896;nurse_station.;O
+897;Proceed;ACTION
+897;Penicillin.;O
+897;to;O
+897;Room 371;LOCATION
+897;with;O
+898;Bring;ACTION
+898;Paracetamol;MEDICINE
+898;to;O
+898;Room 219.;LOCATION
+899;Send;ACTION
+899;Tylenol;MEDICINE
+899;tvo;O
+899;nurse_station.;O
+900;Move;ACTION
+900;to;O
+900;Room 519;LOCATION
+900;with;O
+900;Ibuprofen.;O
+901;Move;ACTION
+901;to;O
+901;Room 362;LOCATION
+901;with;O
+901;Paracetamol.;O
+902;Move;ACTION
+902;to;O
+902;Room 533;LOCATION
+902;with;O
+902;Aspirin.;O
+903;Send;ACTION
+903;Antibiotics;MEDICINE
+903;to;O
+903;Room 428.;LOCATION
+904;Head towards;ACTION
+904;to;O
+904;ICU;LOCATION
+904;with;O
+904;Antibiotics.;O
+905;Transport;ACTION
+905;Antibiotics;MEDICINE
+905;to;O
+905;reception.;O
+906;Move;ACTION
+906;with;O
+906;Paracetamol.;O
+906;to;O
+906;Room 558;LOCATION
+907;Transport;ACTION
+907;Tylenol;MEDICINE
+907;to;O
+907;doctors_room.;O
+908;Navigate;ACTION
+908;to;O
+908;Room 431;LOCATION
+908;with;O
+908;Cough;O
+908;Syrup.;O
+909;Navigate;ACTION
+909;to;O
+909;towards;O
+909;Room 181;LOCATION
+909;with;O
+909;head;O
+909;Paracetamol.;O
+910;Bring;ACTION
+910;Aspirin;MEDICINE
+910;to;O
+910;emergency_room.;O
+911;Transport;ACTION
+911;Cough;O
+911;Syrup;O
+911;to;O
+911;Room 232.;LOCATION
+912;Go;ACTION
+912;to;O
+912;Room 568;LOCATION
+912;doctors room;LOCATION
+912;with;O
+912;Tylenol.;O
+913;Deliver;ACTION
+913;Tylenol;MEDICINE
+913;to;O
+913;Room 210.;LOCATION
+914;with;O
+914;Penicillin.;O
+914;ICU;LOCATION
+914;to;O
+914;Proceed;ACTION
+915;Bring;ACTION
+915;Antibiotics;MEDICINE
+915;to;O
+915;Room 194.;LOCATION
+916;Take;ACTION
+916;Penicillin;MEDICINE
+916;to;O
+916;Room 287.;LOCATION
+917;Bring;ACTION
+917;movement;O
+917;Paracetamol;MEDICINE
+917;to;O
+917;Room 110.;LOCATION
+918;Deliver;ACTION
+918;Paracetamol;MEDICINE
+918;to;O
+918;Room 545.;LOCATION
+919;Take;ACTION
+919;Tylenol;MEDICINE
+919;to;O
+919;ICU.;O
+920;Proceed;ACTION
+920;to;O
+920;Room 334;LOCATION
+920;with;O
+920;Ibuprofen.;O
+921;Transport;ACTION
+921;Aspirin;MEDICINE
+921;to;O
+921;nurse_station.;O
+922;Transport;ACTION
+922;Paracetamol;MEDICINE
+922;to;O
+922;emergency_room.;O
+923;Transport;ACTION
+923;Paracetamol;MEDICINE
+923;to;O
+923;doctors;O
+923;nurse station;LOCATION
+923;room.;O
+924;Transport;ACTION
+924;Tylenol;MEDICINE
+924;to;O
+924;nurse_station.;O
+925;Proceed;ACTION
+925;to;O
+925;Room 552;LOCATION
+925;with;O
+925;Penicillin.;O
+926;Send;ACTION
+926;Tylenol;MEDICINE
+926;to;O
+926;emergency_room.;O
+927;Proceed;ACTION
+927;to;O
+927;nurse station;LOCATION
+927;with;O
+927;Tylenol.;O
+928;Bring;ACTION
+928;Aspirin;MEDICINE
+928;to;O
+928;emergency_room.;O
+929;Bring;ACTION
+929;Tylenol;MEDICINE
+929;to;O
+929;Room 580.;LOCATION
+930;Bring;ACTION
+930;Antibiotics;MEDICINE
+930;to;O
+930;Room 397.;LOCATION
+931;Transport;ACTION
+931;Cough;O
+931;Syrup;O
+931;to;O
+931;doctors_room.;O
+931;towards;O
+931;head;O
+932;Bring;ACTION
+932;Antibiotics;MEDICINE
+932;to;O
+932;Room 171.;LOCATION
+933;Navigate;ACTION
+933;to;O
+933;Room 249;LOCATION
+933;with;O
+933;Tylenol.;O
+934;Head towards;ACTION
+934;to;O
+934;ICU;LOCATION
+934;with;O
+934;Ibuprofen.;O
+935;Move;ACTION
+935;to;O
+935;Room 205;LOCATION
+935;with;O
+935;Tylenol.;O
+936;Deliver;ACTION
+936;Paracetamol;MEDICINE
+936;to;O
+936;Room 358.;LOCATION
+937;Move;ACTION
+937;to;O
+937;ICU;LOCATION
+937;with;O
+937;Paracetamol.;O
+938;Send;ACTION
+938;Tylenol;MEDICINE
+938;to;O
+938;nurse_station.;O
+939;Send;ACTION
+939;Antibiotics;MEDICINE
+939;to;O
+939;nurse_station.;O
+940;Bring;ACTION
+940;Ibuprofen;MEDICINE
+940;to;O
+940;Room 563.;LOCATION
+941;Navigate;ACTION
+941;to;O
+941;Ro;O
+941;304;O
+941;with;O
+941;Penicillin.;O
+942;Move;ACTION
+942;to;O
+942;Room 346;LOCATION
+942;with;O
+942;Aspirin.;O
+943;Bring;ACTION
+943;Cough;O
+943;Syrup;O
+943;to;O
+943;Room 392.;LOCATION
+943;head;O
+943;towards;O
+944;station.;O
+944;Take;ACTION
+944;Aspirin;MEDICINE
+944;to;O
+944;nurse;O
+945;Head towards;ACTION
+945;to;O
+945;ICU;LOCATION
+945;with;O
+945;Ibuprofen.;O
+946;Navigate;ACTION
+946;look;O
+946;to;O
+946;Room 408;LOCATION
+946;with;O
+946;Tylenol.;O
+947;Head towards;ACTION
+947;to;O
+947;Room 335;LOCATION
+947;ICU;LOCATION
+947;with;O
+947;Cough;O
+947;Syrup.;O
+948;Proceed;ACTION
+948;to;O
+948;nurse station;LOCATION
+948;with;O
+948;Antibiotics.;O
+949;Navigate;ACTION
+949;to;O
+949;doctors room;LOCATION
+949;with;O
+949;Penicillin.;O
+950;Bring;ACTION
+950;Antibiotics;MEDICINE
+950;to;O
+950;Room 168.;LOCATION
+951;Navigate;ACTION
+951;to;O
+951;ICU;LOCATION
+951;with;O
+951;Cough;O
+951;Syrup.;O
+952;Take;ACTION
+952;Aspirin;MEDICINE
+952;to;O
+952;ICU.;O
+953;Go;ACTION
+953;to;O
+953;ICU;LOCATION
+953;with;O
+953;Tylenol.;O
+954;Deliver;ACTION
+954;Antibiotics;MEDICINE
+954;to;O
+954;ICU.;O
+955;455;O
+955;Ibuprofen.;O
+955;Room Navigate;LOCATION
+955;to;O
+955;with;O
+956;Deliver;ACTION
+956;Tylenol;MEDICINE
+956;to;O
+956;Room 208.;LOCATION
+957;Antibiotics.;O
+957;with;O
+957;Room to;LOCATION
+957;Navigate;ACTION
+957;437;O
+958;Head towards;ACTION
+958;to;O
+958;nurse station;LOCATION
+958;with;O
+958;Antibiotics.;O
+959;Transport;ACTION
+959;Antibiotics;MEDICINE
+959;to;O
+959;ICU.;O
+960;Room 294;LOCATION
+960;with;O
+960;Head;O
+960;to;O
+960;Paracetamol.;O
+960;towards;O
+961;Navigate;ACTION
+961;to;O
+961;nurse station;LOCATION
+961;with;O
+961;Penicillin.;O
+962;Head towards;ACTION
+962;to;O
+962;emergency room;LOCATION
+962;with;O
+962;Penicillin.;O
+963;Transport;ACTION
+963;Penicillin;MEDICINE
+963;to;O
+963;Room 458.;LOCATION
+964;Proceed;ACTION
+964;to;O
+964;emergency room;LOCATION
+964;with;O
+964;Penicillin.;O
+965;Go;ACTION
+965;to;O
+965;ICU;LOCATION
+965;with;O
+965;Paracetamol.;O
+966;Proceed;ACTION
+966;to;O
+966;nurse station;LOCATION
+966;with;O
+966;Cough;O
+966;Syrup.;O
+967;Navigate;ACTION
+967;to;O
+967;Room 320;LOCATION
+967;with;O
+967;Cough;O
+967;Syrup.;O
+967;towards;O
+967;head;O
+968;doctors;O
+968;Penicillin;MEDICINE
+968;Take;ACTION
+968;room.;O
+968;to;O
+969;Go;ACTION
+969;to;O
+969;emergency room;LOCATION
+969;with;O
+969;Cough;O
+969;Syrup.;O
+970;Ibuprofen.;O
+970;Room with;LOCATION
+970;532;O
+970;to;O
+970;Move;ACTION
+971;Send;ACTION
+971;Antibiotics;MEDICINE
+971;to;O
+971;ICU.;O
+972;Send;ACTION
+972;Paracetamol;MEDICINE
+972;to;O
+972;Room 594.;LOCATION
+973;Take;ACTION
+973;Antibiotics;MEDICINE
+973;to;O
+973;Room 404.;LOCATION
+974;Navigate;ACTION
+974;to;O
+974;Room 375;LOCATION
+974;with;O
+974;Antibiotics.;O
+975;Proceed;ACTION
+975;to;O
+975;Room 247;LOCATION
+975;with;O
+975;Tylenol.;O
+976;Navigate;ACTION
+976;to;O
+976;Room 494;LOCATION
+976;with;O
+976;Ibuprofen.;O
+977;Take;ACTION
+977;Room 461.;LOCATION
+977;Antibiotics;MEDICINE
+977;to;O
+978;Navigate;ACTION
+978;to;O
+978;nurse station;LOCATION
+978;with;O
+978;Penicillin.;O
+979;Go;ACTION
+979;to;O
+979;Room 520;LOCATION
+979;with;O
+979;Penicillin.;O
+980;Send;ACTION
+980;Ibuprofen;MEDICINE
+980;to;O
+980;ICU.;O
+981;Navigate;ACTION
+981;to;O
+981;reception;LOCATION
+981;with;O
+981;Penicillin.;O
+982;Go;ACTION
+982;to;O
+982;ICU;LOCATION
+982;with;O
+982;Aspirin.;O
+983;Deliver;ACTION
+983;Tylenol;MEDICINE
+983;to;O
+983;Room 520.;LOCATION
+984;Head towards;ACTION
+984;to;O
+984;Room 587;LOCATION
+984;with;O
+984;Antibiotics.;O
+985;Send;ACTION
+985;Antibiotics;MEDICINE
+985;to;O
+985;doctors_room.;O
+986;Proceed;ACTION
+986;to;O
+986;Room 534;LOCATION
+986;with;O
+986;Cough;O
+986;Syrup.;O
+987;Deliver;ACTION
+987;Aspirin;MEDICINE
+987;to;O
+987;Room 247.;LOCATION
+988;Proceed;ACTION
+988;to;O
+988;ICU;LOCATION
+988;witdith;O
+988;Antibiotics.;O
+989;Proceed;ACTION
+989;to;O
+989;Room 142;LOCATION
+989;with;O
+989;Antibiotics.;O
+990;Head towards;ACTION
+990;to;O
+990;reception;LOCATION
+990;with;O
+990;Aspirin.;O
+991;Transport;ACTION
+991;Antibiotics;MEDICINE
+991;to;O
+991;nurse_station.;O
+992;Take;ACTION
+992;Paracetamol;MEDICINE
+992;to;O
+992;reception.;O
+993;Take;ACTION
+993;Tylenol;MEDICINE
+993;to;O
+993;Room 431.;LOCATION
+994;Go;ACTION
+994;to;O
+994;Room 238;LOCATION
+994;with;O
+994;Penicillin.;O
+995;Transport;ACTION
+995;Penicillin;MEDICINE
+995;to;O
+995;Room 559.;LOCATION
+996;Go;ACTION
+996;to;O
+996;Reception;LOCATION
+996;with;O
+996;Aspirin.;O
+997;Tylenol;MEDICINE
+997;to;O
+997;nurse;O
+997;Transport;ACTION
+997;station.;O
+998;Take;ACTION
+998;Ibuprofen;MEDICINE
+998;to;O
+998;Room 286.;LOCATION
+999;Head towards;ACTION
+999;to;O
+999;doctors room;LOCATION
+999;with;O
+999;Ibuprofen.;O
+1000;Navigate;ACTION
+1000;to;O
+1000;Room 322;LOCATION
+1000;with;O
+1000;Ibuprofen.;O
+1001;Head towards;ACTION
+1001;to;O
+1001;Room 485;LOCATION
+1001;with;O
+1001;Cough;O
+1001;Syrup.;O
+1002;Navigate;ACTION
+1002;to;O
+1002;Room with;LOCATION
+1002;Tylenol.;O
+1002;597;O
+1003;Go;ACTION
+1003;to;O
+1003;Room 359;LOCATION
+1003;with;O
+1003;Antibiotics.;O
+1004;Proceed;ACTION
+1004;to;O
+1004;Room 524;LOCATION
+1004;with;O
+1004;physical;O
+1004;Penicillin.;O
+1005;Send;ACTION
+1005;Paracetamol;MEDICINE
+1005;to;O
+1005;Room 283.;LOCATION
+1006;Move;ACTION
+1006;to;O
+1006;Room 257;LOCATION
+1006;with;O
+1006;Ibuprofen.;O
+1007;Move;ACTION
+1007;to;O
+1007;emergency room;LOCATION
+1007;Room 517;LOCATION
+1007;with;O
+1007;Aspirin.;O
+1008;Head towards;ACTION
+1008;to;O
+1008;Room 451;LOCATION
+1008;with;O
+1008;Penicillin.;O
+1009;Proceed;ACTION
+1009;to;O
+1009;nurse station;LOCATION
+1009;with;O
+1009;Ibuprofen.;O
+1010;Transport;ACTION
+1010;Penicillin;MEDICINE
+1010;to;O
+1010;Room 347.;LOCATION
+1011;Navigate;ACTION
+1011;to;O
+1011;emergency;O
+1011;head;O
+1011;Room with;LOCATION
+1011;Tylenol.;O
+1011;towards;O
+1012;Send;ACTION
+1012;Cough;O
+1012;Syrup;O
+1012;to;O
+1012;nurse_station.;O
+1013;Go;ACTION
+1013;to;O
+1013;nurse station;LOCATION
+1013;with;O
+1013;Tylenol.;O
+1014;Deliver;ACTION
+1014;Ibuprofen;MEDICINE
+1014;to;O
+1014;ICU.;O
+1015;Go;ACTION
+1015;to;O
+1015;nurse station;LOCATION
+1015;with;O
+1015;Tylenol.;O
+1016;Deliver;ACTION
+1016;Paracetamol;MEDICINE
+1016;to;O
+1016;Room 332.;LOCATION
+1017;Go;ACTION
+1017;to;O
+1017;nurse station;LOCATION
+1017;with;O
+1017;Penicillin.;O
+1018;Send;ACTION
+1018;Tylenol;MEDICINE
+1018;to;O
+1018;emergency_room.;O
+1019;Move;ACTION
+1019;to;O
+1019;Room 495;LOCATION
+1019;with;O
+1019;Aspirin.;O
+1020;Deliver;ACTION
+1020;Penicillin;MEDICINE
+1020;to;O
+1020;emergency_room.;O
+1021;Proceed;ACTION
+1021;to;O
+1021;Room 148;LOCATION
+1021;with;O
+1021;Cough;O
+1021;Syrup.;O
+1022;Go;ACTION
+1022;to;O
+1022;emergency room;LOCATION
+1022;with;O
+1022;Antibiotics.;O
+1023;Send;ACTION
+1023;Aspirin;MEDICINE
+1023;to;O
+1023;reception.;O
+1024;Move;ACTION
+1024;to;O
+1024;Room 309;LOCATION
+1024;with;O
+1024;Ibuprofen.;O
+1025;ICU;LOCATION
+1025;Penicillin;MEDICINE
+1025;to;O
+1025;doctors_room.;O
+1026;Proceed;ACTION
+1026;to;O
+1026;doctors room;LOCATION
+1026;with;O
+1026;Aspirin.;O
+1027;Deliver;ACTION
+1027;Paracetamol;MEDICINE
+1027;to;O
+1027;doctors_room.;O
+1028;Go;ACTION
+1028;to;O
+1028;reception;LOCATION
+1028;with;O
+1028;Penicillin.;O
+1029;Proceed;ACTION
+1029;to;O
+1029;doctors room;LOCATION
+1029;with;O
+1029;Antibiotics.;O
+1030;Head towards;ACTION
+1030;to;O
+1030;Room 434;LOCATION
+1030;with;O
+1030;Ibuprofen.;O
+1031;Move;ACTION
+1031;to;O
+1031;Room 151;LOCATION
+1031;with;O
+1031;Ibuprofen.;O
+1032;Proceed;ACTION
+1032;to;O
+1032;nurse station;LOCATION
+1032;with;O
+1032;Paracetamol.;O
+1033;Head towards;ACTION
+1033;to;O
+1033;nurse station;LOCATION
+1033;with;O
+1033;Cough;O
+1033;or;O
+1033;Syrup.;O
+1034;Bring;ACTION
+1034;Cough;O
+1034;Syrup;O
+1034;to;O
+1034;Room 502.;LOCATION
+1035;Go;ACTION
+1035;to;O
+1035;Room 382;LOCATION
+1035;with;O
+1035;Ibuprofen.;O
+1036;Bring;ACTION
+1036;Ibuprofen;MEDICINE
+1036;to;O
+1036;doctors_room.;O
+1037;546;O
+1037;Move;ACTION
+1037;with;O
+1037;to;O
+1037;Room Aspirin.;LOCATION
+1038;Proceed;ACTION
+1038;to;O
+1038;emergency room;LOCATION
+1038;with;O
+1038;Penicillin.;O
+1039;Take;ACTION
+1039;Penicillin;MEDICINE
+1039;to;O
+1039;Room 466.;LOCATION
+1040;Deliver;ACTION
+1040;Antibiotics;MEDICINE
+1040;to;O
+1040;Room 589.;LOCATION
+1041;Transport;ACTION
+1041;Penicillin;MEDICINE
+1041;to;O
+1041;Room 392.;LOCATION
+1042;Go;ACTION
+1042;to;O
+1042;Room 327;LOCATION
+1042;with;O
+1042;Antibiotics.;O
+1043;Proceed;ACTION
+1043;to;O
+1043;Room 499;LOCATION
+1043;with;O
+1043;Ibuprofen.;O
+1044;Head towards;ACTION
+1044;to;O
+1044;ICU;LOCATION
+1044;with;O
+1044;Cough;O
+1044;Syrup.;O
+1045;Proceed;ACTION
+1045;to;O
+1045;ICU;LOCATION
+1045;with;O
+1045;Ibuprofen.;O
+1046;Bring;ACTION
+1046;Ibuprofen;MEDICINE
+1046;to;O
+1046;Room 599.;LOCATION
+1047;Proceed;ACTION
+1047;to;O
+1047;receptioeion;O
+1047;with;O
+1047;Ibuprofen.;O
+1048;Navigate;ACTION
+1048;to;O
+1048;doctors room;LOCATION
+1048;with;O
+1048;Aspirin.;O
+1049;Move;ACTION
+1049;to;O
+1049;Room 557;LOCATION
+1049;with;O
+1049;Ibuprofen.;O
+1050;Move;ACTION
+1050;to;O
+1050;Room 416;LOCATION
+1050;with;O
+1050;Aspirin.;O
+1051;nurse station;LOCATION
+1051;Bring;ACTION
+1051;Paracetamol;MEDICINE
+1051;to;O
+1051;ICU.;O
+1052;Navigate;ACTION
+1052;to;O
+1052;Room 530;LOCATION
+1052;with;O
+1052;Cough;O
+1052;Syrup.;O
+1053;Move;ACTION
+1053;to;O
+1053;doctors room;LOCATION
+1053;with;O
+1053;Aspirin.;O
+1054;Go;ACTION
+1054;to;O
+1054;doctors room;LOCATION
+1054;with;O
+1054;Cough;O
+1054;Syrup.;O
+1055;Deliver;ACTION
+1055;Penicillin;MEDICINE
+1055;to;O
+1055;emergency_room.;O
+1056;Bring;ACTION
+1056;Aspirin;MEDICINE
+1056;to;O
+1056;doctors_room.;O
+1057;Send;ACTION
+1057;Penicillin;MEDICINE
+1057;to;O
+1057;Room 129.;LOCATION
+1058;to;O
+1058;Antibiotics.;O
+1058;490;O
+1058;with;O
+1058;Navigate;ACTION
+1059;Head towards;ACTION
+1059;to;O
+1059;ICU;LOCATION
+1059;with;O
+1059;Aspirin.;O
+1060;Send;ACTION
+1060;Cough;O
+1060;Syrup;O
+1060;to;O
+1060;reception.;O
+1061;Go;ACTION
+1061;to;O
+1061;Room 151;LOCATION
+1061;with;O
+1061;Ibuprofen.;O
+1062;Take;ACTION
+1062;Cough;O
+1062;Syrup;O
+1062;to;O
+1062;Room 258.;LOCATION
+1063;Deliver;ACTION
+1063;Penicillin;MEDICINE
+1063;to;O
+1063;emergency_room.;O
+1064;Go;ACTION
+1064;to;O
+1064;Room 292;LOCATION
+1064;with;O
+1064;Paracetamol.;O
+1065;Navigate;ACTION
+1065;to;O
+1065;Room 596;LOCATION
+1065;with;O
+1065;Ibuprofen.;O
+1066;Transport;ACTION
+1066;Cough;O
+1066;Syrup;O
+1066;to;O
+1066;Room 521.;LOCATION
+1067;Take;ACTION
+1067;Antibiotics;MEDICINE
+1067;to;O
+1067;nurse_station.;O
+1068;Navigate;ACTION
+1068;to;O
+1068;Room 124;LOCATION
+1068;with;O
+1068;Antibiotics.;O
+1069;Navigate;ACTION
+1069;to;O
+1069;ICU;LOCATION
+1069;large;O
+1069;with;O
+1069;Paracetamol.;O
+1070;Transport;ACTION
+1070;Antibiotics;MEDICINE
+1070;to;O
+1070;ICU.;O
+1071;head;O
+1071;Deliver;ACTION
+1071;Cough;O
+1071;Syrup;O
+1071;to;O
+1071;towards;O
+1071;Room 203.;LOCATION
+1072;Deliver;ACTION
+1072;Paracetamol;MEDICINE
+1072;to;O
+1072;Room 420.;LOCATION
+1073;Gofo;O
+1073;to;O
+1073;Room 354;LOCATION
+1073;with;O
+1073;Cough;O
+1073;Syrup.;O
+1074;Bring;ACTION
+1074;Ibuprofen;MEDICINE
+1074;to;O
+1074;nurse_station.;O
+1075;Head towards;ACTION
+1075;to;O
+1075;emergency room;LOCATION
+1075;with;O
+1075;Tylenol.;O
+1076;Proceed;ACTION
+1076;to;O
+1076;Room 285;LOCATION
+1076;with;O
+1076;Cough;O
+1076;Syrup.;O
+1077;Bring;ACTION
+1077;Ibuprofen;MEDICINE
+1077;to;O
+1077;Room 409.;LOCATION
+1078;Send;ACTION
+1078;Aspirin;MEDICINE
+1078;to;O
+1078;emergency_rooma;O
+1079;Send;ACTION
+1079;Tylenol;MEDICINE
+1079;to;O
+1079;doctors_room.;O
+1079;ICU;LOCATION
+1080;Deliver;ACTION
+1080;Penicillin;MEDICINE
+1080;to;O
+1080;Room 426.;LOCATION
+1081;Transport;ACTION
+1081;Tylenol;MEDICINE
+1081;to;O
+1081;ICU.;O
+1082;Go;ACTION
+1082;to;O
+1082;Room 306;LOCATION
+1082;with;O
+1082;Tylenol.;O
+1083;Head towards;ACTION
+1083;to;O
+1083;nurse station;LOCATION
+1083;with;O
+1083;Ibuprofen.;O
+1084;to;O
+1084;Cough;O
+1084;emergency;O
+1084;Send;ACTION
+1084;room.;O
+1084;Syrup;O
+1085;Move;ACTION
+1085;wear;O
+1085;to;O
+1085;ICU;LOCATION
+1085;with;O
+1085;Penicillin.;O
+1086;Transport;ACTION
+1086;Aspirin;MEDICINE
+1086;to;O
+1086;doctors_room.;O
+1087;Navigate;ACTION
+1087;to;O
+1087;doctors room;LOCATION
+1087;with;O
+1087;Ibuprofen.;O
+1088;Bring;ACTION
+1088;Antibiotics;MEDICINE
+1088;to;O
+1088;nurse_station.;O
+1089;Send;ACTION
+1089;Penicillin;MEDICINE
+1089;to;O
+1089;Room 556.;LOCATION
+1090;Take;ACTION
+1090;Antibiotics;MEDICINE
+1090;to;O
+1090;ICU.;O
+1091;Take;ACTION
+1091;Cough;O
+1091;Syrup;O
+1091;to;O
+1091;Room 209.;LOCATION
+1092;Bring;ACTION
+1092;Ibuprofen;MEDICINE
+1092;to;O
+1092;Room 598.;LOCATION
+1093;Bring;ACTION
+1093;Penicillin;MEDICINE
+1093;to;O
+1093;emergency_room.;O
+1094;Send;ACTION
+1094;Tylenol;MEDICINE
+1094;to;O
+1094;reception.;O
+1095;Transport;ACTION
+1095;Aspirin;MEDICINE
+1095;to;O
+1095;ICU.;O
+1096;Transport;ACTION
+1096;Paracetamol;MEDICINE
+1096;to;O
+1096;Room 234.;LOCATION
+1097;Take;ACTION
+1097;Penicillin;MEDICINE
+1097;to;O
+1097;seek;O
+1097;nurse_station.;O
+1098;Move;ACTION
+1098;to;O
+1098;emergency room;LOCATION
+1098;with;O
+1098;Paracetamol.;O
+1099;Deliver;ACTION
+1099;Cough;O
+1099;Syrup;O
+1099;to;O
+1099;Room 295.;LOCATION
+1100;nurse;O
+1100;Tylenol;MEDICINE
+1100;to;O
+1100;Transport;ACTION
+1100;station.;O
+1101;Proceed;ACTION
+1101;to;O
+1101;Room 173;LOCATION
+1101;with;O
+1101;Paracetamol.;O
+1102;Go;ACTION
+1102;to;O
+1102;Room 203;LOCATION
+1102;with;O
+1102;Cough;O
+1102;Syrup.;O
+1103;Navigate;ACTION
+1103;to;O
+1103;interview;O
+1103;Room 320;LOCATION
+1103;with;O
+1103;Cough;O
+1103;Syrup.;O
+1104;Send;ACTION
+1104;Ibuprofen;MEDICINE
+1104;to;O
+1104;nurse_station.;O
+1105;Deliver;ACTION
+1105;Cough;O
+1105;Syrup;O
+1105;to;O
+1105;Room 431.;LOCATION
+1106;Send;ACTION
+1106;Tylenol;MEDICINE
+1106;to;O
+1106;doctors_room.;O
+1107;Go;ACTION
+1107;to;O
+1107;ICU;LOCATION
+1107;with;O
+1107;Paracetamol.;O
+1108;to;O
+1108;Move;ACTION
+1108;Room 285;LOCATION
+1108;Paracetamol.;O
+1108;with;O
+1109;Move;ACTION
+1109;to;O
+1109;Room 188;LOCATION
+1109;with;O
+1109;Aspirin.;O
+1110;Navigate;ACTION
+1110;to;O
+1110;Room 169;LOCATION
+1110;with;O
+1110;Antibiotics.;O
+1111;Bring;ACTION
+1111;Ibuprofen;MEDICINE
+1111;to;O
+1111;ICU.;O
+1112;Head towards;ACTION
+1112;to;O
+1112;ICU;LOCATION
+1112;with;O
+1112;Ibuprofen.;O
+1113;Move;ACTION
+1113;to;O
+1113;Room 531;LOCATION
+1113;with;O
+1113;Ibuprofen.;O
+1114;Move;ACTION
+1114;to;O
+1114;emergency room;LOCATION
+1114;with;O
+1114;Ibuprofen.;O
+1115;to;O
+1115;Move;ACTION
+1115;Room Antibiotics.;LOCATION
+1115;with;O
+1115;doctors;O
+1116;Navigate;ACTION
+1116;to;O
+1116;Room 276;LOCATION
+1116;with;O
+1116;Penicillin.;O
+1117;Transport;ACTION
+1117;Ibuprofen;MEDICINE
+1117;to;O
+1117;nurse_station.;O
+1118;Take;ACTION
+1118;Tylenol;MEDICINE
+1118;to;O
+1118;emergency_room.;O
+1119;Take;ACTION
+1119;Paracetamol;MEDICINE
+1119;to;O
+1119;Room 151.;LOCATION
+1120;500.;O
+1120;to;O
+1120;Take;ACTION
+1120;Ibuprofen;MEDICINE
+1121;Head towards;ACTION
+1121;to;O
+1121;emergency room;LOCATION
+1121;with;O
+1121;Penicillin.;O
+1122;Send;ACTION
+1122;Antibiotics;MEDICINE
+1122;to;O
+1122;Room 170.;LOCATION
+1123;Bring;ACTION
+1123;Cough;O
+1123;Syrup;O
+1123;to;O
+1123;emergency_room.;O
+1124;Go;ACTION
+1124;to;O
+1124;doctors room;LOCATION
+1124;with;O
+1124;Aspirin.;O
+1125;Proceed;ACTION
+1125;to;O
+1125;Room 577;LOCATION
+1125;with;O
+1125;Paracetamol.;O
+1126;Transport;ACTION
+1126;Aspirin;MEDICINE
+1126;to;O
+1126;emergency_room.;O
+1127;Deliver;ACTION
+1127;Aspirin;MEDICINE
+1127;to;O
+1127;ICU.;O
+1128;Take;ACTION
+1128;Penicillin;MEDICINE
+1128;to;O
+1128;nurse_station.;O
+1129;Send;ACTION
+1129;Paracetamol;MEDICINE
+1129;to;O
+1129;Room 110.;LOCATION
+1130;Bring;ACTION
+1130;nurse station;LOCATION
+1130;Tylenol;MEDICINE
+1130;to;O
+1130;Room 316.;LOCATION
+1131;Move;ACTION
+1131;to;O
+1131;emergency room;LOCATION
+1131;with;O
+1131;Cough;O
+1131;Syrup.;O
+1132;Take;ACTION
+1132;Antibiotics;MEDICINE
+1132;to;O
+1132;Room 532.;LOCATION
+1133;354;O
+1133;Aspirin.;O
+1133;Room to;LOCATION
+1133;with;O
+1133;Go;ACTION
+1134;Deliver;ACTION
+1134;Cough;O
+1134;Syrup;O
+1134;to;O
+1134;ICU.;O
+1135;Room 433.;LOCATION
+1135;to;O
+1135;Penicillin;MEDICINE
+1135;Send;ACTION
+1136;Send;ACTION
+1136;Penicillin;MEDICINE
+1136;to;O
+1136;reception.;O
+1137;Go;ACTION
+1137;to;O
+1137;Room 333;LOCATION
+1137;with;O
+1137;Ibuprofen.;O
+1138;Take;ACTION
+1138;Antibiotics;MEDICINE
+1138;to;O
+1138;Room 106.;LOCATION
+1139;Move;ACTION
+1139;to;O
+1139;ICU;LOCATION
+1139;with;O
+1139;Paracetamol.;O
+1140;Navigate;ACTION
+1140;to;O
+1140;doctors room;LOCATION
+1140;with;O
+1140;Cough;O
+1140;Syrup.;O
+1141;Send;ACTION
+1141;Tylenol;MEDICINE
+1141;to;O
+1141;Room 210.;LOCATION
+1142;Penicillin.;O
+1142;towards;O
+1142;Room to;LOCATION
+1142;Head;O
+1142;doctors;O
+1142;with;O
+1143;Deliver;ACTION
+1143;Penicillin;MEDICINE
+1143;to;O
+1143;Room 327.;LOCATION
+1144;Transport;ACTION
+1144;Ibuprofen;MEDICINE
+1144;to;O
+1144;emergency_room.;O
+1145;Send;ACTION
+1145;Ibuprofen;MEDICINE
+1145;to;O
+1145;reception.;O
+1146;Send;ACTION
+1146;Antibiotics;MEDICINE
+1146;to;O
+1146;Room 415.;LOCATION
+1147;emergency room;LOCATION
+1147;Take;ACTION
+1147;Aspirin;MEDICINE
+1147;to;O
+1147;Room 591.;LOCATION
+1148;Transport;ACTION
+1148;Tylenol;MEDICINE
+1148;to;O
+1148;emergency_room.;O
+1149;Navigate;ACTION
+1149;to;O
+1149;ICU;LOCATION
+1149;with;O
+1149;Penicillin.;O
+1150;Move;ACTION
+1150;to;O
+1150;nurse station;LOCATION
+1150;with;O
+1150;Paracetamol.;O
+1151;Ibuprofen;MEDICINE
+1151;room.;O
+1151;doctors;O
+1151;to;O
+1151;Deliver;ACTION
+1152;Take;ACTION
+1152;Tylenol;MEDICINE
+1152;to;O
+1152;doctors_room.;O
+1153;Proceed;ACTION
+1153;to;O
+1153;Room 162;LOCATION
+1153;with;O
+1153;Aspirin.;O
+1154;Transport;ACTION
+1154;Ibuprofen;MEDICINE
+1154;to;O
+1154;reception.;O
+1155;Go;ACTION
+1155;to;O
+1155;Room 257;LOCATION
+1155;with;O
+1155;Aspirin.;O
+1156;Proceed;ACTION
+1156;to;O
+1156;Room 408;LOCATION
+1156;with;O
+1156;Paracetamol.;O
+1157;Go;ACTION
+1157;to;O
+1157;ICU;LOCATION
+1157;with;O
+1157;Aspirin.;O
+1158;Take;ACTION
+1158;Aspirin;MEDICINE
+1158;to;O
+1158;reception.;O
+1159;Go;ACTION
+1159;to;O
+1159;doctors room;LOCATION
+1159;with;O
+1159;Paracetamol.;O
+1160;Send;ACTION
+1160;Cough;O
+1160;Syrup;O
+1160;to;O
+1160;doctors_room.;O
+1161;Go;ACTION
+1161;to;O
+1161;Room 539;LOCATION
+1161;with;O
+1161;Aspirin.;O
+1162;to;O
+1162;emergency;O
+1162;Antibiotics;MEDICINE
+1162;Deliver;ACTION
+1162;room.;O
+1163;Bring;ACTION
+1163;Paracetamol;MEDICINE
+1163;to;O
+1163;Room 359.;LOCATION
+1164;Head towards;ACTION
+1164;to;O
+1164;doctors room;LOCATION
+1164;with;O
+1164;Penicillin.;O
+1165;Deliver;ACTION
+1165;deal;O
+1165;Antibiotics;MEDICINE
+1165;to;O
+1165;ICU.;O
+1166;to;O
+1166;Take;ACTION
+1166;Penicillin;MEDICINE
+1166;reception.;O
+1167;Deliver;ACTION
+1167;Penicillin;MEDICINE
+1167;to;O
+1167;Room 160.;LOCATION
+1168;Bring;ACTION
+1168;Tylenol;MEDICINE
+1168;to;O
+1168;ICU.;O
+1169;Bring;ACTION
+1169;Paracetamol;MEDICINE
+1169;to;O
+1169;Room 558.;LOCATION
+1170;Go;ACTION
+1170;to;O
+1170;Room 300;LOCATION
+1170;with;O
+1170;Tylenol.;O
+1171;Navigate;ACTION
+1171;to;O
+1171;doctors room;LOCATION
+1171;with;O
+1171;Ibuprofen.;O
+1172;Take;ACTION
+1172;Aspirin;MEDICINE
+1172;to;O
+1172;Room 367.;LOCATION
+1173;Head towards;ACTION
+1173;type;O
+1173;to;O
+1173;Room 192;LOCATION
+1173;with;O
+1173;Penicillin.;O
+1174;marriage;O
+1174;Head towards;ACTION
+1174;to;O
+1174;Reception;LOCATION
+1174;with;O
+1174;Tylenol.;O
+1175;Proceed;ACTION
+1175;to;O
+1175;nurse station;LOCATION
+1175;with;O
+1175;Ibuprofen.;O
+1176;Deliver;ACTION
+1176;Penicillin;MEDICINE
+1176;to;O
+1176;Room 587.;LOCATION
+1177;Bring;ACTION
+1177;Ibuprofen;MEDICINE
+1177;to;O
+1177;nurse_station.;O
+1178;Bring;ACTION
+1178;Tylenol;MEDICINE
+1178;to;O
+1178;doctors_room.;O
+1179;Head towards;ACTION
+1179;to;O
+1179;Reception;LOCATION
+1179;with;O
+1179;Ibuprofen.;O
+1180;Proceed;ACTION
+1180;to;O
+1180;nurse station;LOCATION
+1180;with;O
+1180;Penicillin.;O
+1181;Transport;ACTION
+1181;Antibiotics;MEDICINE
+1181;to;O
+1181;Room 368.;LOCATION
+1182;Take;ACTION
+1182;Aspirin;MEDICINE
+1182;to;O
+1182;Room 546.;LOCATION
+1183;Go;ACTION
+1183;to;O
+1183;RECEPTION;LOCATION
+1183;with;O
+1183;Aspirin.;O
+1184;Head towards;ACTION
+1184;to;O
+1184;Room 176;LOCATION
+1184;with;O
+1184;Tylenol.;O
+1185;Take;ACTION
+1185;Aspirin;MEDICINE
+1185;to;O
+1185;emergency_room.;O
+1186;Transport;ACTION
+1186;Penicillin;MEDICINE
+1186;to;O
+1186;Room 344.;LOCATION
+1187;about;O
+1187;Move;ACTION
+1187;to;O
+1187;ICU;LOCATION
+1187;with;O
+1187;Ibuprofen.;O
+1188;Move;ACTION
+1188;to;O
+1188;doctors room;LOCATION
+1188;with;O
+1188;Antibiotics.;O
+1189;Deliver;ACTION
+1189;Paracetamol;MEDICINE
+1189;to;O
+1189;Room 107.;LOCATION
+1190;Send;ACTION
+1190;Tylenol;MEDICINE
+1190;to;O
+1190;Room 266.;LOCATION
+1191;Bring;ACTION
+1191;Tylenol;MEDICINE
+1191;to;O
+1191;Room 340.;LOCATION
+1192;Proceed;ACTION
+1192;to;O
+1192;nurse station;LOCATION
+1192;with;O
+1192;Penicillin.;O
+1193;Take;ACTION
+1193;Tylenol;MEDICINE
+1193;to;O
+1193;reception.;O
+1194;Go;ACTION
+1194;to;O
+1194;drug;O
+1194;Room 490;LOCATION
+1194;with;O
+1194;Paracetamol.;O
+1195;Proceed;ACTION
+1195;to;O
+1195;Room 148;LOCATION
+1195;with;O
+1195;Antibiotics.;O
+1196;Head towards;ACTION
+1196;to;O
+1196;nurse station;LOCATION
+1196;with;O
+1196;Antibiotics.;O
+1197;Send;ACTION
+1197;Cough;O
+1197;Syrup;O
+1197;to;O
+1197;nurse_station.;O
+1198;Cough;O
+1198;Syrup.;O
+1198;with;O
+1198;Reception;LOCATION
+1198;to;O
+1198;Move;ACTION
+1199;Move;ACTION
+1199;to;O
+1199;doctors room;LOCATION
+1199;with;O
+1199;Tylenol.;O
+1200;Head towards;ACTION
+1200;to;O
+1200;RECEPTION;LOCATION
+1200;with;O
+1200;Antibiotics.;O
+1201;Take;ACTION
+1201;Antibiotics;MEDICINE
+1201;to;O
+1201;Room 206.;LOCATION
+1202;Move;ACTION
+1202;to;O
+1202;Room 312;LOCATION
+1202;with;O
+1202;Paracetamol.;O
+1203;Deliver;ACTION
+1203;Cough;O
+1203;Syrup;O
+1203;to;O
+1203;Room 105.;LOCATION
+1204;Navigate;ACTION
+1204;to;O
+1204;reception;LOCATION
+1204;with;O
+1204;Ibuprofen.;O
+1205;Head towards;ACTION
+1205;to;O
+1205;emergency room;LOCATION
+1205;with;O
+1205;Tylenol.;O
+1206;Take;ACTION
+1206;Penicillin;MEDICINE
+1206;to;O
+1206;doctors_room.;O
+1207;Move;ACTION
+1207;to;O
+1207;ICU;LOCATION
+1207;with;O
+1207;Antibiotics.;O
+1208;Transport;ACTION
+1208;Cough;O
+1208;Syrup;O
+1208;to;O
+1208;reception.;O
+1209;Take;ACTION
+1209;Cough;O
+1209;Syrup;O
+1209;to;O
+1209;Room 457.;LOCATION
+1210;Navigate;ACTION
+1210;to;O
+1210;Room 407;LOCATION
+1210;with;O
+1210;Tylenol.;O
+1211;Go;ACTION
+1211;to;O
+1211;Room 405;LOCATION
+1211;with;O
+1211;Penicillin.;O
+1212;Navigate;ACTION
+1212;to;O
+1212;Room 303;LOCATION
+1212;with;O
+1212;Cough;O
+1212;Syrup.;O
+1213;Go;ACTION
+1213;tuo;O
+1213;emergency room;LOCATION
+1213;with;O
+1213;Tylenol.;O
+1214;Bring;ACTION
+1214;Antibiotics;MEDICINE
+1214;to;O
+1214;nurse_station.;O
+1215;ICU;LOCATION
+1215;Ibuprofen;MEDICINE
+1215;to;O
+1215;ICU.;O
+1216;Deliver;ACTION
+1216;Cough;O
+1216;Syrup;O
+1216;to;O
+1216;Room 269.;LOCATION
+1217;Bring;ACTION
+1217;Cough;O
+1217;Syrup;O
+1217;to;O
+1217;emergency_room.;O
+1218;Transport;ACTION
+1218;Aspirin;MEDICINE
+1218;to;O
+1218;Room 238.;LOCATION
+1219;Bring;ACTION
+1219;Antibiotics;MEDICINE
+1219;to;O
+1219;doctors_room.;O
+1220;Move;ACTION
+1220;to;O
+1220;ICU;LOCATION
+1220;with;O
+1220;Antibiotics.;O
+1221;Transport;ACTION
+1221;Paracetamol;MEDICINE
+1221;to;O
+1221;Room 130.;LOCATION
+1222;Go;ACTION
+1222;skin;O
+1222;to;O
+1222;emergency room;LOCATION
+1222;with;O
+1222;Antibiotics.;O
+1223;Head towards;ACTION
+1223;to;O
+1223;emergency room;LOCATION
+1223;with;O
+1223;Antibiotics.;O
+1224;Take;ACTION
+1224;Tylenol;MEDICINE
+1224;to;O
+1224;Room 541.;LOCATION
+1225;Proceed;ACTION
+1225;to;O
+1225;doctors room;LOCATION
+1225;with;O
+1225;Penicillin.;O
+1226;Take;ACTION
+1226;point;O
+1226;Paracetamol;MEDICINE
+1226;to;O
+1226;reception.;O
+1227;Take;ACTION
+1227;Antibiotics;MEDICINE
+1227;to;O
+1227;nurse station;LOCATION
+1227;Room 588.;LOCATION
+1228;Send;ACTION
+1228;Ibuprofen;MEDICINE
+1228;to;O
+1228;emergency_room.;O
+1229;Take;ACTION
+1229;Penicillin;MEDICINE
+1229;to;O
+1229;Room 278.;LOCATION
+1230;ICU;LOCATION
+1230;Penicillin;MEDICINE
+1230;to;O
+1230;Room 220.;LOCATION
+1231;Navigate;ACTION
+1231;to;O
+1231;emergency room;LOCATION
+1231;with;O
+1231;Ibuprofen.;O
+1232;Take;ACTION
+1232;Cough;O
+1232;Syrup;O
+1232;to;O
+1232;doctors_room.;O
+1233;Go;ACTION
+1233;to;O
+1233;Room 287;LOCATION
+1233;with;O
+1233;Cough;O
+1233;Syrup.;O
+1234;Go;ACTION
+1234;to;O
+1234;Reception;LOCATION
+1234;with;O
+1234;Tylenol.;O
+1235;Move;ACTION
+1235;to;O
+1235;doctors room;LOCATION
+1235;with;O
+1235;Ibuprofen.;O
+1236;Navigate;ACTION
+1236;to;O
+1236;Room 217;LOCATION
+1236;with;O
+1236;Penicillin.;O
+1237;Transport;ACTION
+1237;Paracetamol;MEDICINE
+1237;to;O
+1237;nurse_station.;O
+1238;Move;ACTION
+1238;to;O
+1238;reception;LOCATION
+1238;with;O
+1238;Antibiotics.;O
+1239;adult;O
+1239;Transport;ACTION
+1239;Cough;O
+1239;Syrup;O
+1239;to;O
+1239;Room 393.;LOCATION
+1240;Proceed;ACTION
+1240;to;O
+1240;Room 372;LOCATION
+1240;with;O
+1240;Cough;O
+1240;Syrup.;O
+1241;Send;ACTION
+1241;Aspirin;MEDICINE
+1241;to;O
+1241;emergency_room.;O
+1242;Bring;ACTION
+1242;Penicillin;MEDICINE
+1242;to;O
+1242;nurse_station.;O
+1243;Go;ACTION
+1243;to;O
+1243;ICU;LOCATION
+1243;with;O
+1243;Paracetamol.;O
+1244;Proceed;ACTION
+1244;to;O
+1244;Room 539;LOCATION
+1244;with;O
+1244;Penicillin.;O
+1245;Send;ACTION
+1245;Penicillin;MEDICINE
+1245;to;O
+1245;Room 358.;LOCATION
+1246;Move;ACTION
+1246;to;O
+1246;emergency room;LOCATION
+1246;with;O
+1246;Aspirin.;O
+1247;Go;ACTION
+1247;to;O
+1247;doctors room;LOCATION
+1247;with;O
+1247;Aspirin.;O
+1248;station;O
+1248;to;O
+1248;nurse;O
+1248;with;O
+1248;Antibiotics.;O
+1248;Go;ACTION
+1249;Move;ACTION
+1249;to;O
+1249;Room 496;LOCATION
+1249;with;O
+1249;Antibiotics.;O
+1250;to;O
+1250;Take;ACTION
+1250;emergency_room.;O
+1250;Aspirin;MEDICINE
+1251;Send;ACTION
+1251;Penicillin;MEDICINE
+1251;to;O
+1251;reception.;O
+1252;him;O
+1252;Send;ACTION
+1252;Penicillin;MEDICINE
+1252;to;O
+1252;Room 196.;LOCATION
+1253;Take;ACTION
+1253;Aspirin;MEDICINE
+1253;to;O
+1253;Room 483.;LOCATION
+1254;Bring;ACTION
+1254;439.;O
+1254;Room to;LOCATION
+1254;Ibuprofen;MEDICINE
+1255;Bring;ACTION
+1255;Aspirin;MEDICINE
+1255;to;O
+1255;emergency_room.;O
+1256;Head towards;ACTION
+1256;to;O
+1256;nurse station;LOCATION
+1256;with;O
+1256;Ibuprofen.;O
+1257;Bring;ACTION
+1257;Antibiotics;MEDICINE
+1257;Room 563.;LOCATION
+1257;to;O
+1258;Naavigate;O
+1258;to;O
+1258;Room 592;LOCATION
+1258;with;O
+1258;Antibiotics.;O
+1259;Move;ACTION
+1259;to;O
+1259;Room 301;LOCATION
+1259;with;O
+1259;Aspirin.;O
+1260;Navigate;ACTION
+1260;to;O
+1260;emergency room;LOCATION
+1260;with;O
+1260;Paracetamol.;O
+1261;Head towards;ACTION
+1261;to;O
+1261;ICU;LOCATION
+1261;with;O
+1261;Penicillin.;O
+1262;Transport;ACTION
+1262;Cough;O
+1262;Syrup;O
+1262;to;O
+1262;Room 518.;LOCATION
+1263;Navigate;ACTION
+1263;to;O
+1263;Room 199;LOCATION
+1263;with;O
+1263;Cough;O
+1263;Syrup.;O
+1264;Move;ACTION
+1264;to;O
+1264;Room 176;LOCATION
+1264;with;O
+1264;Ibuprofen.;O
+1265;Transport;ACTION
+1265;Ibuprofen;MEDICINE
+1265;to;O
+1265;Room 393.;LOCATION
+1266;Bring;ACTION
+1266;Aspirin;MEDICINE
+1266;to;O
+1266;emergency_room.;O
+1267;to;O
+1267;552;O
+1267;Aspirin.;O
+1267;Room with;LOCATION
+1267;Go;ACTION
+1268;Transport;ACTION
+1268;Penicillin;MEDICINE
+1268;to;O
+1268;emergency_room.;O
+1269;Head towards;ACTION
+1269;to;O
+1269;Room 414;LOCATION
+1269;with;O
+1269;Tylenol.;O
+1270;Bring;ACTION
+1270;Aspirin;MEDICINE
+1270;to;O
+1270;doctors_room.;O
+1271;Navigate;ACTION
+1271;to;O
+1271;ICU;LOCATION
+1271;with;O
+1271;Penicillin.;O
+1272;Bring;ACTION
+1272;Aspirin;MEDICINE
+1272;to;O
+1272;Room 565.;LOCATION
+1273;Head towards;ACTION
+1273;to;O
+1273;Room 116;LOCATION
+1273;with;O
+1273;Tylenol.;O
+1274;Navigate;ACTION
+1274;to;O
+1274;emergency;O
+1274;roorm;O
+1274;with;O
+1274;Aspirin.;O
+1275;Transport;ACTION
+1275;Paracetamol;MEDICINE
+1275;to;O
+1275;Room 597.;LOCATION
+1276;Navigate;ACTION
+1276;to;O
+1276;doctors room;LOCATION
+1276;with;O
+1276;Cough;O
+1276;Syrup.;O
+1277;Bring;ACTION
+1277;Tylenol;MEDICINE
+1277;to;O
+1277;Room 168.;LOCATION
+1278;Bring;ACTION
+1278;Cough;O
+1278;Syrup;O
+1278;to;O
+1278;emergency_room.;O
+1279;Navigate;ACTION
+1279;to;O
+1279;Room 375;LOCATION
+1279;with;O
+1279;Tylenol.;O
+1280;Bring;ACTION
+1280;ever;O
+1280;Antibiotics;MEDICINE
+1280;to;O
+1280;Room 524.;LOCATION
+1281;Bring;ACTION
+1281;Ibuprofen;MEDICINE
+1281;to;O
+1281;ICU.;O
+1282;Move;ACTION
+1282;to;O
+1282;ICU;LOCATION
+1282;with;O
+1282;Antibiotics.;O
+1283;Take;ACTION
+1283;Tylenol;MEDICINE
+1283;to;O
+1283;emergency_room.;O
+1284;Proceed;ACTION
+1284;to;O
+1284;Room 206;LOCATION
+1284;with;O
+1284;Ibuprofen.;O
+1285;nurse;O
+1285;with;O
+1285;Aspirin.;O
+1285;station;O
+1285;Navigate;ACTION
+1285;to;O
+1286;Bring;ACTION
+1286;Cough;O
+1286;Syrup;O
+1286;to;O
+1286;nurse_station.;O
+1287;Send;ACTION
+1287;Aspirin;MEDICINE
+1287;to;O
+1287;Room 154.;LOCATION
+1288;Navigate;ACTION
+1288;to;O
+1288;Room 586;LOCATION
+1288;with;O
+1288;Penicillin.;O
+1289;Deliver;ACTION
+1289;Aspirin;MEDICINE
+1289;to;O
+1289;Room 264.;LOCATION
+1290;Go;ACTION
+1290;to;O
+1290;Room 236;LOCATION
+1290;with;O
+1290;Antibiotics.;O
+1291;Go;ACTION
+1291;to;O
+1291;ICU;LOCATION
+1291;with;O
+1291;Aspirin.;O
+1292;Transport;ACTION
+1292;Penicillin;MEDICINE
+1292;to;O
+1292;reception.;O
+1293;Bring;ACTION
+1293;Cough;O
+1293;Syrup;O
+1293;to;O
+1293;nurse_station.;O
+1294;Move;ACTION
+1294;to;O
+1294;Room 339;LOCATION
+1294;with;O
+1294;Penicillin.;O
+1295;Room Send;LOCATION
+1295;to;O
+1295;Ibuprofen;MEDICINE
+1295;540.;O
+1296;Bring;ACTION
+1296;Cough;O
+1296;Syrup;O
+1296;to;O
+1296;reception.;O
+1297;Bring;ACTION
+1297;Cough;O
+1297;Syrup;O
+1297;to;O
+1297;Room 347.;LOCATION
+1298;Take;ACTION
+1298;Cough;O
+1298;Syrup;O
+1298;to;O
+1298;Room 338.;LOCATION
+1299;Go;ACTION
+1299;to;O
+1299;reception;LOCATION
+1299;with;O
+1299;Penicillin.;O
+1300;Move;ACTION
+1300;to;O
+1300;ICU;LOCATION
+1300;with;O
+1300;Antibiotics.;O
+1301;Transport;ACTION
+1301;Paracetamol;MEDICINE
+1301;to;O
+1301;Room 202.;LOCATION
+1302;Go;ACTION
+1302;to;O
+1302;doctors room;LOCATION
+1302;with;O
+1302;Aspirin.;O
+1303;Proceed;ACTION
+1303;to;O
+1303;Room 483;LOCATION
+1303;with;O
+1303;Aspirin.;O
+1304;Send;ACTION
+1304;Aspirin;MEDICINE
+1304;to;O
+1304;emergency_room.;O
+1305;Navigate;ACTION
+1305;to;O
+1305;emergency;O
+1305;actually;O
+1305;Room with;LOCATION
+1305;Cough;O
+1305;Syrup.;O
+1306;Deliver;ACTION
+1306;Penicillin;MEDICINE
+1306;to;O
+1306;Room 356.;LOCATION
+1307;Bring;ACTION
+1307;Penicillin;MEDICINE
+1307;to;O
+1307;ICU.;O
+1308;poor;O
+1308;Move;ACTION
+1308;to;O
+1308;Room 116;LOCATION
+1308;with;O
+1308;Cough;O
+1308;Syrup.;O
+1309;Proceed;ACTION
+1309;to;O
+1309;nurse station;LOCATION
+1309;with;O
+1309;Paracetamol.;O
+1310;Take;ACTION
+1310;Tylenol;MEDICINE
+1310;to;O
+1310;Room 222.;LOCATION
+1311;Take;ACTION
+1311;Aspirin;MEDICINE
+1311;to;O
+1311;Room 585.;LOCATION
+1312;Head towards;ACTION
+1312;to;O
+1312;Room 251;LOCATION
+1312;with;O
+1312;Paracetamol.;O
+1313;Send;ACTION
+1313;Ibuprofen;MEDICINE
+1313;to;O
+1313;emergency_room.;O
+1314;Move;ACTION
+1314;to;O
+1314;Room 304;LOCATION
+1314;with;O
+1314;Ibuprofen.;O
+1315;Navigate;ACTION
+1315;to;O
+1315;emergency room;LOCATION
+1315;with;O
+1315;Paracetamol.;O
+1316;Send;ACTION
+1316;Paracetamol;MEDICINE
+1316;to;O
+1316;nurse_station.;O
+1317;Head towards;ACTION
+1317;to;O
+1317;Room 378;LOCATION
+1317;with;O
+1317;Penicillin.;O
+1318;Take;ACTION
+1318;Penicillin;MEDICINE
+1318;to;O
+1318;ICU.;O
+1319;Take;ACTION
+1319;towards;O
+1319;Ibuprofen;MEDICINE
+1319;to;O
+1319;nurse_station.;O
+1319;head;O
+1320;Deliver;ACTION
+1320;Aspirin;MEDICINE
+1320;to;O
+1320;nurse_station.;O
+1321;Move;ACTION
+1321;to;O
+1321;Room 161;LOCATION
+1321;with;O
+1321;Paracetamol.;O
+1322;Head towards;ACTION
+1322;to;O
+1322;Reception;LOCATION
+1322;with;O
+1322;Aspirin.;O
+1323;Deliver;ACTION
+1323;Aspirin;MEDICINE
+1323;to;O
+1323;reception.;O
+1324;Head towards;ACTION
+1324;to;O
+1324;doctors room;LOCATION
+1324;with;O
+1324;Ibuprofen.;O
+1325;Move;ACTION
+1325;to;O
+1325;ICU;LOCATION
+1325;with;O
+1325;Aspirin.;O
+1326;Send;ACTION
+1326;Aspirin;MEDICINE
+1326;to;O
+1326;emergency_room.;O
+1327;Navigate;ACTION
+1327;to;O
+1327;Room 479;LOCATION
+1327;with;O
+1327;Ibuprofen.;O
+1328;Deliver;ACTION
+1328;Penicillin;MEDICINE
+1328;to;O
+1328;Room 378.;LOCATION
+1329;Go;ACTION
+1329;to;O
+1329;Room 458;LOCATION
+1329;with;O
+1329;Tylenol.;O
+1330;Take;ACTION
+1330;Tylenol;MEDICINE
+1330;to;O
+1330;emergency_room.;O
+1331;Bring;ACTION
+1331;Ibuprofen;MEDICINE
+1331;to;O
+1331;Room 306.;LOCATION
+1332;Head towards;ACTION
+1332;to;O
+1332;Room 470;LOCATION
+1332;with;O
+1332;Paracetamol.;O
+1333;Navigate;ACTION
+1333;to;O
+1333;Room 477;LOCATION
+1333;with;O
+1333;Tylenol.;O
+1334;Take;ACTION
+1334;head;O
+1334;Cough;O
+1334;Syrup;O
+1334;to;O
+1334;towards;O
+1334;Room 279.;LOCATION
+1335;Go;ACTION
+1335;to;O
+1335;ICU;LOCATION
+1335;with;O
+1335;Antibiotics.;O
+1336;Send;ACTION
+1336;Penicillin;MEDICINE
+1336;to;O
+1336;Room 441.;LOCATION
+1337;Send;ACTION
+1337;Penicillin;MEDICINE
+1337;to;O
+1337;Room 267.;LOCATION
+1338;Go;ACTION
+1338;to;O
+1338;Reception;LOCATION
+1338;with;O
+1338;Paracetamol.;O
+1339;Deliver;ACTION
+1339;Tylenol;MEDICINE
+1339;to;O
+1339;doctors_room.;O
+1340;Take;ACTION
+1340;Antibiotics;MEDICINE
+1340;to;O
+1340;Room 521.;LOCATION
+1341;Bring;ACTION
+1341;Penicillin;MEDICINE
+1341;to;O
+1341;nurse_station.;O
+1342;Go;ACTION
+1342;to;O
+1342;Room 315;LOCATION
+1342;with;O
+1342;reception;LOCATION
+1342;Cough;O
+1342;Syrup.;O
+1343;Take;ACTION
+1343;Cough;O
+1343;Syrup;O
+1343;to;O
+1343;reception.;O
+1344;Deliver;ACTION
+1344;Cough;O
+1344;Syrup;O
+1344;to;O
+1344;emergency_room.;O
+1345;Deliver;ACTION
+1345;Penicillin;MEDICINE
+1345;to;O
+1345;doctors_room.;O
+1346;Proceed;ACTION
+1346;to;O
+1346;Room with;LOCATION
+1346;Antibiotics.;O
+1346;130;O
+1347;Deliver;ACTION
+1347;Ibuprofen;MEDICINE
+1347;to;O
+1347;nurse_station.;O
+1348;Head towards;ACTION
+1348;to;O
+1348;Room 409;LOCATION
+1348;with;O
+1348;Ibuprofen.;O
+1349;Transport;ACTION
+1349;Paracetamol;MEDICINE
+1349;to;O
+1349;doctors_room.;O
+1350;Navigate;ACTION
+1350;to;O
+1350;Room 425;LOCATION
+1350;with;O
+1350;Cough;O
+1350;Syrup.;O
+1351;Bring;ACTION
+1351;Ibuprofen;MEDICINE
+1351;to;O
+1351;Room 504.;LOCATION
+1352;Send;ACTION
+1352;Cough;O
+1352;Syrup;O
+1352;to;O
+1352;Room 314.;LOCATION
+1353;Send;ACTION
+1353;nurse station;LOCATION
+1353;Penicillin;MEDICINE
+1353;to;O
+1353;Room 283.;LOCATION
+1354;Bring;ACTION
+1354;Tylenol;MEDICINE
+1354;to;O
+1354;Room 458.;LOCATION
+1355;Send;ACTION
+1355;Penicillin;MEDICINE
+1355;to;O
+1355;emergency_room.;O
+1356;Ibuprofen.;O
+1356;to;O
+1356;Head;O
+1356;station;O
+1356;with;O
+1356;nurse;O
+1356;towards;O
+1357;Navigate;ACTION
+1357;to;O
+1357;RECEPTION;LOCATION
+1357;with;O
+1357;Paracetamol.;O
+1358;Navigate;ACTION
+1358;to;O
+1358;emergency room;LOCATION
+1358;with;O
+1358;Ibuprofen.;O
+1359;Navigate;ACTION
+1359;to;O
+1359;nurse station;LOCATION
+1359;with;O
+1359;Penicillin.;O
+1360;Send;ACTION
+1360;Antibiotics;MEDICINE
+1360;to;O
+1360;reception.;O
+1361;Transport;ACTION
+1361;Antibiotics;MEDICINE
+1361;to;O
+1361;Room 504.;LOCATION
+1362;Proceed;ACTION
+1362;to;O
+1362;Room 289;LOCATION
+1362;with;O
+1362;Penicillin.;O
+1363;Head towards;ACTION
+1363;to;O
+1363;nurse station;LOCATION
+1363;with;O
+1363;Penicillin.;O
+1364;Deliver;ACTION
+1364;Penicilldcillin;O
+1364;to;O
+1364;nurse_station.;O
+1365;Move;ACTION
+1365;to;O
+1365;Room 454;LOCATION
+1365;with;O
+1365;Aspirin.;O
+1366;Head towards;ACTION
+1366;to;O
+1366;Room 322;LOCATION
+1366;with;O
+1366;Penicillin.;O
+1367;Move;ACTION
+1367;to;O
+1367;Room 242;LOCATION
+1367;with;O
+1367;Ibuprofen.;O
+1368;Transport;ACTION
+1368;Aspirin;MEDICINE
+1368;to;O
+1368;emergency_room.;O
+1369;Transport;ACTION
+1369;Penicillin;MEDICINE
+1369;to;O
+1369;reception.;O
+1370;Room Move;LOCATION
+1370;to;O
+1370;Ibuprofen.;O
+1370;447;O
+1370;with;O
+1371;Proceed;ACTION
+1371;to;O
+1371;Room 429;LOCATION
+1371;with;O
+1371;Antibiotics.;O
+1372;Take;ACTION
+1372;Aspirin;MEDICINE
+1372;to;O
+1372;Room 423.;LOCATION
+1373;Send;ACTION
+1373;Tylenol;MEDICINE
+1373;to;O
+1373;ICU.;O
+1374;Proceed;ACTION
+1374;to;O
+1374;Room 477;LOCATION
+1374;with;O
+1374;Aspirin.;O
+1375;Move;ACTION
+1375;to;O
+1375;emergency room;LOCATION
+1375;with;O
+1375;Paracetamol.;O
+1376;Paracetamol.;O
+1376;with;O
+1376;Room 343;LOCATION
+1376;to;O
+1376;Go;ACTION
+1377;Send;ACTION
+1377;Ibuprofen;MEDICINE
+1377;to;O
+1377;reception.;O
+1378;Bring;ACTION
+1378;Tylenol;MEDICINE
+1378;to;O
+1378;emergency_roomb;O
+1379;Take;ACTION
+1379;Ibuprofen;MEDICINE
+1379;to;O
+1379;ICU.;O
+1380;Move;ACTION
+1380;to;O
+1380;Room 578;LOCATION
+1380;with;O
+1380;Penicillin.;O
+1381;Deliver;ACTION
+1381;Paracetamol;MEDICINE
+1381;to;O
+1381;Room 245.;LOCATION
+1382;Tylenol.;O
+1382;to;O
+1382;Reception;LOCATION
+1382;with;O
+1382;towards;O
+1382;Head;O
+1383;Navigate;ACTION
+1383;to;O
+1383;doctors room;LOCATION
+1383;with;O
+1383;Aspirin.;O
+1384;Transport;ACTION
+1384;Antibiotics;MEDICINE
+1384;to;O
+1384;Room 361.;LOCATION
+1385;Go;ACTION
+1385;to;O
+1385;doctors room;LOCATION
+1385;with;O
+1385;Antibiotics.;O
+1386;Transport;ACTION
+1386;Ibuprofen;MEDICINE
+1386;toco;O
+1386;Room 567.;LOCATION
+1387;Take;ACTION
+1387;Cough;O
+1387;Syrup;O
+1387;to;O
+1387;Room 385.;LOCATION
+1388;Head towards;ACTION
+1388;to;O
+1388;emergency room;LOCATION
+1388;with;O
+1388;Antibiotics.;O
+1389;Move;ACTION
+1389;to;O
+1389;Room 102;LOCATION
+1389;with;O
+1389;Paracetamol.;O
+1390;Go;ACTION
+1390;to;O
+1390;doctors room;LOCATION
+1390;with;O
+1390;Cough;O
+1390;Syrup.;O
+1391;Proceed;ACTION
+1391;to;O
+1391;RECEPTION;LOCATION
+1391;with;O
+1391;Penicillin.;O
+1392;Send;ACTION
+1392;Tylenol;MEDICINE
+1392;to;O
+1392;push;O
+1392;Room 201.;LOCATION
+1393;Go;ACTION
+1393;to;O
+1393;Room 410;LOCATION
+1393;with;O
+1393;Tylenol.;O
+1394;Send;ACTION
+1394;Ibuprofen;MEDICINE
+1394;to;O
+1394;Room 425.;LOCATION
+1395;Head towards;ACTION
+1395;to;O
+1395;nurse station;LOCATION
+1395;with;O
+1395;Cough;O
+1395;Syrup.;O
+1396;Proceed;ACTION
+1396;to;O
+1396;RECEPTION;LOCATION
+1396;with;O
+1396;Aspirin.;O
+1397;Proceed;ACTION
+1397;to;O
+1397;Room 569;LOCATION
+1397;with;O
+1397;Penicillin.;O
+1398;Head towards;ACTION
+1398;to;O
+1398;emergency room;LOCATION
+1398;with;O
+1398;Tylenol.;O
+1399;Move;ACTION
+1399;to;O
+1399;nurse station;LOCATION
+1399;with;O
+1399;Aspirin.;O
+1400;Transport;ACTION
+1400;Penicillin;MEDICINE
+1400;to;O
+1400;doctors_room.;O
+1401;Send;ACTION
+1401;Aspirin;MEDICINE
+1401;to;O
+1401;ICU.;O
+1402;Send;ACTION
+1402;Cough;O
+1402;Syrup;O
+1402;to;O
+1402;reception.;O
+1403;Go;ACTION
+1403;to;O
+1403;Room 379;LOCATION
+1403;with;O
+1403;Aspirin.;O
+1404;Head towards;ACTION
+1404;to;O
+1404;Room 438;LOCATION
+1404;with;O
+1404;Paracetamol.;O
+1405;Navigate;ACTION
+1405;to;O
+1405;Reception;LOCATION
+1405;with;O
+1405;Paracetamol.;O
+1406;Bring;ACTION
+1406;Paracetamol;MEDICINE
+1406;to;O
+1406;emergency_room.;O
+1407;Proceed;ACTION
+1407;to;O
+1407;emergency room;LOCATION
+1407;with;O
+1407;Cough;O
+1407;Syrup.;O
+1408;Deliver;ACTION
+1408;Antibiotics;MEDICINE
+1408;to;O
+1408;reception.;O
+1409;Bring;ACTION
+1409;Cough;O
+1409;Syrup;O
+1409;to;O
+1409;Room 406.;LOCATION
+1410;Head towards;ACTION
+1410;to;O
+1410;Room 282;LOCATION
+1410;with;O
+1410;Tylenol.;O
+1411;Move;ACTION
+1411;to;O
+1411;Room 321;LOCATION
+1411;with;O
+1411;Cough;O
+1411;Syrup.;O
+1412;Navigate;ACTION
+1412;to;O
+1412;Room 466;LOCATION
+1412;with;O
+1412;Antibiotics.;O
+1413;Proceed;ACTION
+1413;to;O
+1413;Room 200;LOCATION
+1413;with;O
+1413;Paracetamol.;O
+1414;emergency;O
+1414;with;O
+1414;Navigate;ACTION
+1414;Ibuprofen.;O
+1414;Room to;LOCATION
+1415;Transport;ACTION
+1415;Ibuprofen;MEDICINE
+1415;to;O
+1415;doctors_room.;O
+1416;Go;ACTION
+1416;to;O
+1416;Room 307;LOCATION
+1416;with;O
+1416;Ibuprofen.;O
+1417;Send;ACTION
+1417;Cough;O
+1417;Syrup;O
+1417;to;O
+1417;ICU.;O
+1418;Send;ACTION
+1418;Penicillin;MEDICINE
+1418;to;O
+1418;Room 381.;LOCATION
+1419;Take;ACTION
+1419;Cougjh;O
+1419;Syrup;O
+1419;to;O
+1419;nurse_station.;O
+1420;Deliver;ACTION
+1420;Aspirin;MEDICINE
+1420;to;O
+1420;ICU.;O
+1421;Move;ACTION
+1421;to;O
+1421;ICU;LOCATION
+1421;with;O
+1421;Tylenol.;O
+1422;Deliver;ACTION
+1422;Aspirin;MEDICINE
+1422;to;O
+1422;emergency_room.;O
+1423;Navigate;ACTION
+1423;to;O
+1423;Reception;LOCATION
+1423;with;O
+1423;Ibuprofen.;O
+1424;Take;ACTION
+1424;Tylenol;MEDICINE
+1424;to;O
+1424;Room 218.;LOCATION
+1425;Transport;ACTION
+1425;Tylenol;MEDICINE
+1425;to;O
+1425;nurse_station.;O
+1426;Go;ACTION
+1426;to;O
+1426;Room 169;LOCATION
+1426;with;O
+1426;Antibiotics.;O
+1427;Move;ACTION
+1427;to;O
+1427;Room 129;LOCATION
+1427;with;O
+1427;Antibiotics.;O
+1428;Send;ACTION
+1428;Antibiotics;MEDICINE
+1428;to;O
+1428;reception.;O
+1429;Navigate;ACTION
+1429;to;O
+1429;Room 239;LOCATION
+1429;with;O
+1429;Penicillin.;O
+1430;Head towards;ACTION
+1430;to;O
+1430;Room 153;LOCATION
+1430;with;O
+1430;Cough;O
+1430;Syrup.;O
+1431;Head towards;ACTION
+1431;to;O
+1431;emergency room;LOCATION
+1431;with;O
+1431;Cough;O
+1431;Syrup.;O
+1432;Bring;ACTION
+1432;Antibiotics;MEDICINE
+1432;to;O
+1432;ICU.;O
+1433;to;O
+1433;Paracetamol;MEDICINE
+1433;ICU.;O
+1433;Send;ACTION
+1434;Bring;ACTION
+1434;Tylenol;MEDICINE
+1434;to;O
+1434;nurse_station.;O
+1435;Head towards;ACTION
+1435;to;O
+1435;reception;LOCATION
+1435;with;O
+1435;Antibiotics.;O
+1436;287.;O
+1436;Transport;ACTION
+1436;Paracetamol;MEDICINE
+1436;to;O
+1437;Head towards;ACTION
+1437;to;O
+1437;Room 190;LOCATION
+1437;with;O
+1437;Paracetamolbacetamol.;O
+1438;Proceed;ACTION
+1438;to;O
+1438;Room 148;LOCATION
+1438;with;O
+1438;Antibiotics.;O
+1439;to;O
+1439;Paracetamol.;O
+1439;with;O
+1439;Reception;LOCATION
+1439;towards;O
+1439;Head;O
+1440;Send;ACTION
+1440;Aspirin;MEDICINE
+1440;to;O
+1440;doctors_room.;O
+1441;ICU;LOCATION
+1441;Deliver;ACTION
+1441;Antibiotics;MEDICINE
+1441;to;O
+1441;Room 302.;LOCATION
+1442;to;O
+1442;Tylenol;MEDICINE
+1442;Bring;ACTION
+1442;312.;O
+1443;to;O
+1443;Send;ACTION
+1443;Antibiotics;MEDICINE
+1443;reception.;O
+1444;Deliver;ACTION
+1444;Penicillin;MEDICINE
+1444;to;O
+1444;Room 437.;LOCATION
+1445;Deliver;ACTION
+1445;Ibuprofen;MEDICINE
+1445;to;O
+1445;Room 168.;LOCATION
+1446;Bring;ACTION
+1446;Penicillin;MEDICINE
+1446;to;O
+1446;Room 355.;LOCATION
+1447;Go;ACTION
+1447;to;O
+1447;Room 295;LOCATION
+1447;with;O
+1447;Tylenol.;O
+1448;Navigate;ACTION
+1448;to;O
+1448;doctors room;LOCATION
+1448;with;O
+1448;Tylenol.;O
+1449;Deliver;ACTION
+1449;Cough;O
+1449;Syrup;O
+1449;to;O
+1449;doctors_room.;O
+1450;Deliver;ACTION
+1450;Aspirin;MEDICINE
+1450;to;O
+1450;ICU.;O
+1451;room.;O
+1451;Antibiotics;MEDICINE
+1451;emergency;O
+1451;Transport;ACTION
+1451;to;O
+1452;Move;ACTION
+1452;to;O
+1452;Room 400;LOCATION
+1452;with;O
+1452;Tylenol.;O
+1453;Deliver;ACTION
+1453;Antibiotics;MEDICINE
+1453;to;O
+1453;Room 531.;LOCATION
+1454;Bring;ACTION
+1454;Ibuprofen;MEDICINE
+1454;to;O
+1454;Room 526.;LOCATION
+1455;Move;ACTION
+1455;toj;O
+1455;Reception;LOCATION
+1455;with;O
+1455;Cough;O
+1455;Syrup.;O
+1456;Navigate;ACTION
+1456;to;O
+1456;Room 441;LOCATION
+1456;with;O
+1456;Antibiotics.;O
+1457;Send;ACTION
+1457;Penicillin;MEDICINE
+1457;to;O
+1457;doctors_room.;O
+1458;Head;O
+1458;head;O
+1458;towards;O
+1458;towards;O
+1458;to;O
+1458;Room 246;LOCATION
+1458;with;O
+1458;Penicillin.;O
+1459;Move;ACTION
+1459;to;O
+1459;Room 432;LOCATION
+1459;with;O
+1459;Ibuprofen.;O
+1460;Send;ACTION
+1460;Tylenol;MEDICINE
+1460;to;O
+1460;doctors_room.;O
+1461;Send;ACTION
+1461;Cough;O
+1461;emergency room;LOCATION
+1461;Syrup;O
+1461;to;O
+1461;Room 311.;LOCATION
+1462;Send;ACTION
+1462;Ibuprofen;MEDICINE
+1462;to;O
+1462;doctors_room.;O
+1463;Transport;ACTION
+1463;Aspirin;MEDICINE
+1463;to;O
+1463;ICU.;O
+1464;Navigate;ACTION
+1464;to;O
+1464;Room 304;LOCATION
+1464;with;O
+1464;Tylenol.;O
+1465;Transport;ACTION
+1465;Penicillin;MEDICINE
+1465;to;O
+1465;nurse_station.;O
+1466;Proceed;ACTION
+1466;to;O
+1466;Room affect;LOCATION
+1466;294;O
+1466;with;O
+1466;Antibiotics.;O
+1467;Head;O
+1467;Room towards;LOCATION
+1467;with;O
+1467;emergency;O
+1467;Tylenol.;O
+1467;to;O
+1468;Send;ACTION
+1468;Aspirin;MEDICINE
+1468;to;O
+1468;Room 285.;LOCATION
+1469;to;O
+1469;Aspirin;MEDICINE
+1469;Transport;ACTION
+1469;room.;O
+1469;emergency;O
+1470;Go;ACTION
+1470;to;O
+1470;Room 421;LOCATION
+1470;with;O
+1470;Antibiotics.;O
+1471;Proceed;ACTION
+1471;to;O
+1471;Room 391;LOCATION
+1471;with;O
+1471;Aspirin.;O
+1472;Transport;ACTION
+1472;Penicillin;MEDICINE
+1472;to;O
+1472;ICU;LOCATION
+1472;Room 550.;LOCATION
+1473;Move;ACTION
+1473;to;O
+1473;doctors room;LOCATION
+1473;with;O
+1473;Penicillin.;O
+1474;Head towards;ACTION
+1474;to;O
+1474;Room 332;LOCATION
+1474;with;O
+1474;Ibuprofen.;O
+1475;Transport;ACTION
+1475;Aspirin;MEDICINE
+1475;to;O
+1475;nurse_station.;O
+1476;Deliver;ACTION
+1476;Ibuprofen;MEDICINE
+1476;to;O
+1476;doctors_room.;O
+1477;Proceed;ACTION
+1477;to;O
+1477;nursuurse;O
+1477;station;O
+1477;with;O
+1477;Tylenol.;O
+1478;Move;ACTION
+1478;to;O
+1478;ICU;LOCATION
+1478;with;O
+1478;Ibuprofen.;O
+1479;Head towards;ACTION
+1479;to;O
+1479;nurse station;LOCATION
+1479;with;O
+1479;Tylenol.;O
+1480;Go;ACTION
+1480;to;O
+1480;Room 416;LOCATION
+1480;with;O
+1480;Aspirin.;O
+1481;Proceed;ACTION
+1481;to;O
+1481;ICU;LOCATION
+1481;with;O
+1481;Penicillin.;O
+1482;Go;ACTION
+1482;to;O
+1482;nurse station;LOCATION
+1482;with;O
+1482;Penicillin.;O
+1483;Send;ACTION
+1483;Antibiotics;MEDICINE
+1483;to;O
+1483;reception.;O
+1484;Transport;ACTION
+1484;Ibuprofen;MEDICINE
+1484;to;O
+1484;Room 388.;LOCATION
+1485;Head towards;ACTION
+1485;to;O
+1485;doctors room;LOCATION
+1485;with;O
+1485;Aspirin.;O
+1486;Move;ACTION
+1486;to;O
+1486;Room 384;LOCATION
+1486;with;O
+1486;Penicillin.;O
+1487;Deliver;ACTION
+1487;Syrup;O
+1487;emergency_room.;O
+1487;to;O
+1487;Cough;O
+1488;Proceed;ACTION
+1488;to;O
+1488;nurse station;LOCATION
+1488;with;O
+1488;Ibuprofen.;O
+1489;Transport;ACTION
+1489;Aspirin;MEDICINE
+1489;to;O
+1489;ICU.;O
+1490;Transport;ACTION
+1490;Tylenol;MEDICINE
+1490;to;O
+1490;doctors_room.;O
+1491;Go;ACTION
+1491;to;O
+1491;Room 288;LOCATION
+1491;with;O
+1491;Aspirin.;O
+1492;with;O
+1492;to;O
+1492;Room Tylenol.;LOCATION
+1492;353;O
+1492;Proceed;ACTION
+1493;Move;ACTION
+1493;to;O
+1493;Room 407;LOCATION
+1493;with;O
+1493;Tylenol.;O
+1494;Proceed;ACTION
+1494;to;O
+1494;emergency room;LOCATION
+1494;with;O
+1494;Tylenol.;O
+1495;Send;ACTION
+1495;Ibuprofen;MEDICINE
+1495;to;O
+1495;emergency_room.;O
+1496;Go;ACTION
+1496;to;O
+1496;Room 571;LOCATION
+1496;with;O
+1496;Cough;O
+1496;Syrup.;O
+1497;Go;ACTION
+1497;to;O
+1497;Room 290;LOCATION
+1497;with;O
+1497;Cough;O
+1497;Syrup.;O
+1498;Take;ACTION
+1498;Tylenol;MEDICINE
+1498;to;O
+1498;Room 534.;LOCATION
+1499;Head towards;ACTION
+1499;to;O
+1499;Room 159;LOCATION
+1499;with;O
+1499;Paracetamol.;O
+1500;Go;ACTION
+1500;to;O
+1500;RECEPTION;LOCATION
+1500;with;O
+1500;Aspirin.;O
+1501;Move;ACTION
+1501;to;O
+1501;Room 245;LOCATION
+1501;with;O
+1501;Cough;O
+1501;Syrup.;O
+1502;Move;ACTION
+1502;to;O
+1502;Room 216;LOCATION
+1502;movie;O
+1502;with;O
+1502;Paracetamol.;O
+1503;Move;ACTION
+1503;to;O
+1503;doctors room;LOCATION
+1503;with;O
+1503;Paracetamol.;O
+1504;Move;ACTION
+1504;to;O
+1504;Room 320;LOCATION
+1504;with;O
+1504;Cough;O
+1504;Syrup.;O
+1505;Send;ACTION
+1505;Penicillin;MEDICINE
+1505;to;O
+1505;Room 223.;LOCATION
+1506;Transport;ACTION
+1506;Cough;O
+1506;Syrup;O
+1506;to;O
+1506;Room 395.;LOCATION
+1507;Proceed;ACTION
+1507;to;O
+1507;Room 137;LOCATION
+1507;with;O
+1507;Paracetamol.;O
+1508;Go;ACTION
+1508;to;O
+1508;nurse station;LOCATION
+1508;with;O
+1508;Aspirin.;O
+1509;Send;ACTION
+1509;Tylenol;MEDICINE
+1509;to;O
+1509;ICU.;O
+1510;Send;ACTION
+1510;Aspirin;MEDICINE
+1510;to;O
+1510;Room 121.;LOCATION
+1511;Room Deliver;LOCATION
+1511;Cough;O
+1511;to;O
+1511;182.;O
+1511;Syrup;O
+1512;Transport;ACTION
+1512;Antibiotics;MEDICINE
+1512;to;O
+1512;Room 483.;LOCATION
+1513;Move;ACTION
+1513;to;O
+1513;doctors room;LOCATION
+1513;with;O
+1513;Tylenol.;O
+1514;Take;ACTION
+1514;to;O
+1514;reception.;O
+1514;Aspirin;MEDICINE
+1515;Navigate;ACTION
+1515;to;O
+1515;Room 503;LOCATION
+1515;with;O
+1515;Ibuprofen.;O
+1516;to;O
+1516;Navigate;ACTION
+1516;Room Syrup.;LOCATION
+1516;emergency;O
+1516;with;O
+1516;Cough;O
+1517;Navigate;ACTION
+1517;to;O
+1517;Room 401;LOCATION
+1517;with;O
+1517;Antibiotics.;O
+1518;Transport;ACTION
+1518;Ibuprofen;MEDICINE
+1518;to;O
+1518;Room 137.;LOCATION
+1519;Head towards;ACTION
+1519;to;O
+1519;Room 522;LOCATION
+1519;with;O
+1519;Antibiotics.;O
+1520;Go;ACTION
+1520;to;O
+1520;doctors room;LOCATION
+1520;with;O
+1520;Antibiotics.;O
+1521;Go;ACTION
+1521;to;O
+1521;Room 121;LOCATION
+1521;with;O
+1521;Tylenol.;O
+1522;Move;ACTION
+1522;to;O
+1522;Room 506;LOCATION
+1522;with;O
+1522;Ibuprofen.;O
+1523;Head towards;ACTION
+1523;to;O
+1523;Room 547;LOCATION
+1523;with;O
+1523;Antibiotics.;O
+1524;Navigate;ACTION
+1524;to;O
+1524;doctors room;LOCATION
+1524;with;O
+1524;Ibuprofen.;O
+1525;Head towards;ACTION
+1525;to;O
+1525;Reception;LOCATION
+1525;with;O
+1525;Ibuprofen.;O
+1526;Proceed;ACTION
+1526;to;O
+1526;Room 340;LOCATION
+1526;with;O
+1526;Antibiotics.;O
+1527;Deliver;ACTION
+1527;Aspirin;MEDICINE
+1527;to;O
+1527;doctors_room.;O
+1528;Send;ACTION
+1528;Tylenol;MEDICINE
+1528;to;O
+1528;Room 584.;LOCATION
+1529;Ibuprofen;MEDICINE
+1529;to;O
+1529;544.;O
+1529;Send;ACTION
+1530;Go;ACTION
+1530;to;O
+1530;Room 370;LOCATION
+1530;with;O
+1530;Cough;O
+1530;Syrup.;O
+1531;Transport;ACTION
+1531;Paracetamol;MEDICINE
+1531;to;O
+1531;Room 339.;LOCATION
+1532;Send;ACTION
+1532;Tylenol;MEDICINE
+1532;to;O
+1532;Room 550.;LOCATION
+1533;Transport;ACTION
+1533;Tylenol;MEDICINE
+1533;to;O
+1533;Room 180.;LOCATION
+1534;Go;ACTION
+1534;to;O
+1534;Room 386;LOCATION
+1534;with;O
+1534;Penicillin.;O
+1535;Go;ACTION
+1535;to;O
+1535;nurse station;LOCATION
+1535;emergency room;LOCATION
+1535;with;O
+1535;Cough;O
+1535;Syrup.;O
+1536;Deliver;ACTION
+1536;Penicillin;MEDICINE
+1536;to;O
+1536;nurse_station.;O
+1537;Send;ACTION
+1537;Ibuprofen;MEDICINE
+1537;to;O
+1537;Room 464.;LOCATION
+1538;Move;ACTION
+1538;to;O
+1538;reception;LOCATION
+1538;with;O
+1538;Aspirin.;O
+1539;Move;ACTION
+1539;to;O
+1539;nurse station;LOCATION
+1539;with;O
+1539;Aspirin.;O
+1540;Head towards;ACTION
+1540;to;O
+1540;emergency room;LOCATION
+1540;with;O
+1540;Antibiotics.;O
+1541;Go;ACTION
+1541;to;O
+1541;RECEPTION;LOCATION
+1541;with;O
+1541;Penicillin.;O
+1542;Navigate;ACTION
+1542;to;O
+1542;ICU;LOCATION
+1542;with;O
+1542;Ibuprofen.;O
+1542;reception;LOCATION
+1543;Deliver;ACTION
+1543;outside;O
+1543;Ibuprofen;MEDICINE
+1543;to;O
+1543;Room 571.;LOCATION
+1544;Navigate;ACTION
+1544;to;O
+1544;reception;LOCATION
+1544;with;O
+1544;Paracetamol.;O
+1545;to;O
+1545;Aspirin;MEDICINE
+1545;room.;O
+1545;doctors;O
+1545;Take;ACTION
+1546;Transport;ACTION
+1546;Paracetamol;MEDICINE
+1546;to;O
+1546;doctors_room.;O
+1547;Take;ACTION
+1547;Tylenol;MEDICINE
+1547;to;O
+1547;RECEPTION;LOCATION
+1547;Room 445.;LOCATION
+1548;Bring;ACTION
+1548;Penicillin;MEDICINE
+1548;to;O
+1548;ICU.;O
+1549;Move;ACTION
+1549;to;O
+1549;Room 591;LOCATION
+1549;with;O
+1549;Paracetamol.;O
+1550;Take;ACTION
+1550;Tylenol;MEDICINE
+1550;to;O
+1550;reception.;O
+1551;Deliver;ACTION
+1551;Ibuprofen;MEDICINE
+1551;to;O
+1551;reception.;O
+1552;room.;O
+1552;doctors;O
+1552;Penicillin;MEDICINE
+1552;to;O
+1552;Transport;ACTION
+1553;Take;ACTION
+1553;Antibiotics;MEDICINE
+1553;to;O
+1553;nurse_station.;O
+1554;Navigate;ACTION
+1554;to;O
+1554;Room 474;LOCATION
+1554;with;O
+1554;Cough;O
+1554;Syrup.;O
+1555;Navigate;ACTION
+1555;to;O
+1555;Room 210;LOCATION
+1555;with;O
+1555;Ibuprofen.;O
+1556;Head towards;ACTION
+1556;to;O
+1556;nurse station;LOCATION
+1556;with;O
+1556;Paracetamol.;O
+1557;Head towards;ACTION
+1557;to;O
+1557;RECEPTION;LOCATION
+1557;with;O
+1557;Ibuprofen.;O
+1558;Send;ACTION
+1558;Antibiotics;MEDICINE
+1558;to;O
+1558;Room 186.;LOCATION
+1559;Bring;ACTION
+1559;Penicillin;MEDICINE
+1559;to;O
+1559;emergency_room.;O
+1560;to;O
+1560;Penicillin.;O
+1560;Proceed;ACTION
+1560;Reception;LOCATION
+1560;with;O
+1561;Go;ACTION
+1561;to;O
+1561;Room material;LOCATION
+1561;348;O
+1561;with;O
+1561;Antibiotics.;O
+1562;Move;ACTION
+1562;to;O
+1562;ICU;LOCATION
+1562;with;O
+1562;Cough;O
+1562;Syrup.;O
+1563;Navigate;ACTION
+1563;to;O
+1563;ICU;LOCATION
+1563;with;O
+1563;Aspirin.;O
+1564;Navigate;ACTION
+1564;to;O
+1564;Room 132;LOCATION
+1564;with;O
+1564;towards;O
+1564;head;O
+1564;Penicillin.;O
+1565;Transport;ACTION
+1565;Ibuprofen;MEDICINE
+1565;to;O
+1565;nurse_station.;O
+1566;Move;ACTION
+1566;to;O
+1566;Room 198;LOCATION
+1566;with;O
+1566;Aspirin.;O
+1567;Send;ACTION
+1567;Paracetamol;MEDICINE
+1567;to;O
+1567;nurse_station.;O
+1568;Navigate;ACTION
+1568;to;O
+1568;nurse station;LOCATION
+1568;with;O
+1568;Aspirin.;O
+1569;Move;ACTION
+1569;to;O
+1569;emergency room;LOCATION
+1569;with;O
+1569;Cough;O
+1569;Syrup.;O
+1570;Move;ACTION
+1570;to;O
+1570;nurse station;LOCATION
+1570;with;O
+1570;Aspirin.;O
+1571;Go;ACTION
+1571;to;O
+1571;Room 142;LOCATION
+1571;with;O
+1571;Antibiotics.;O
+1572;Head towards;ACTION
+1572;to;O
+1572;nurse station;LOCATION
+1572;with;O
+1572;Paracetamol.;O
+1573;Take;ACTION
+1573;Tylenol;MEDICINE
+1573;to;O
+1573;doctors_room.;O
+1574;Go;ACTION
+1574;to;O
+1574;Room 596;LOCATION
+1574;with;O
+1574;Cough;O
+1574;Syrup.;O
+1575;Transport;ACTION
+1575;Ibuprofen;MEDICINE
+1575;to;O
+1575;Room 465.;LOCATION
+1576;Navigate;ACTION
+1576;to;O
+1576;nurse station;LOCATION
+1576;with;O
+1576;Ibuprofen.;O
+1577;Head towards;ACTION
+1577;Reception;LOCATION
+1577;Penicillin.;O
+1577;to;O
+1577;with;O
+1578;Navigate;ACTION
+1578;to;O
+1578;Room 568;LOCATION
+1578;with;O
+1578;Ibuprofen.;O
+1579;Deliver;ACTION
+1579;Cough;O
+1579;Syrup;O
+1579;to;O
+1579;emergency_room.;O
+1580;Navigate;ACTION
+1580;to;O
+1580;Room 529;LOCATION
+1580;with;O
+1580;Penicillin.;O
+1581;Go;ACTION
+1581;to;O
+1581;Room 425;LOCATION
+1581;with;O
+1581;Paracetamol.;O
+1582;Transport;ACTION
+1582;Tylenol;MEDICINE
+1582;tovo;O
+1582;ICU.;O
+1583;Send;ACTION
+1583;Antibiotics;MEDICINE
+1583;to;O
+1583;Room 446.;LOCATION
+1584;Move;ACTION
+1584;to;O
+1584;emergency room;LOCATION
+1584;with;O
+1584;rate;O
+1584;Ibuprofen.;O
+1585;Paracetamol;MEDICINE
+1585;to;O
+1585;ICU.;O
+1585;Bring;ACTION
+1586;Take;ACTION
+1586;Aspirin;MEDICINE
+1586;to;O
+1586;Room 506.;LOCATION
+1587;Deliver;ACTION
+1587;Ibuprofen;MEDICINE
+1587;to;O
+1587;ICU.;O
+1588;Move;ACTION
+1588;to;O
+1588;Room 349;LOCATION
+1588;with;O
+1588;Coughkugh;O
+1588;Syrup.;O
+1589;Send;ACTION
+1589;Paracetamol;MEDICINE
+1589;to;O
+1589;Room 169.;LOCATION
+1590;Transport;ACTION
+1590;Penicillin;MEDICINE
+1590;to;O
+1590;Room 502.;LOCATION
+1591;Go;ACTION
+1591;to;O
+1591;Room 155;LOCATION
+1591;with;O
+1591;Aspirin.;O
+1592;Head towards;ACTION
+1592;to;O
+1592;emergency room;LOCATION
+1592;with;O
+1592;Paracetamol.;O
+1593;Send;ACTION
+1593;Ibuprofen;MEDICINE
+1593;us;O
+1593;to;O
+1593;reception.;O
+1594;Head towards;ACTION
+1594;to;O
+1594;Room 246;LOCATION
+1594;with;O
+1594;Ibuprofen.;O
+1595;Proceed;ACTION
+1595;to;O
+1595;Reception;LOCATION
+1595;with;O
+1595;Tylenol.;O
+1596;Bring;ACTION
+1596;Penicillin;MEDICINE
+1596;to;O
+1596;reception.;O
+1597;Go;ACTION
+1597;to;O
+1597;Room 586;LOCATION
+1597;with;O
+1597;Antibiotics.;O
+1598;Deliver;ACTION
+1598;Paracetamol;MEDICINE
+1598;to;O
+1598;Room 299.;LOCATION
+1599;Bring;ACTION
+1599;Antibiotics;MEDICINE
+1599;to;O
+1599;Room 294.;LOCATION
+1600;Go;ACTION
+1600;to;O
+1600;doctors room;LOCATION
+1600;with;O
+1600;Tylenol.;O
+1601;Navigate;ACTION
+1601;to;O
+1601;ICU;LOCATION
+1601;with;O
+1601;Tylenol.;O
+1602;Takcke;O
+1602;Paracetamol;MEDICINE
+1602;to;O
+1602;doctors_room.;O
+1603;Transport;ACTION
+1603;Penicillin;MEDICINE
+1603;to;O
+1603;Room 568.;LOCATION
+1604;Take;ACTION
+1604;Aspirin;MEDICINE
+1604;to;O
+1604;reception.;O
+1605;Move;ACTION
+1605;to;O
+1605;Room 600;LOCATION
+1605;with;O
+1605;Ibuprofen.;O
+1606;Deliver;ACTION
+1606;Tylenol;MEDICINE
+1606;to;O
+1606;Room 564.;LOCATION
+1606;Reception;LOCATION
+1607;Go;ACTION
+1607;to;O
+1607;Room 244;LOCATION
+1607;witm;O
+1607;Antibiotics.;O
+1608;Bring;ACTION
+1608;Penicillin;MEDICINE
+1608;to;O
+1608;Room 445.;LOCATION
+1609;Deliver;ACTION
+1609;Penicillin;MEDICINE
+1609;to;O
+1609;Room 234.;LOCATION
+1610;Transport;ACTION
+1610;Penicillin;MEDICINE
+1610;to;O
+1610;Room 133.;LOCATION
+1611;Deliver;ACTION
+1611;Penicillin;MEDICINE
+1611;to;O
+1611;ICU.;O
+1612;Send;ACTION
+1612;Tylenol;MEDICINE
+1612;to;O
+1612;Room 423.;LOCATION
+1613;Proceed;ACTION
+1613;to;O
+1613;RECEPTION;LOCATION
+1613;with;O
+1613;Penicillin.;O
+1614;Deliver;ACTION
+1614;Penicillin;MEDICINE
+1614;to;O
+1614;nurse_station.;O
+1615;Send;ACTION
+1615;Aspirin;MEDICINE
+1615;to;O
+1615;Room 253.;LOCATION
+1616;Transport;ACTION
+1616;Ibuprofen;MEDICINE
+1616;to;O
+1616;Room 146.;LOCATION
+1617;Transport;ACTION
+1617;Tylenob;O
+1617;to;O
+1617;Room 233.;LOCATION
+1618;to;O
+1618;Send;ACTION
+1618;Cough;O
+1618;Syrup;O
+1618;ICU.;O
+1619;Move;ACTION
+1619;to;O
+1619;reception;LOCATION
+1619;with;O
+1619;Aspirin.;O
+1620;to;O
+1620;Room with;LOCATION
+1620;towards;O
+1620;Head;O
+1620;316;O
+1620;Penicillin.;O
+1621;Transport;ACTION
+1621;Aspitspirin;O
+1621;to;O
+1621;Room 240.;LOCATION
+1622;Transport;ACTION
+1622;Tylenol;MEDICINE
+1622;to;O
+1622;ICU.;O
+1623;Proceed;ACTION
+1623;to;O
+1623;particularly;O
+1623;Room 463;LOCATION
+1623;with;O
+1623;Tylenol.;O
+1624;Head towards;ACTION
+1624;to;O
+1624;nurse station;LOCATION
+1624;with;O
+1624;Ibuprofen.;O
+1625;Deliver;ACTION
+1625;Cough;O
+1625;Syrup;O
+1625;to;O
+1625;Room 235.;LOCATION
+1626;Bring;ACTION
+1626;Aspirin;MEDICINE
+1626;ICU.;O
+1626;to;O
+1627;Take;ACTION
+1627;Antibiotics;MEDICINE
+1627;to;O
+1627;emergency_room.;O
+1628;towards;O
+1628;Navigate;ACTION
+1628;to;O
+1628;reception;LOCATION
+1628;with;O
+1628;head;O
+1628;Ibuprofen.;O
+1629;Send;ACTION
+1629;Antibiotics;MEDICINE
+1629;to;O
+1629;attention;O
+1629;Room 291.;LOCATION
+1630;Proceed;ACTION
+1630;to;O
+1630;reception;LOCATION
+1630;with;O
+1630;Penicillin.;O
+1631;Head towards;ACTION
+1631;to;O
+1631;doctors room;LOCATION
+1631;with;O
+1631;Antibiotics.;O
+1632;Proceed;ACTION
+1632;to;O
+1632;emergency room;LOCATION
+1632;with;O
+1632;Antibiotics.;O
+1633;Proceed;ACTION
+1633;to;O
+1633;Room 269;LOCATION
+1633;with;O
+1633;Ibuprofen.;O
+1634;Proceed;ACTION
+1634;to;O
+1634;Room 427;LOCATION
+1634;with;O
+1634;Cough;O
+1634;Syrup.;O
+1635;Take;ACTION
+1635;Cough;O
+1635;Syrup;O
+1635;to;O
+1635;doctors_room.;O
+1636;Navigate;ACTION
+1636;to;O
+1636;Room 114;LOCATION
+1636;with;O
+1636;Penicillin.;O
+1637;Deliver;ACTION
+1637;Tylenol;MEDICINE
+1637;to;O
+1637;doctors_room.;O
+1638;Transport;ACTION
+1638;Tylenol;MEDICINE
+1638;to;O
+1638;reception.;O
+1639;Bring;ACTION
+1639;Cough;O
+1639;Syrup;O
+1639;to;O
+1639;emergency_room.;O
+1640;Head towards;ACTION
+1640;to;O
+1640;Room 305;LOCATION
+1640;with;O
+1640;Tylenol.;O
+1641;Bring;ACTION
+1641;Tylenol;MEDICINE
+1641;to;O
+1641;painting;O
+1641;Room 383.;LOCATION
+1642;Bring;ACTION
+1642;Aspirin;MEDICINE
+1642;to;O
+1642;nurse_station.;O
+1643;Take;ACTION
+1643;Cough;O
+1643;Syrup;O
+1643;to;O
+1643;nurse_station.;O
+1644;Move;ACTION
+1644;to;O
+1644;Room 331;LOCATION
+1644;with;O
+1644;Aspirin.;O
+1645;Move;ACTION
+1645;to;O
+1645;Room 320;LOCATION
+1645;with;O
+1645;Penicillin.;O
+1646;Bring;ACTION
+1646;Ibuprofen;MEDICINE
+1646;to;O
+1646;nurse_station.;O
+1647;Proceed;ACTION
+1647;to;O
+1647;Room 148;LOCATION
+1647;towards;O
+1647;with;O
+1647;Cough;O
+1647;head;O
+1647;Syrup.;O
+1648;Go;ACTION
+1648;to;O
+1648;Room 122;LOCATION
+1648;with;O
+1648;Aspirin.;O
+1649;Deliver;ACTION
+1649;Cough;O
+1649;Syrup;O
+1649;to;O
+1649;reception.;O
+1650;Transport;ACTION
+1650;Aspirin;MEDICINE
+1650;to;O
+1650;doctors_room.;O
+1651;Go;ACTION
+1651;to;O
+1651;Room 253;LOCATION
+1651;with;O
+1651;Paracetamol.;O
+1652;to;O
+1652;nurse;O
+1652;with;O
+1652;Head;O
+1652;station;O
+1652;towards;O
+1652;Aspirin.;O
+1653;Move;ACTION
+1653;Penicillin.;O
+1653;to;O
+1653;Reception;LOCATION
+1653;with;O
+1654;Move;ACTION
+1654;to;O
+1654;Room 402;LOCATION
+1654;with;O
+1654;Cough;O
+1654;Syrup.;O
+1655;Navigate;ACTION
+1655;to;O
+1655;Room 526;LOCATION
+1655;with;O
+1655;Cough;O
+1655;Syrup.;O
+1656;Head towards;ACTION
+1656;to;O
+1656;RECEPTION;LOCATION
+1656;with;O
+1656;Antibiotics.;O
+1657;Head towards;ACTION
+1657;to;O
+1657;doctors room;LOCATION
+1657;with;O
+1657;Penicillin.;O
+1658;Transport;ACTION
+1658;Antibiotics;MEDICINE
+1658;to;O
+1658;emergency_room.;O
+1659;Navigate;ACTION
+1659;to;O
+1659;Room 534;LOCATION
+1659;with;O
+1659;Ibuprofen.;O
+1660;Navigate;ACTION
+1660;to;O
+1660;nurse station;LOCATION
+1660;with;O
+1660;Penicillin.;O
+1661;Bring;ACTION
+1661;Cough;O
+1661;Syrup;O
+1661;to;O
+1661;Room 284.;LOCATION
+1662;Send;ACTION
+1662;Tylenol;MEDICINE
+1662;to;O
+1662;Room 134.;LOCATION
+1663;Navigate;ACTION
+1663;to;O
+1663;doctors room;LOCATION
+1663;with;O
+1663;Penicillin.;O
+1664;Bring;ACTION
+1664;Aspirin;MEDICINE
+1664;to;O
+1664;Room 306.;LOCATION
+1665;Bring;ACTION
+1665;Tylenol;MEDICINE
+1665;to;O
+1665;Room 256.;LOCATION
+1666;Take;ACTION
+1666;Aspirin;MEDICINE
+1666;to;O
+1666;reception.;O
+1667;Bring;ACTION
+1667;Aspirin;MEDICINE
+1667;to;O
+1667;ICU.;O
+1668;Move;ACTION
+1668;to;O
+1668;Room 398;LOCATION
+1668;with;O
+1668;Cough;O
+1668;Syrup.;O
+1669;Deliver;ACTION
+1669;Aspirin;MEDICINE
+1669;to;O
+1669;nurse_station.;O
+1670;Go;ACTION
+1670;to;O
+1670;Room 251;LOCATION
+1670;with;O
+1670;Antibiotics.;O
+1671;Head towards;ACTION
+1671;to;O
+1671;Room 402;LOCATION
+1671;with;O
+1671;Aspirin.;O
+1672;Take;ACTION
+1672;Paracetamol;MEDICINE
+1672;to;O
+1672;ICU.;O
+1673;Navigate;ACTION
+1673;to;O
+1673;Room 428;LOCATION
+1673;with;O
+1673;Paracetamol.;O
+1674;Take;ACTION
+1674;Antibiotics;MEDICINE
+1674;to;O
+1674;emergency_room.;O
+1675;Deliver;ACTION
+1675;Tylenol;MEDICINE
+1675;to;O
+1675;Room 347.;LOCATION
+1676;Move;ACTION
+1676;to;O
+1676;Room 123;LOCATION
+1676;with;O
+1676;Paracetamol.;O
+1677;Bring;ACTION
+1677;Aspirin;MEDICINE
+1677;to;O
+1677;Room 376.;LOCATION
+1678;to;O
+1678;doctors_room.;O
+1678;Send;ACTION
+1678;Tylenol;MEDICINE
+1679;Take;ACTION
+1679;Ibuprofen;MEDICINE
+1679;to;O
+1679;Room 562.;LOCATION
+1680;Go;ACTION
+1680;to;O
+1680;Room 342;LOCATION
+1680;with;O
+1680;Aspirin.;O
+1681;Deliver;ACTION
+1681;Aspirin;MEDICINE
+1681;to;O
+1681;reception.;O
+1682;Head towards;ACTION
+1682;to;O
+1682;Room 493;LOCATION
+1682;with;O
+1682;Tylenol.;O
+1683;Bring;ACTION
+1683;Antibiotics;MEDICINE
+1683;to;O
+1683;Room 414.;LOCATION
+1684;Navigate;ACTION
+1684;to;O
+1684;Room 467;LOCATION
+1684;witrh;O
+1684;Tylenol.;O
+1685;Head towards;ACTION
+1685;to;O
+1685;emergency room;LOCATION
+1685;with;O
+1685;Paracetamol.;O
+1686;Bring;ACTION
+1686;Antibiotics;MEDICINE
+1686;to;O
+1686;ICU.;O
+1687;Bring;ACTION
+1687;Penicillin;MEDICINE
+1687;to;O
+1687;reception.;O
+1688;Move;ACTION
+1688;to;O
+1688;Room 459;LOCATION
+1688;with;O
+1688;Aspirin.;O
+1689;Take;ACTION
+1689;Paracetamol;MEDICINE
+1689;to;O
+1689;Room 538.;LOCATION
+1690;Antibiotics.;O
+1690;Proceed;ACTION
+1690;to;O
+1690;Reception;LOCATION
+1690;with;O
+1691;Move;ACTION
+1691;to;O
+1691;Room 507;LOCATION
+1691;with;O
+1691;Antibiotics.;O
+1692;Move;ACTION
+1692;to;O
+1692;Room 251;LOCATION
+1692;with;O
+1692;Aspirin.;O
+1693;Take;ACTION
+1693;Penicillin;MEDICINE
+1693;to;O
+1693;reception.;O
+1694;Transport;ACTION
+1694;towards;O
+1694;Penicillin;MEDICINE
+1694;to;O
+1694;Room 125.;LOCATION
+1694;head;O
+1695;Head towards;ACTION
+1695;to;O
+1695;Room 192;LOCATION
+1695;with;O
+1695;Aspirin.;O
+1696;Send;ACTION
+1696;Cough;O
+1696;Syrup;O
+1696;to;O
+1696;ICU.;O
+1697;Send;ACTION
+1697;Tylenol;MEDICINE
+1697;to;O
+1697;reception.;O
+1698;Move;ACTION
+1698;to;O
+1698;Room 330;LOCATION
+1698;with;O
+1698;Ibuprofen.;O
+1699;Take;ACTION
+1699;Ibuprofen;MEDICINE
+1699;to;O
+1699;reception.;O
+1700;Navigate;ACTION
+1700;to;O
+1700;RECEPTION;LOCATION
+1700;with;O
+1700;Aspirin.;O
+1701;Transport;ACTION
+1701;Aspirin;MEDICINE
+1701;to;O
+1701;Room 234.;LOCATION
+1702;Deliver;ACTION
+1702;Ibuprofen;MEDICINE
+1702;to;O
+1702;Room 111.;LOCATION
+1703;Take;ACTION
+1703;Cough;O
+1703;Syrup;O
+1703;to;O
+1703;Room 384.;LOCATION
+1704;Deliver;ACTION
+1704;Aspirin;MEDICINE
+1704;to;O
+1704;ICU.;O
+1705;Move;ACTION
+1705;to;O
+1705;Room 600;LOCATION
+1705;with;O
+1705;Antibiotics.;O
+1706;Take;ACTION
+1706;Tylenol;MEDICINE
+1706;to;O
+1706;Room 101.;LOCATION
+1707;Bring;ACTION
+1707;Cough;O
+1707;Syrup;O
+1707;to;O
+1707;ICU.;O
+1708;Go;ACTION
+1708;to;O
+1708;Room 515;LOCATION
+1708;with;O
+1708;Aspirin.;O
+1709;Proceed;ACTION
+1709;to;O
+1709;Room 236;LOCATION
+1709;with;O
+1709;Antibiotics.;O
+1710;Go;ACTION
+1710;to;O
+1710;reception;LOCATION
+1710;with;O
+1710;Penicillin.;O
+1711;Send;ACTION
+1711;Penicillin;MEDICINE
+1711;to;O
+1711;Room 221.;LOCATION
+1712;Proceed;ACTION
+1712;to;O
+1712;reception;LOCATION
+1712;with;O
+1712;Ibuprofen.;O
+1713;Bring;ACTION
+1713;Ibuprofen;MEDICINE
+1713;to;O
+1713;Room 121.;LOCATION
+1714;Navigate;ACTION
+1714;to;O
+1714;nurse station;LOCATION
+1714;with;O
+1714;Tylenol.;O
+1715;Proceed;ACTION
+1715;to;O
+1715;Room 252;LOCATION
+1715;with;O
+1715;Antibiotics.;O
+1716;Transport;ACTION
+1716;Paracetamol;MEDICINE
+1716;to;O
+1716;Room game;LOCATION
+1716;385.;O
+1717;Go;ACTION
+1717;to;O
+1717;doctors room;LOCATION
+1717;with;O
+1717;Paracetamol.;O
+1718;Transport;ACTION
+1718;Aspirin;MEDICINE
+1718;to;O
+1718;Room 554.;LOCATION
+1719;Deliver;ACTION
+1719;Aspirin;MEDICINE
+1719;to;O
+1719;specific;O
+1719;doctors_room.;O
+1720;Bring;ACTION
+1720;Cough;O
+1720;Syrup;O
+1720;to;O
+1720;nurse_station.;O
+1721;nurse;O
+1721;to;O
+1721;Head towards;ACTION
+1721;with;O
+1721;Antibiotics.;O
+1721;station;O
+1722;Send;ACTION
+1722;Cough;O
+1722;Syrup;O
+1722;to;O
+1722;Room 466.;LOCATION
+1723;to;O
+1723;Room Transport;LOCATION
+1723;165.;O
+1723;Ibuprofen;MEDICINE
+1724;RECEPTION;LOCATION
+1724;to;O
+1724;Penicillin.;O
+1724;Proceed;ACTION
+1724;with;O
+1725;Room 123;LOCATION
+1725;to;O
+1725;Head;O
+1725;with;O
+1725;Penicillin.;O
+1725;towards;O
+1726;Transport;ACTION
+1726;Tylenol;MEDICINE
+1726;to;O
+1726;Room 166.;LOCATION
+1727;Deliver;ACTION
+1727;Cough;O
+1727;Syrup;O
+1727;to;O
+1727;ICU.;O
+1728;Transport;ACTION
+1728;Aspirin;MEDICINE
+1728;to;O
+1728;Room 217.;LOCATION
+1729;Go;ACTION
+1729;to;O
+1729;Room 517;LOCATION
+1729;with;O
+1729;Penicillin.;O
+1730;Go;ACTION
+1730;to;O
+1730;Room 299;LOCATION
+1730;with;O
+1730;Tylenol.;O
+1731;Head towards;ACTION
+1731;to;O
+1731;doctors room;LOCATION
+1731;with;O
+1731;Tylenol.;O
+1732;Take;ACTION
+1732;Antibiotics;MEDICINE
+1732;to;O
+1732;reception.;O
+1733;Deliver;ACTION
+1733;Aspirin;MEDICINE
+1733;to;O
+1733;Room 307.;LOCATION
+1734;Head towards;ACTION
+1734;to;O
+1734;Room 483;LOCATION
+1734;with;O
+1734;Paracetamol.;O
+1735;Bring;ACTION
+1735;Antibiotics;MEDICINE
+1735;to;O
+1735;reception.;O
+1736;Head towards;ACTION
+1736;to;O
+1736;ICU;LOCATION
+1736;with;O
+1736;Aspirin.;O
+1737;to;O
+1737;Transport;ACTION
+1737;doctors;O
+1737;Antibiotics;MEDICINE
+1737;room.;O
+1738;Transport;ACTION
+1738;Aspirin;MEDICINE
+1738;to;O
+1738;doctors_room.;O
+1739;head;O
+1739;towards;O
+1739;Take;ACTION
+1739;Paracetamol;MEDICINE
+1739;to;O
+1739;nurse_station.;O
+1740;Head towards;ACTION
+1740;to;O
+1740;ICU;LOCATION
+1740;with;O
+1740;Tylenol.;O
+1741;Proceed;ACTION
+1741;to;O
+1741;Room 449;LOCATION
+1741;with;O
+1741;Antibiotics.;O
+1742;Head towards;ACTION
+1742;to;O
+1742;Room 320;LOCATION
+1742;with;O
+1742;Aspirin.;O
+1743;ICU;LOCATION
+1743;Antibiotics;MEDICINE
+1743;to;O
+1743;reception.;O
+1744;Navigate;ACTION
+1744;to;O
+1744;doctors room;LOCATION
+1744;with;O
+1744;Penicillin.;O
+1745;Transport;ACTION
+1745;Penicillin;MEDICINE
+1745;to;O
+1745;nurse_station.;O
+1746;Navigate;ACTION
+1746;to;O
+1746;Room 382;LOCATION
+1746;with;O
+1746;Tylenol.;O
+1747;Send;ACTION
+1747;Aspirin;MEDICINE
+1747;to;O
+1747;Room 485.;LOCATION
+1748;Send;ACTION
+1748;Antibiotics;MEDICINE
+1748;to;O
+1748;emergency_room.;O
+1749;Bring;ACTION
+1749;Paracetamol;MEDICINE
+1749;to;O
+1749;emergency_room.;O
+1750;Send;ACTION
+1750;Paracetamol;MEDICINE
+1750;to;O
+1750;Room 550.;LOCATION
+1751;Take;ACTION
+1751;Penicillin;MEDICINE
+1751;to;O
+1751;doctors_room.;O
+1752;Navigate;ACTION
+1752;to;O
+1752;Room 476;LOCATION
+1752;with;O
+1752;Cough;O
+1752;Syrup.;O
+1753;Navigate;ACTION
+1753;to;O
+1753;emergency room;LOCATION
+1753;with;O
+1753;Aspirin.;O
+1754;Head towards;ACTION
+1754;to;O
+1754;Room 287;LOCATION
+1754;with;O
+1754;Aspirin.;O
+1755;Deliver;ACTION
+1755;Room Paracetamol;LOCATION
+1755;351.;O
+1755;to;O
+1756;Go;ACTION
+1756;to;O
+1756;Room 134;LOCATION
+1756;with;O
+1756;Tylenol.;O
+1757;Take;ACTION
+1757;Ibuprofen;MEDICINE
+1757;to;O
+1757;Room 477.;LOCATION
+1758;Move;ACTION
+1758;to;O
+1758;ICU;LOCATION
+1758;with;O
+1758;Antibiotics.;O
+1759;Transport;ACTION
+1759;Antibiotics;MEDICINE
+1759;to;O
+1759;nurse_station.;O
+1760;Send;ACTION
+1760;Ibuprofen;MEDICINE
+1760;to;O
+1760;Room 377.;LOCATION
+1761;Take;ACTION
+1761;Ibuprofen;MEDICINE
+1761;to;O
+1761;ICU.;O
+1762;Transport;ACTION
+1762;Cough;O
+1762;Syrup;O
+1762;to;O
+1762;Room 522.;LOCATION
+1763;Go;ACTION
+1763;to;O
+1763;Room 281;LOCATION
+1763;with;O
+1763;Tylenol.;O
+1764;Go;ACTION
+1764;to;O
+1764;Room 311;LOCATION
+1764;with;O
+1764;Paracetamol.;O
+1765;Antibiotics;MEDICINE
+1765;to;O
+1765;room.;O
+1765;Take;ACTION
+1765;emergency;O
+1766;Navigate;ACTION
+1766;to;O
+1766;reception;LOCATION
+1766;with;O
+1766;Penicillin.;O
+1767;Send;ACTION
+1767;Antibiotics;MEDICINE
+1767;to;O
+1767;doctors_room.;O
+1768;Head towards;ACTION
+1768;to;O
+1768;doctors room;LOCATION
+1768;with;O
+1768;Antibiotics.;O
+1769;Go;ACTION
+1769;to;O
+1769;nurse station;LOCATION
+1769;with;O
+1769;Tylenol.;O
+1770;Head towards;ACTION
+1770;to;O
+1770;Reception;LOCATION
+1770;with;O
+1770;Aspirin.;O
+1771;Navigate;ACTION
+1771;to;O
+1771;nurse station;LOCATION
+1771;with;O
+1771;Cough;O
+1771;Syrup.;O
+1772;to;O
+1772;Aspirin.;O
+1772;Room with;LOCATION
+1772;418;O
+1772;Go;ACTION
+1773;Transport;ACTION
+1773;Penicillin;MEDICINE
+1773;to;O
+1773;Room 506.;LOCATION
+1774;Send;ACTION
+1774;Cough;O
+1774;Syrup;O
+1774;to;O
+1774;Room 344.;LOCATION
+1775;Go;ACTION
+1775;to;O
+1775;ICU;LOCATION
+1775;with;O
+1775;Ibuprofen.;O
+1776;Transport;ACTION
+1776;Penicillin;MEDICINE
+1776;to;O
+1776;doctors_room.;O
+1777;Navigate;ACTION
+1777;to;O
+1777;Room 105;LOCATION
+1777;with;O
+1777;Ibuprofen.;O
+1778;Go;ACTION
+1778;to;O
+1778;nurse station;LOCATION
+1778;with;O
+1778;Antibiotics.;O
+1779;Take;ACTION
+1779;Ibuprofen;MEDICINE
+1779;to;O
+1779;Room 279.;LOCATION
+1780;Bring;ACTION
+1780;Antibiotics;MEDICINE
+1780;to;O
+1780;emergency_room.;O
+1781;Head towards;ACTION
+1781;to;O
+1781;Room 534;LOCATION
+1781;with;O
+1781;Cough;O
+1781;Syrup.;O
+1782;Go;ACTION
+1782;to;O
+1782;doctors room;LOCATION
+1782;with;O
+1782;Tylenol.;O
+1783;Navigate;ACTION
+1783;to;O
+1783;nurse station;LOCATION
+1783;with;O
+1783;Paracetamol.;O
+1784;Transport;ACTION
+1784;Tylenol;MEDICINE
+1784;head;O
+1784;to;O
+1784;doctors;O
+1784;towards;O
+1784;room.;O
+1785;Transport;ACTION
+1785;Cough;O
+1785;Syrup;O
+1785;to;O
+1785;Room 203.;LOCATION
+1786;Head towards;ACTION
+1786;to;O
+1786;nurse station;LOCATION
+1786;with;O
+1786;Tylenol.;O
+1787;Move;ACTION
+1787;to;O
+1787;reception;LOCATION
+1787;with;O
+1787;Paracetamol.;O
+1788;Navigate;ACTION
+1788;to;O
+1788;doctors room;LOCATION
+1788;with;O
+1788;Paracetamol.;O
+1789;Navigate;ACTION
+1789;to;O
+1789;RECEPTION;LOCATION
+1789;with;O
+1789;Penicillin.;O
+1790;Proceed;ACTION
+1790;to;O
+1790;Room 293;LOCATION
+1790;with;O
+1790;Antibiotics.;O
+1791;Navigate;ACTION
+1791;to;O
+1791;ICU;LOCATION
+1791;with;O
+1791;Cough;O
+1791;Syrup.;O
+1792;Take;ACTION
+1792;Aspirin;MEDICINE
+1792;to;O
+1792;ICU.;O
+1793;Take;ACTION
+1793;Ibuprofen;MEDICINE
+1793;to;O
+1793;Room 455.;LOCATION
+1794;Take;ACTION
+1794;Penicillin;MEDICINE
+1794;to;O
+1794;reception.;O
+1795;Navigate;ACTION
+1795;to;O
+1795;doctors room;LOCATION
+1795;with;O
+1795;Aspirin.;O
+1796;Move;ACTION
+1796;to;O
+1796;emergency room;LOCATION
+1796;with;O
+1796;Aspirin.;O
+1797;Move;ACTION
+1797;to;O
+1797;doctors room;LOCATION
+1797;with;O
+1797;Penicillin.;O
+1798;Navigate;ACTION
+1798;to;O
+1798;Room 176;LOCATION
+1798;with;O
+1798;Penicillin.;O
+1799;Deliver;ACTION
+1799;Penicillin;MEDICINE
+1799;head;O
+1799;to;O
+1799;towards;O
+1799;Room 314.;LOCATION
+1800;Take;ACTION
+1800;Penicillin;MEDICINE
+1800;to;O
+1800;doctors_room.;O
+1801;Deliver;ACTION
+1801;Paracetamol;MEDICINE
+1801;to;O
+1801;Room 487.;LOCATION
+1802;Head towards;ACTION
+1802;to;O
+1802;Room 380;LOCATION
+1802;with;O
+1802;Ibuprofen.;O
+1803;Navigate;ACTION
+1803;to;O
+1803;Room 454;LOCATION
+1803;with;O
+1803;Penicillin.;O
+1804;Bring;ACTION
+1804;Antibiotics;MEDICINE
+1804;to;O
+1804;ICU.;O
+1805;Go;ACTION
+1805;to;O
+1805;Room 594;LOCATION
+1805;with;O
+1805;Penicillin.;O
+1806;Navigate;ACTION
+1806;to;O
+1806;Room 124;LOCATION
+1806;with;O
+1806;Ibuprofen.;O
+1807;Proceed;ACTION
+1807;to;O
+1807;Room 499;LOCATION
+1807;with;O
+1807;Cough;O
+1807;Syrup.;O
+1808;Transport;ACTION
+1808;Penicillin;MEDICINE
+1808;to;O
+1808;Room 460.;LOCATION
+1809;Navigate;ACTION
+1809;watch;O
+1809;to;O
+1809;doctors room;LOCATION
+1809;with;O
+1809;Antibiotics.;O
+1810;Bring;ACTION
+1810;Paracetamol;MEDICINE
+1810;to;O
+1810;nurse_station.;O
+1811;Head towards;ACTION
+1811;to;O
+1811;doctorsfs;O
+1811;Room with;LOCATION
+1811;Paracetamol.;O
+1812;Head towards;ACTION
+1812;to;O
+1812;Room 260;LOCATION
+1812;with;O
+1812;Cough;O
+1812;Syrup.;O
+1813;Navigate;ACTION
+1813;to;O
+1813;Room 443;LOCATION
+1813;with;O
+1813;Aspirin.;O
+1814;Send;ACTION
+1814;Aspirin;MEDICINE
+1814;to;O
+1814;Room 287.;LOCATION
+1815;Transport;ACTION
+1815;Ibuprofen;MEDICINE
+1815;to;O
+1815;Room 152.;LOCATION
+1816;Proceed;ACTION
+1816;to;O
+1816;Room 110;LOCATION
+1816;with;O
+1816;Aspirin.;O
+1817;Transport;ACTION
+1817;Penicillin;MEDICINE
+1817;to;O
+1817;Room 447.;LOCATION
+1818;Take;ACTION
+1818;Ibuprofen;MEDICINE
+1818;to;O
+1818;Room 136.;LOCATION
+1819;Head towards;ACTION
+1819;to;O
+1819;Room 221;LOCATION
+1819;with;O
+1819;Cough;O
+1819;Syrup.;O
+1820;Proceed;ACTION
+1820;to;O
+1820;Room 132;LOCATION
+1820;with;O
+1820;Penicillin.;O
+1821;Send;ACTION
+1821;Cough;O
+1821;Syrup;O
+1821;to;O
+1821;Room 291.;LOCATION
+1822;Go;ACTION
+1822;to;O
+1822;ICU;LOCATION
+1822;with;O
+1822;Penicillin.;O
+1823;Go;ACTION
+1823;to;O
+1823;Room 534;LOCATION
+1823;withrth;O
+1823;Aspirin.;O
+1824;194.;O
+1824;Bring;ACTION
+1824;to;O
+1824;Room Penicillin;LOCATION
+1825;with;O
+1825;Penicillin.;O
+1825;to;O
+1825;Proceed;ACTION
+1825;Reception;LOCATION
+1826;Take;ACTION
+1826;Paracetamol;MEDICINE
+1826;to;O
+1826;Room 473.;LOCATION
+1827;Deliver;ACTION
+1827;Antibiotics;MEDICINE
+1827;to;O
+1827;Room 173.;LOCATION
+1828;Transport;ACTION
+1828;Tylenol;MEDICINE
+1828;to;O
+1828;doctors_room.;O
+1829;Deliver;ACTION
+1829;Cough;O
+1829;Syrup;O
+1829;to;O
+1829;doctors_room.;O
+1830;Move;ACTION
+1830;to;O
+1830;Room 274;LOCATION
+1830;with;O
+1830;Penicillin.;O
+1831;Move;ACTION
+1831;to;O
+1831;RECEPTION;LOCATION
+1831;with;O
+1831;Cough;O
+1831;Syrup.;O
+1832;Go;ACTION
+1832;to;O
+1832;Room 145;LOCATION
+1832;with;O
+1832;Paracetamol.;O
+1833;Move;ACTION
+1833;to;O
+1833;nurse station;LOCATION
+1833;with;O
+1833;Antibiotics.;O
+1834;Move;ACTION
+1834;to;O
+1834;Room 277;LOCATION
+1834;with;O
+1834;Antibiotics.;O
+1835;Bring;ACTION
+1835;Tylenol;MEDICINE
+1835;to;O
+1835;reception.;O
+1836;Go;ACTION
+1836;to;O
+1836;Room 431;LOCATION
+1836;with;O
+1836;Aspirin.;O
+1837;Deliver;ACTION
+1837;Antibiotics;MEDICINE
+1837;to;O
+1837;emergency_room.;O
+1838;Take;ACTION
+1838;Tylenol;MEDICINE
+1838;to;O
+1838;Room 575.;LOCATION
+1839;Head towards;ACTION
+1839;to;O
+1839;Room 422;LOCATION
+1839;with;O
+1839;Paracetamol.;O
+1840;Transport;ACTION
+1840;Ibuprofen;MEDICINE
+1840;to;O
+1840;Room 290.;LOCATION
+1841;Aspirin;MEDICINE
+1841;to;O
+1841;Send;ACTION
+1841;427.;O
+1842;Go;ACTION
+1842;to;O
+1842;reception;LOCATION
+1842;with;O
+1842;Cough;O
+1842;Syrup.;O
+1843;Deliver;ACTION
+1843;Penicillin;MEDICINE
+1843;to;O
+1843;Room 345.;LOCATION
+1844;Navigate;ACTION
+1844;to;O
+1844;doctors room;LOCATION
+1844;with;O
+1844;Penicillin.;O
+1845;Take;ACTION
+1845;Aspirin;MEDICINE
+1845;to;O
+1845;reception.;O
+1845;ICU;LOCATION
+1846;Bring;ACTION
+1846;Cough;O
+1846;Syrup;O
+1846;to;O
+1846;nurse_station.;O
+1847;Aspirin.;O
+1847;with;O
+1847;Move;ACTION
+1847;to;O
+1847;ICU;LOCATION
+1848;Transport;ACTION
+1848;Paracetamol;MEDICINE
+1848;to;O
+1848;Room 461.;LOCATION
+1849;Transport;ACTION
+1849;Ibuprofen;MEDICINE
+1849;to;O
+1849;Room 399.;LOCATION
+1850;Move;ACTION
+1850;to;O
+1850;emergency room;LOCATION
+1850;with;O
+1850;Penicillin.;O
+1851;Head towards;ACTION
+1851;to;O
+1851;Room 557;LOCATION
+1851;with;O
+1851;Ibuprofen.;O
+1852;Go;ACTION
+1852;to;O
+1852;Room 236;LOCATION
+1852;with;O
+1852;Antibiotics.;O
+1853;Move;ACTION
+1853;to;O
+1853;Room 270;LOCATION
+1853;with;O
+1853;Penicillin.;O
+1854;Transport;ACTION
+1854;Tylenol;MEDICINE
+1854;to;O
+1854;use;O
+1854;ICU.;O
+1855;Navigate;ACTION
+1855;to;O
+1855;Room 171;LOCATION
+1855;with;O
+1855;Antibiotics.;O
+1856;Deliver;ACTION
+1856;Ibuprofen;MEDICINE
+1856;to;O
+1856;Room 593.;LOCATION
+1857;Send;ACTION
+1857;Paracetamol;MEDICINE
+1857;to;O
+1857;ICU.;O
+1858;Head towards;ACTION
+1858;to;O
+1858;emergency room;LOCATION
+1858;with;O
+1858;Aspirin.;O
+1859;Head towards;ACTION
+1859;to;O
+1859;Room 234;LOCATION
+1859;with;O
+1859;Aspirin.;O
+1860;Take;ACTION
+1860;Paracetamol;MEDICINE
+1860;to;O
+1860;reception.;O
+1861;Proceed;ACTION
+1861;to;O
+1861;nurse station;LOCATION
+1861;with;O
+1861;Antibiotics.;O
+1862;Take;ACTION
+1862;Ibuprofen;MEDICINE
+1862;to;O
+1862;Room 543.;LOCATION
+1863;Send;ACTION
+1863;Antibiotics;MEDICINE
+1863;to;O
+1863;reception.;O
+1864;Proceed;ACTION
+1864;to;O
+1864;Room 455;LOCATION
+1864;wikith;O
+1864;Tylenol.;O
+1865;Move;ACTION
+1865;to;O
+1865;Room 489;LOCATION
+1865;with;O
+1865;Penicillin.;O
+1866;Send;ACTION
+1866;Paracetamol;MEDICINE
+1866;to;O
+1866;Room 105.;LOCATION
+1867;Transport;ACTION
+1867;Tylenol;MEDICINE
+1867;to;O
+1867;Room 196.;LOCATION
+1868;Move;ACTION
+1868;to;O
+1868;Reception;LOCATION
+1868;with;O
+1868;Penicillin.;O
+1869;Bring;ACTION
+1869;Penicillin;MEDICINE
+1869;to;O
+1869;Room 561.;LOCATION
+1870;with;O
+1870;to;O
+1870;Antibiotics.;O
+1870;Room Proceed;LOCATION
+1870;emergency;O
+1871;Take;ACTION
+1871;to;O
+1871;reception.;O
+1871;Tylenol;MEDICINE
+1872;Deliver;ACTION
+1872;Antibiotics;MEDICINE
+1872;to;O
+1872;Room 281.;LOCATION
+1873;Move;ACTION
+1873;to;O
+1873;doctors room;LOCATION
+1873;with;O
+1873;Antibiotics.;O
+1874;Bring;ACTION
+1874;Antibiotics;MEDICINE
+1874;to;O
+1874;Room 591.;LOCATION
+1875;Move;ACTION
+1875;to;O
+1875;ICU;LOCATION
+1875;with;O
+1875;Paracetamol.;O
+1876;Navigate;ACTION
+1876;to;O
+1876;Room 421;LOCATION
+1876;with;O
+1876;Paracetamol.;O
+1877;Go;ACTION
+1877;to;O
+1877;Room 155;LOCATION
+1877;with;O
+1877;Antibiotics.;O
+1878;Proceed;ACTION
+1878;to;O
+1878;ICU;LOCATION
+1878;with;O
+1878;Ibuprofen.;O
+1879;Take;ACTION
+1879;Ibuprofen;MEDICINE
+1879;to;O
+1879;ICU.;O
+1880;Move;ACTION
+1880;to;O
+1880;ICU;LOCATION
+1880;with;O
+1880;Cough;O
+1880;Syrup.;O
+1881;Head towards;ACTION
+1881;to;O
+1881;emergency;O
+1881;different;O
+1881;Room with;LOCATION
+1881;Paracetamol.;O
+1882;Head towards;ACTION
+1882;to;O
+1882;Room 307;LOCATION
+1882;with;O
+1882;Antibiotics.;O
+1883;Move;ACTION
+1883;to;O
+1883;Room 489;LOCATION
+1883;with;O
+1883;Aspirin.;O
+1884;Proceed;ACTION
+1884;to;O
+1884;doctors room;LOCATION
+1884;with;O
+1884;piece;O
+1884;Penicillin.;O
+1885;Head towards;ACTION
+1885;to;O
+1885;ICU;LOCATION
+1885;with;O
+1885;Tylenol.;O
+1886;to;O
+1886;Ibuprofen.;O
+1886;Room with;LOCATION
+1886;emergency;O
+1886;Move;ACTION
+1887;Deliver;ACTION
+1887;Penicillin;MEDICINE
+1887;to;O
+1887;reception.;O
+1888;Navigate;ACTION
+1888;to;O
+1888;nurse station;LOCATION
+1888;with;O
+1888;Ibuprofen.;O
+1889;head;O
+1889;Transport;ACTION
+1889;Penicillin;MEDICINE
+1889;to;O
+1889;Room 525.;LOCATION
+1889;towards;O
+1890;Deliver;ACTION
+1890;Antibiotics;MEDICINE
+1890;to;O
+1890;Room 291.;LOCATION
+1891;Navigate;ACTION
+1891;to;O
+1891;Room 503;LOCATION
+1891;with;O
+1891;Aspirin.;O
+1892;Take;ACTION
+1892;Paracetamol;MEDICINE
+1892;to;O
+1892;Room 521.;LOCATION
+1893;Room to;LOCATION
+1893;559;O
+1893;Ibuprofen.;O
+1893;with;O
+1893;Navigate;ACTION
+1894;Send;ACTION
+1894;Antibiotics;MEDICINE
+1894;to;O
+1894;nurse_station.;O
+1895;Proceed;ACTION
+1895;to;O
+1895;doctors room;LOCATION
+1895;with;O
+1895;Antibiotics.;O
+1896;with;O
+1896;ICU;LOCATION
+1896;Penicillin.;O
+1896;Head;O
+1896;to;O
+1896;towards;O
+1897;Send;ACTION
+1897;Cough;O
+1897;Syrup;O
+1897;to;O
+1897;doctors_room.;O
+1898;Navigate;ACTION
+1898;to;O
+1898;emergency room;LOCATION
+1898;with;O
+1898;Penicillin.;O
+1899;Go;ACTION
+1899;to;O
+1899;Room 580;LOCATION
+1899;with;O
+1899;Ibuprofen.;O
+1900;Deliver;ACTION
+1900;Antibiotics;MEDICINE
+1900;to;O
+1900;doctors_room.;O
+1901;Take;ACTION
+1901;Tylenol;MEDICINE
+1901;to;O
+1901;Room 279.;LOCATION
+1902;Go;ACTION
+1902;to;O
+1902;Room 177;LOCATION
+1902;with;O
+1902;Ibuprofen.;O
+1903;Send;ACTION
+1903;Cough;O
+1903;Syrup;O
+1903;to;O
+1903;Room 439.;LOCATION
+1904;to;O
+1904;Antibiotics.;O
+1904;Reception;LOCATION
+1904;with;O
+1904;Proceed;ACTION
+1905;Move;ACTION
+1905;to;O
+1905;doctors room;LOCATION
+1905;with;O
+1905;Aspirin.;O
+1906;Proceed;ACTION
+1906;to;O
+1906;Room 133;LOCATION
+1906;with;O
+1906;Ibuprofen.;O
+1907;Transport;ACTION
+1907;Cough;O
+1907;Syrup;O
+1907;to;O
+1907;Room 460.;LOCATION
+1908;Move;ACTION
+1908;to;O
+1908;RECEPTION;LOCATION
+1908;with;O
+1908;Peyicillin.;O
+1909;Proceed;ACTION
+1909;to;O
+1909;Room 142;LOCATION
+1909;with;O
+1909;Ibuprofen.;O
+1910;Send;ACTION
+1910;Aspirin;MEDICINE
+1910;to;O
+1910;emergency_room.;O
+1911;Head towards;ACTION
+1911;to;O
+1911;ICU;LOCATION
+1911;with;O
+1911;Aspirin.;O
+1912;Deliver;ACTION
+1912;Tylenol;MEDICINE
+1912;to;O
+1912;ICU.;O
+1913;Go;ACTION
+1913;to;O
+1913;Room 195;LOCATION
+1913;with;O
+1913;Cough;O
+1913;Syrup.;O
+1914;Go;ACTION
+1914;to;O
+1914;Room 362;LOCATION
+1914;with;O
+1914;Paracetamol.;O
+1915;Move;ACTION
+1915;to;O
+1915;RECEPTION;LOCATION
+1915;with;O
+1915;Aspirin.;O
+1916;Move;ACTION
+1916;to;O
+1916;ICU;LOCATION
+1916;with;O
+1916;Ibuprofen.;O
+1917;Navigate;ACTION
+1917;to;O
+1917;emergency room;LOCATION
+1917;with;O
+1917;Ibuprofen.;O
+1918;Take;ACTION
+1918;Tylenol;MEDICINE
+1918;to;O
+1918;Room 298.;LOCATION
+1919;Navigate;ACTION
+1919;to;O
+1919;doctors room;LOCATION
+1919;with;O
+1919;Tylenol.;O
+1920;Head towards;ACTION
+1920;to;O
+1920;doctors room;LOCATION
+1920;with;O
+1920;Paracetamol.;O
+1921;Navigate;ACTION
+1921;to;O
+1921;emergency room;LOCATION
+1921;with;O
+1921;Ibuprofen.;O
+1922;Proceed;ACTION
+1922;to;O
+1922;reception;LOCATION
+1922;with;O
+1922;Ibuprofen.;O
+1923;Transport;ACTION
+1923;Penicillin;MEDICINE
+1923;to;O
+1923;Room 385.;LOCATION
+1924;Bring;ACTION
+1924;Antibiotics;MEDICINE
+1924;to;O
+1924;emergency_room.;O
+1925;Send;ACTION
+1925;Cough;O
+1925;Syrup;O
+1925;to;O
+1925;nurse_station.;O
+1926;Proceed;ACTION
+1926;to;O
+1926;doctors;O
+1926;fear;O
+1926;Room with;LOCATION
+1926;Paracetamol.;O
+1927;Send;ACTION
+1927;Antibiotics;MEDICINE
+1927;to;O
+1927;Room 243.;LOCATION
+1928;Take;ACTION
+1928;Paracetamol;MEDICINE
+1928;to;O
+1928;Room 193.;LOCATION
+1929;Transport;ACTION
+1929;Cough;O
+1929;Syrup;O
+1929;to;O
+1929;Room 402.;LOCATION
+1930;Move;ACTION
+1930;to;O
+1930;doctors room;LOCATION
+1930;with;O
+1930;Penicillin.;O
+1931;Head towards;ACTION
+1931;to;O
+1931;Room 583;LOCATION
+1931;with;O
+1931;Penicillin.;O
+1932;Transport;ACTION
+1932;Antibiotics;MEDICINE
+1932;to;O
+1932;ICU.;O
+1933;Proceed;ACTION
+1933;to;O
+1933;manager;O
+1933;Room 565;LOCATION
+1933;with;O
+1933;Aspirin.;O
+1934;Head towards;ACTION
+1934;to;O
+1934;emergency room;LOCATION
+1934;with;O
+1934;Tylenol.;O
+1935;Deliver;ACTION
+1935;Antibiotics;MEDICINE
+1935;to;O
+1935;Room 428.;LOCATION
+1936;Transport;ACTION
+1936;Penicillin;MEDICINE
+1936;to;O
+1936;Room 556.;LOCATION
+1937;Send;ACTION
+1937;Penicillin;MEDICINE
+1937;to;O
+1937;reception.;O
+1938;Take;ACTION
+1938;Paracetamol;MEDICINE
+1938;to;O
+1938;ICU.;O
+1939;Send;ACTION
+1939;Ibuprofen;MEDICINE
+1939;to;O
+1939;Room 352.;LOCATION
+1940;Take;ACTION
+1940;Penicillin;MEDICINE
+1940;to;O
+1940;Room 571.;LOCATION
+1941;Aspirin.;O
+1941;373;O
+1941;to;O
+1941;with;O
+1941;Proceed;ACTION
+1942;Proceed;ACTION
+1942;to;O
+1942;Room 518;LOCATION
+1942;with;O
+1942;Cough;O
+1942;Syrup.;O
+1943;Take;ACTION
+1943;Cough;O
+1943;Syrup;O
+1943;to;O
+1943;Room 461.;LOCATION
+1944;Bring;ACTION
+1944;Paracetamol;MEDICINE
+1944;to;O
+1944;nurse_station.;O
+1945;Send;ACTION
+1945;Antibiotics;MEDICINE
+1945;to;O
+1945;nurse_station.;O
+1946;Navigate;ACTION
+1946;to;O
+1946;ICU;LOCATION
+1946;with;O
+1946;Tylenol.;O
+1947;Transport;ACTION
+1947;Ibuprofen;MEDICINE
+1947;to;O
+1947;Room 196.;LOCATION
+1948;Aspirin;MEDICINE
+1948;Deliver;ACTION
+1948;to;O
+1948;261.;O
+1949;Move;ACTION
+1949;to;O
+1949;ICU;LOCATION
+1949;with;O
+1949;Penicillin.;O
+1950;Take;ACTION
+1950;Paracetamol;MEDICINE
+1950;to;O
+1950;Reception;LOCATION
+1950;Room 492.;LOCATION
+1951;Move;ACTION
+1951;tolo;O
+1951;nurse station;LOCATION
+1951;with;O
+1951;Aspirin.;O
+1952;Deliver;ACTION
+1952;Penicillin;MEDICINE
+1952;to;O
+1952;nurse_station.;O
+1953;with;O
+1953;nurse station;LOCATION
+1953;Tylenol.;O
+1953;Proceed;ACTION
+1953;to;O
+1954;Room with;LOCATION
+1954;Proceed;ACTION
+1954;172;O
+1954;to;O
+1954;Tylenol.;O
+1955;Head towards;ACTION
+1955;to;O
+1955;reception;LOCATION
+1955;with;O
+1955;Antibiotics.;O
+1956;Transport;ACTION
+1956;Antibiotics;MEDICINE
+1956;to;O
+1956;reception.;O
+1957;to;O
+1957;Head;O
+1957;reception;LOCATION
+1957;towards;O
+1957;Tylenol.;O
+1957;with;O
+1958;Bring;ACTION
+1958;Antibiotics;MEDICINE
+1958;to;O
+1958;Room 507.;LOCATION
+1959;Deliver;ACTION
+1959;Tylenol;MEDICINE
+1959;to;O
+1959;Room 117.;LOCATION
+1960;Go;ACTION
+1960;to;O
+1960;Room 371;LOCATION
+1960;with;O
+1960;Tylenol.;O
+1961;Send;ACTION
+1961;Antibiotics;MEDICINE
+1961;to;O
+1961;Room 231.;LOCATION
+1962;Bring;ACTION
+1962;Ibuprofen;MEDICINE
+1962;to;O
+1962;Room 183.;LOCATION
+1963;Move;ACTION
+1963;to;O
+1963;Room 525;LOCATION
+1963;with;O
+1963;Tylenol.;O
+1964;Head towards;ACTION
+1964;to;O
+1964;reception;LOCATION
+1964;with;O
+1964;Aspirin.;O
+1965;Take;ACTION
+1965;Antibiotics;MEDICINE
+1965;to;O
+1965;ICUw.;O
+1966;Proceed;ACTION
+1966;to;O
+1966;nurse station;LOCATION
+1966;with;O
+1966;Cough;O
+1966;Syrup.;O
+1967;Head towards;ACTION
+1967;to;O
+1967;Room 4k88;LOCATION
+1967;with;O
+1967;Tylenol.;O
+1968;Proceed;ACTION
+1968;to;O
+1968;ICU;LOCATION
+1968;with;O
+1968;Penicillin.;O
+1969;Proceed;ACTION
+1969;to;O
+1969;ICU;LOCATION
+1969;with;O
+1969;Paracetamol.;O
+1970;with;O
+1970;Proceed;ACTION
+1970;Antibiotics.;O
+1970;to;O
+1970;Room 570;LOCATION
+1971;Proceed;ACTION
+1971;to;O
+1971;Room 257;LOCATION
+1971;with;O
+1971;Paracetamol.;O
+1972;Navigate;ACTION
+1972;to;O
+1972;doctors room;LOCATION
+1972;with;O
+1972;Tylenol.;O
+1973;Navigate;ACTION
+1973;to;O
+1973;Room 547;LOCATION
+1973;with;O
+1973;Paracetamol.;O
+1974;Take;ACTION
+1974;Penicillin;MEDICINE
+1974;to;O
+1974;nurse_station.;O
+1975;Transport;ACTION
+1975;team;O
+1975;Ibuprofen;MEDICINE
+1975;to;O
+1975;emergency_room.;O
+1976;Transport;ACTION
+1976;Aspirin;MEDICINE
+1976;to;O
+1976;doctors_room.;O
+1977;Take;ACTION
+1977;Ibuprofen;MEDICINE
+1977;to;O
+1977;doctors_room.;O
+1978;Send;ACTION
+1978;Cough;O
+1978;Syrup;O
+1978;to;O
+1978;nurse_station.;O
+1979;Go;ACTION
+1979;to;O
+1979;doctors room;LOCATION
+1979;with;O
+1979;Tylenol.;O
+1980;Move;ACTION
+1980;to;O
+1980;emergency room;LOCATION
+1980;with;O
+1980;Ibuprofen.;O
+1981;attention;O
+1981;Navigate;ACTION
+1981;to;O
+1981;Room 410;LOCATION
+1981;with;O
+1981;Antibiotics.;O
+1982;Bring;ACTION
+1982;Paracetamol;MEDICINE
+1982;to;O
+1982;reception.;O
+1983;Navigate;ACTION
+1983;to;O
+1983;Room 574;LOCATION
+1983;with;O
+1983;Antibiotics.;O
+1984;Take;ACTION
+1984;Ibuprofen;MEDICINE
+1984;to;O
+1984;nurse_station.;O
+1985;Head towards;ACTION
+1985;quickly;O
+1985;to;O
+1985;Room 417;LOCATION
+1985;with;O
+1985;Penicillin.;O
+1986;Proceed;ACTION
+1986;to;O
+1986;emergency room;LOCATION
+1986;with;O
+1986;Penicillin.;O
+1987;Go;ACTION
+1987;to;O
+1987;Room 486;LOCATION
+1987;with;O
+1987;Antibiotics.;O
+1988;Proceed;ACTION
+1988;to;O
+1988;Reception;LOCATION
+1988;with;O
+1988;Ibuprofen.;O
+1989;Deliver;ACTION
+1989;Antibiotics;MEDICINE
+1989;to;O
+1989;Room 125.;LOCATION
+1990;Transport;ACTION
+1990;Ibuprofen;MEDICINE
+1990;to;O
+1990;Room 331.;LOCATION
+1991;Move;ACTION
+1991;to;O
+1991;doctors room;LOCATION
+1991;with;O
+1991;Paracetamol.;O
+1992;Room 464;LOCATION
+1992;to;O
+1992;Navigate;ACTION
+1992;with;O
+1992;Antibiotics.;O
+1993;Bring;ACTION
+1993;Aspirin;MEDICINE
+1993;to;O
+1993;Room 332.;LOCATION
+1994;Move;ACTION
+1994;team;O
+1994;to;O
+1994;Room 283;LOCATION
+1994;with;O
+1994;Aspirin.;O
+1995;head;O
+1995;Proceed;ACTION
+1995;to;O
+1995;Room 547;LOCATION
+1995;towards;O
+1995;with;O
+1995;Cough;O
+1995;Syrup.;O
+1996;Proceed;ACTION
+1996;to;O
+1996;Room 526;LOCATION
+1996;with;O
+1996;Penicillin.;O
+1997;Proceed;ACTION
+1997;to;O
+1997;ICU;LOCATION
+1997;with;O
+1997;Paracetamol.;O
+1998;Toke;O
+1998;Cough;O
+1998;Syrup;O
+1998;to;O
+1998;Room 484.;LOCATION
+1999;472.;O
+1999;Room to;LOCATION
+1999;Antibiotics;MEDICINE
+1999;Deliver;ACTION
+2000;Transport;ACTION
+2000;Paracetamol;MEDICINE
+2000;to;O
+2000;nurse_station.;O
